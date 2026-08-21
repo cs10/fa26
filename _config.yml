@@ -22,7 +22,7 @@ author: Nahee Jeong
 color_scheme: light
 
 # TODO(setup): Set this to the semester, e.g. /sp24, (faXX / spXX / suXX / wiXX )
-baseurl: '/sp26' # the subpath of your site, which should just be the semester.
+baseurl: '/fa26' # the subpath of your site, which should just be the semester.
 # TODO(setup): Set this to your course's domain
 url: 'http://cs10.org' # the hostname & protocol for your site, e.g. http://example.com
 
