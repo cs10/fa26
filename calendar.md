@@ -7,15 +7,15 @@ nav_order: 2
 
 # Weekly Calendar (Updated Each Week)
 
-<div style="background-color:#fef7e0; border-left:4px solid #f9ab00; border-radius:4px; padding:0.75rem 1rem; margin-bottom:1rem;">
-  🚧 <strong>This page is still under construction. The content on this page is likely inaccurate. For urgent information requests, please contact cs10@berkeley.edu </strong>
+<div style="background-color:#e6f4ea; border-left:4px solid #34a853; border-radius:4px; padding:0.75rem 1rem; margin-bottom:1rem;">
+  ✅ <strong>This page has been verified against the Fa26 schedule as of 8/21.</strong>
 </div>
 
 If the calendar below appears blank, make sure you're signed in to your Berkeley email!
 
 <iframe
   title="CS10 Fall 2026 Course Calendar"
-  src="https://calendar.google.com/calendar/embed?ctz=America%2FLos_Angeles&mode=WEEK&src=c_4296da38b14c3467e90e79dc24660089f5235ef57bbdecabcc519206a7ea5004%40group.calendar.google.com"
+  src="https://calendar.google.com/calendar/embed?ctz=America%2FLos_Angeles&mode=WEEK&src=c_72444d5742d977513332f836ef1baf8d2961898851e6717a14f46ba51ddbbd7b%40group.calendar.google.com"
   style="border: solid 1px #777"
   width="800"
   height="600"
@@ -23,7 +23,7 @@ If the calendar below appears blank, make sure you're signed in to your Berkeley
   scrolling="no">
 </iframe>
 
-To add these calendars to your Google Calendar, use <a href="https://calendar.google.com/calendar/ical/c_4296da38b14c3467e90e79dc24660089f5235ef57bbdecabcc519206a7ea5004%40group.calendar.google.com/public/basic.ics">(this link)</a>
+To add these calendars to your Google Calendar, use <a href="https://calendar.google.com/calendar/u/0/r?cid=c_72444d5742d977513332f836ef1baf8d2961898851e6717a14f46ba51ddbbd7b%40group.calendar.google.com">(this link)</a>
 
 
 
