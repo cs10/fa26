@@ -13,7 +13,7 @@ nav_order: 5
   🚧 <strong>This page is still under construction. The content on this page is likely inaccurate. For urgent information requests, please contact cs10@berkeley.edu </strong>
 </div>
 
-Below, you can find various resources to help with your understanding of the material throughout the summer.
+Below, you can find various resources to help with your understanding of the material throughout the semester.
 
 ## Lab Resources
 
