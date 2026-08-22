@@ -7,6 +7,10 @@ nav_order: 10
 
 # Joining CS 10 Late – What You Need to Know
 
+<div style="background-color:#fef7e0; border-left:4px solid #f9ab00; border-radius:4px; padding:0.75rem 1rem; margin-bottom:1rem;">
+  🚧 <strong>This page is still under construction. The content on this page is likely inaccurate. For urgent information requests, please contact cs10@berkeley.edu </strong>
+</div>
+
 ## Can I still catch up?  
 **Yes!** With effort, you can get up to speed.
 

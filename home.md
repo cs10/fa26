@@ -10,6 +10,11 @@ nav_order: 1
 ---
 
 # **CS 10: The Beauty and Joy of Computing**
+
+<div style="background-color:#fef7e0; border-left:4px solid #f9ab00; border-radius:4px; padding:0.75rem 1rem; margin-bottom:1rem;">
+  🚧 <strong>This page is still under construction. The content on this page is likely inaccurate. For urgent information requests, please contact cs10@berkeley.edu </strong>
+</div>
+
 UC Berkeley, Spring 2026
 
 {{ site.description }}

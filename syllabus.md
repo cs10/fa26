@@ -9,6 +9,9 @@ description: Course policies and information.
 # Syllabus
 {:.no_toc}
 
+<div style="background-color:#fef7e0; border-left:4px solid #f9ab00; border-radius:4px; padding:0.75rem 1rem; margin-bottom:1rem;">
+  🚧 <strong>This page is still under construction. The content on this page is likely inaccurate. For urgent information requests, please contact cs10@berkeley.edu </strong>
+</div>
 
 ## Table of contents
 {: .no_toc .text-delta }

@@ -8,6 +8,10 @@ nav_order: 7
 
 # Discussion
 
+<div style="background-color:#fef7e0; border-left:4px solid #f9ab00; border-radius:4px; padding:0.75rem 1rem; margin-bottom:1rem;">
+  🚧 <strong>This page is still under construction. The content on this page is likely inaccurate. For urgent information requests, please contact cs10@berkeley.edu </strong>
+</div>
+
 This page will be updated with discussion Worksheets and Solutions throughout the semester. Recordings will be released periodically.
 
 > Discussion worksheets only need to be turned in if you did not attend discussion in-person or if your attendance was not logged in iClicker. In this case, the worksheets are due before the next discussion. All due dates can be found in Gradescope under the assignment. 

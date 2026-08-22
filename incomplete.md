@@ -7,6 +7,10 @@ nav_order: 11
 
 # Resolving your Incomplete / Continuing Work Grade
 
+<div style="background-color:#fef7e0; border-left:4px solid #f9ab00; border-radius:4px; padding:0.75rem 1rem; margin-bottom:1rem;">
+  🚧 <strong>This page is still under construction. The content on this page is likely inaccurate. For urgent information requests, please contact cs10@berkeley.edu </strong>
+</div>
+
 Here you will find logistics about resolving your grade, along with next steps and the forms needed to submit.
 
 ## What should I do first?

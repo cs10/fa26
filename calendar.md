@@ -7,6 +7,10 @@ nav_order: 2
 
 # Weekly Calendar (Updated Each Week)
 
+<div style="background-color:#fef7e0; border-left:4px solid #f9ab00; border-radius:4px; padding:0.75rem 1rem; margin-bottom:1rem;">
+  🚧 <strong>This page is still under construction. The content on this page is likely inaccurate. For urgent information requests, please contact cs10@berkeley.edu </strong>
+</div>
+
 If the calendar below appears blank, make sure you're signed in to your Berkeley email!
 
 <iframe

@@ -7,6 +7,10 @@ nav_order: 6
 
 # Projects
 
+<div style="background-color:#fef7e0; border-left:4px solid #f9ab00; border-radius:4px; padding:0.75rem 1rem; margin-bottom:1rem;">
+  🚧 <strong>This page is still under construction. The content on this page is likely inaccurate. For urgent information requests, please contact cs10@berkeley.edu </strong>
+</div>
+
 > This page will be updated with CS10's project specifications/guidelines (specs) and walkthroughs. Recordings, if available, will also be updated here. 
 
 > Project specs may change; they are under construction until the day they are released. Please read the specs in full, as they contain specific information on what you need to complete and how to complete those tasks.
