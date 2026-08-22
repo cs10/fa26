@@ -11,7 +11,7 @@ nav_order: 1
 
 # **CS 10: The Beauty and Joy of Computing**
 
-UC Berkeley, Spring 2026
+UC Berkeley, Fall 2026
 
 {{ site.description }}
 
