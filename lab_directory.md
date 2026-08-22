@@ -6,7 +6,7 @@ nav_order: 8
 ---
 # Labs
 
-Lab Slides: [here](https://drive.google.com/drive/folders/1aAkCl8LahgMF5AWwjGCoP5HgiPAHnjrq?usp=drive_link)
+Lab Slides: [Jaclyn's Lab (801L)](https://drive.google.com/drive/folders/1nlxHC011EkUgz9csZpY1u-L6l_oAODM3?usp=drive_link) | [Elise's Lab (802L)](https://drive.google.com/drive/folders/13bsl0EVZKhPkAir1gWGS2_OHGSCpWRkC?usp=drive_link)
 
 > Labs are an opportunity for you to apply what you've learned in lecture in code (and other forms). All labs have a conceptual and a coding component unless otherwise specified. All lab assignments must be uploaded and autograded using Gradescope; the Gradescope link can be found on the worksheet. The Practice Midterm and Practice Postterm will count towards your lab grade. You will need to take both the coding and non-coding portions of these practice exams to receive credit. Credit for the practice exams is based on completion only, not the score you received on the practice exam.
 
