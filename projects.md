@@ -7,8 +7,8 @@ nav_order: 6
 
 # Projects
 
-<div style="background-color:#fef7e0; border-left:4px solid #f9ab00; border-radius:4px; padding:0.75rem 1rem; margin-bottom:1rem;">
-  🚧 <strong>This page is still under construction. The content on this page is likely inaccurate. For urgent information requests, please contact cs10@berkeley.edu </strong>
+<div style="background-color:#e6f4ea; border-left:4px solid #34a853; border-radius:4px; padding:0.75rem 1rem; margin-bottom:1rem;">
+  ✅ <strong>This page has been verified against the Fa26 schedule as of 8/22.</strong>
 </div>
 
 > This page will be updated with CS10's project specifications/guidelines (specs) and walkthroughs. Recordings, if available, will also be updated here. 
@@ -70,7 +70,7 @@ nav_order: 6
       <!-- <td><a href="https://docs.google.com/document/d/1N2R6tw35zo9M3eLd_E64V0EzxRUKq08VZPGb9oN9w9k/edit?usp=sharing">Presenting Instructions</a></td> -->
       <td>Presenting Instructions</td>
       <td style="max-width:120px;">-</td>
-      <td>Friday, 10/30</td>
+      <td>Friday, 10/30, in discussion section</td>
     </tr>
     <tr>
       <td>Project 4: Feedback + Comments</td>
@@ -86,7 +86,7 @@ nav_order: 6
       <td>Project 5 Proposal Intructions</td>
       <!-- <td><a href="https://docs.google.com/document/d/1IBLwmPiIa9qJ3p1Jvg6o23CnJNGfK0Jr0xQbZg9nMNM/edit?usp=sharing">Example Projects Proposals</a></td> -->
       <td>Example Projects Proposals</td>
-      <td style="max-width:120px;">TBD</td>
+      <td style="max-width:120px;">Friday, 10/30</td>
       <td>Friday, 11/6</td>
     </tr>
     <tr>
@@ -103,7 +103,7 @@ nav_order: 6
       <!-- <td><a href="/sp26/projects/project6-project">Project 5 Intructions</a></td> -->
       <td>Project 5 Intructions</td>
       <td style="max-width:120px;">-</td>
-      <td>Friday, 10/30<br/>Only start once your project has been approved</td>
+      <td>Friday, 10/30<br/>(Only start once your project has been approved)</td>
       <td>Monday, 12/7</td>
     </tr>
   </tbody>
