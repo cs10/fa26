@@ -6,7 +6,7 @@ nav_order: 8
 ---
 # Labs
 
-Lab Slides: [Jaclyn's Lab (801L)](https://drive.google.com/drive/folders/1nlxHC011EkUgz9csZpY1u-L6l_oAODM3?usp=drive_link) | [Elise's Lab (802L)](https://drive.google.com/drive/folders/13bsl0EVZKhPkAir1gWGS2_OHGSCpWRkC?usp=drive_link)
+Lab Slides: [Jaclyn's Lab (801L)](https://drive.google.com/drive/folders/1nlxHC011EkUgz9csZpY1u-L6l_oAODM3?usp=drive_link) &nbsp;•&nbsp; [Elise's Lab (802L)](https://drive.google.com/drive/folders/13bsl0EVZKhPkAir1gWGS2_OHGSCpWRkC?usp=drive_link)
 
 > Labs are an opportunity for you to apply what you've learned in lecture in code (and other forms). All labs have a conceptual and a coding component unless otherwise specified. All lab assignments must be uploaded and autograded using Gradescope; the Gradescope link can be found on the worksheet. The Practice Midterm and Practice Postterm will count towards your lab grade. You will need to take both the coding and non-coding portions of these practice exams to receive credit. Credit for the practice exams is based on completion only, not the score you received on the practice exam.
 
@@ -21,7 +21,7 @@ Lab Slides: [Jaclyn's Lab (801L)](https://drive.google.com/drive/folders/1nlxHC0
 | Lab 1: Welcome to Snap! | Wed 8/26 & Thu 8/27 |
 | Lab 2: Build Your Own Blocks | Mon 8/31 & Tue 9/1 |
 | Lab 3: Conditionals, Reporters, & Testing | Wed 9/2 & Thu 9/3 |
-| Project 1 Party | Wed 9/9 & Thu 9/10 |
+| Project 1 Party (Optional) | Wed 9/9 & Thu 9/10 |
 | Lab 4: Iteration | Mon 9/14 & Tue 9/15 |
 | Lab 5: Lists & HOFs | Wed 9/16 & Thu 9/17 |
 | Lab 6: Functions as Data, HOFs | Mon 9/21 & Tue 9/22 |
@@ -31,17 +31,17 @@ Lab Slides: [Jaclyn's Lab (801L)](https://drive.google.com/drive/folders/1nlxHC0
 | Lab 9: Boards | Mon 10/5 & Tue 10/6 |
 | Lab 10: Trees & Fractals | Wed 10/7 & Thu 10/8 |
 | Lab 11: Recursive Reporters | Mon 10/12 & Tue 10/13 |
-| Lab 12: Algorithmic Complexity | Wed 10/14 & Thu 10/15 |
+| Lab 12: Algorithmic Complexity (Conceptual Only) | Wed 10/14 & Thu 10/15 |
 | Practice Midterm (no code) | Mon 10/19 & Tue 10/20 |
 | Practice Midterm (fractal) | Wed 10/21 & Thu 10/22 |
-| Lab 13: Concurrency | Mon 10/26 & Tue 10/27 |
+| Lab 13: Concurrency (Conceptual Only) | Mon 10/26 & Tue 10/27 |
 | Lab 14: OOP in Snap! | Wed 10/28 & Thu 10/29 |
 | Lab 15: Welcome to Python | Mon 11/2 & Tue 11/3 |
 | Lab 16: Lists and Mutability | Wed 11/4 & Thu 11/5 |
 | Lab 17: Data Structures in Python | Mon 11/9 & Tue 11/10 |
 | Lab 18: Text Processing in Python | Thu 11/12 & TBD |
 | Lab 19: Data Science | Mon 11/16 & Tue 11/17 |
-| Learning Progression "post-test" | Wed 11/18 & Thu 11/19 |
+| Practice Postterm | Wed 11/18 & Thu 11/19 |
 | Lab 20: Linear Recursion in Python | Mon 11/23 & Tue 11/24 |
 | Lab 21: Snap + Python Libraries (Optional) | Mon 11/30 & Tue 12/1 |
 | Project Work Session (Optional) | Wed 12/2 & Thu 12/3 |
