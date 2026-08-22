@@ -9,14 +9,16 @@ seo:
 nav_order: 1
 ---
 
+<div style="position:relative; margin-top:0;" markdown="1">
+  <img src="{{ site.baseurl }}/assets/images/alonzo_background_removed.png" alt="Alonzo, the CS10 mascot" width="200" style="position:absolute; top:0; right:2rem;">
+
 # **CS 10: The Beauty and Joy of Computing**
+{: style="margin-top:0;"}
 
 UC Berkeley, Fall 2026
 
 {{ site.description }}
 
-<div style="background-color:#e6f4ea; border-left:4px solid #34a853; border-radius:4px; padding:0.75rem 1rem; margin-bottom:1rem;">
-  ✅ <strong>This page has been verified against the Fa26 schedule as of 8/21.</strong>
 </div>
 
 ## Announcements: Wednesday, August 26
