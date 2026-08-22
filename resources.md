@@ -9,8 +9,8 @@ nav_order: 5
 
 # Resources
 
-<div style="background-color:#fef7e0; border-left:4px solid #f9ab00; border-radius:4px; padding:0.75rem 1rem; margin-bottom:1rem;">
-  🚧 <strong>This page is still under construction. The content on this page is likely inaccurate. For urgent information requests, please contact cs10@berkeley.edu </strong>
+<div style="background-color:#e6f4ea; border-left:4px solid #34a853; border-radius:4px; padding:0.75rem 1rem; margin-bottom:1rem;">
+  ✅ <strong>This page has been verified against the Fa26 schedule as of 8/22.</strong>
 </div>
 
 Below, you can find various resources to help with your understanding of the material throughout the semester.
