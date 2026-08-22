@@ -16,32 +16,32 @@ Lab Slides: [here](https://drive.google.com/drive/folders/1aAkCl8LahgMF5AWwjGCoP
 
 > The workbook, which differs from the worksheet, is used as a step-by-step guide to complete each lab. Lab worksheets will be released at 3:00 PM on the lab day. 
 
-| Labs | Release Date |
+| Labs | Date |
 | :----: | :----: |
-| [Lab 1: Welcome to Snap!](/sp26/labs/lab01) | THU 1/22 – Nothing to submit |
-| [Lab 2: Build Your Own Blocks](/sp26/labs/lab02) | TUE 1/27 |
-| [Lab 3: Conditionals, Reporters, & Testing](/sp26/labs/lab03) | THU 1/29 |
-| [Lab 4: Iteration](/sp26/labs/lab04) | TUE 2/3 |
-| [Lab 5: Lists & HOFs](/sp26/labs/lab05) | THU 2/5 |
-| [Lab 6: Algorithms](https://docs.google.com/document/d/1ULoz1No5lKjsDGszctmTVZWKYcMZ4LDFBv9zdLYBXyc/edit?usp=sharing) | TUE 2/10 |
-| [Lab 7: Algorithmic Complexity](https://docs.google.com/document/d/12-6mHcHE9hNc0ekI7Nr49Mwj6KiYtlhk6jvlcQekzvk/edit?usp=sharing) | THU 2/12 |
-| [Lab 8: Boards](/sp26/labs/lab08boards) | TUE 2/17 |
-| Catch-up Session (Optional) | THU 2/19 – Nothing to submit |
-| [Lab 9: Trees & Fractals](/sp26/labs/lab09) | TUE 2/24 |
-| [Lab 10: Recursive Reporters](/sp26/labs/lab10) | THU 2/26 |
-| [Lab 11: Testing + 2048](/sp26/labs/lab11) | TUE 3/3 |
-| [Lab 12: Functions as Data, HOFs](/sp26/labs/lab12) | THU 3/5 |
-| [Midterm Practice (no code)](https://cs10.org/sp20/exams/midterm/2019Fa/exam.pdf) | TUE 3/10 |
-| [Midterm Practice (code)](/sp26/labs/practicemidterm) | THU 3/12 |
-| NO LAB | TUE 3/17 – Nothing to submit |
-| [Lab 13: OOP in Snap! (Optional)](/sp26/labs/lab13) | THU 3/19 |
-| [Lab 14: Welcome to Python](/sp26/labs/lab14) | TUE 3/31 |
-| [Lab 15: Data Structures in Python](/sp26/labs/lab15) | THU 4/2 |
-| [Lab 16: Concurrency](https://www.gradescope.com/courses/1232070/assignments/7495229) | TUE 4/7 |
-| Catch-up Session (Optional) | THU 4/9 – Nothing to submit |
-| [Lab 17: Text Processing in Python](/sp26/labs/lab17) | TUE 4/14 |
-| [Postterm Practice](https://us.prairielearn.com/pl/course_instance/205345/assessment/2633510) | THU 4/16 |
-| [Lab 18: Linear Recursion in Python](/sp26/labs/lab18) | TUE 4/21 |
-| [Lab 19: FUN Data Science](/sp26/labs/lab19) | THU 4/23 |
-| [Lab 20: Snap + Python Libraries](https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/libraries/libraries.topic&course=cs10_fa20.html&novideo&noreading&noassignment) & Project 5 Work Session (Optional) | TUE 4/28 – Nothing to submit |
-| Project Work Session (Optional) | THU 4/30 – Nothing to submit |
+| Lab 1: Welcome to Snap! | Wed 8/26 & Thu 8/27 |
+| Lab 2: Build Your Own Blocks | Mon 8/31 & Tue 9/1 |
+| Lab 3: Conditionals, Reporters, & Testing | Wed 9/2 & Thu 9/3 |
+| Project 1 Party | Wed 9/9 & Thu 9/10 |
+| Lab 4: Iteration | Mon 9/14 & Tue 9/15 |
+| Lab 5: Lists & HOFs | Wed 9/16 & Thu 9/17 |
+| Lab 6: Functions as Data, HOFs | Mon 9/21 & Tue 9/22 |
+| Catch-up Session (Optional) | Wed 9/23 & Thu 9/24 |
+| Lab 7: Algorithms | Mon 9/28 & Tue 9/29 |
+| Lab 8: Testing + 2048 | Wed 9/30 & Thu 10/1 |
+| Lab 9: Boards | Mon 10/5 & Tue 10/6 |
+| Lab 10: Trees & Fractals | Wed 10/7 & Thu 10/8 |
+| Lab 11: Recursive Reporters | Mon 10/12 & Tue 10/13 |
+| Lab 12: Algorithmic Complexity | Wed 10/14 & Thu 10/15 |
+| Practice Midterm (no code) | Mon 10/19 & Tue 10/20 |
+| Practice Midterm (fractal) | Wed 10/21 & Thu 10/22 |
+| Lab 13: Concurrency | Mon 10/26 & Tue 10/27 |
+| Lab 14: OOP in Snap! | Wed 10/28 & Thu 10/29 |
+| Lab 15: Welcome to Python | Mon 11/2 & Tue 11/3 |
+| Lab 16: Lists and Mutability | Wed 11/4 & Thu 11/5 |
+| Lab 17: Data Structures in Python | Mon 11/9 & Tue 11/10 |
+| Lab 18: Text Processing in Python | Thu 11/12 & TBD |
+| Lab 19: Data Science | Mon 11/16 & Tue 11/17 |
+| Learning Progression "post-test" | Wed 11/18 & Thu 11/19 |
+| Lab 20: Linear Recursion in Python | Mon 11/23 & Tue 11/24 |
+| Lab 21: Snap + Python Libraries (Optional) | Mon 11/30 & Tue 12/1 |
+| Project Work Session (Optional) | Wed 12/2 & Thu 12/3 |
