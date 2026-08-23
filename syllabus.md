@@ -9,10 +9,6 @@ description: Course policies and information.
 # Syllabus
 {:.no_toc}
 
-<div style="background-color:#fef7e0; border-left:4px solid #f9ab00; border-radius:4px; padding:0.75rem 1rem; margin-bottom:1rem;">
-  🚧 <strong>This page is still under construction. The content on this page is likely inaccurate. For urgent information requests, please contact cs10@berkeley.edu </strong>
-</div>
-
 ## Table of contents
 {: .no_toc .text-delta }
 
@@ -25,37 +21,58 @@ description: Course policies and information.
 
 <!---- Added CS10 late? [Reading this](https://edstem.org/us/courses/63916/discussion/5218679)---->
 
-## Preface
-
-All times below are in PST. If you have any questions, please make an EdStem post (rather than emailing) or come to office hours.
-
 ## Welcome
 
 
 Welcome to CS10: The Beauty and Joy of Computing! <br /><br />
 We’re really excited to have you on board with us this semester for a gentle, but thorough introduction to Computer Science. Our course will start out in the block-based language Snap<em>!</em>, but will transition into Python once you've learned some fundamentals of programming. By the end of the course, we hope you'll walk away with a deeper understanding of the ideas that have come to define computer science, the ability to build your own programs, and the confidence to apply these skills in whichever field you choose to pursue.
 
+## Preface
+
+All times below are in PST. If you have any questions, please make an EdStem post (rather than emailing) or come to office hours.
+
 
 ## Platforms
 
+Below is a quick reference for every platform we'll use this semester, along with their links and join codes.
 
-This semester, CS10 will run fully in-person. Consequently, remote (or hybrid) students cannot be supported. However, there are make-up options for lecture, lab, and discussion attendance. 
+| Platform         | Purpose                         | Link                                                                 | Join Code       |
+| :---------------- | :------------------------------- | :--------------------------------------------------------------------| :---------- |
+| Course Website    | Daily schedule, links to all platforms below | [cs10.org](https://cs10.org{{ site.baseurl }})              | —          |
+| EdStem            | Q&A, announcements, Weekly Blasts | [EdStem](https://edstem.org/us/courses/{{ site.ed_course_id }}) / [Join](https://edstem.org/us/join/TBD) | TBD   |
+| Gradescope        | Submit Projects 1-4 & Final Project | [Gradescope](https://www.gradescope.com/courses/{{ site.gradescope_course_id }}) | 7BVXEB     |
+| bCourses          | Lecture recordings                | [bCourses](https://bcourses.berkeley.edu/courses/1558076/external_tools/90481) | —          |
+| iClicker          | Lecture/lab/discussion attendance | see [join links below](#iclicker-join-links)                        | —          |
+| PrairieLearn      | Exams (Quest, Midterm, Postterm)  | [PrairieLearn](https://us.prairielearn.com/)                        | TBD          |
+| Snap!             | Programming environment           | [Snap!](https://snap.berkeley.edu/)                                 | —          |
+| GradeView         | Current grades                    | [GradeView](https://gradeview.eecs.berkeley.edu/login)              | —          |
 
 
-* **Course Website**: The day-to-day happenings of the course (and links to all the platforms below) can be found at cs10.org. Consult the [daily schedule](https://cs10.org/sp26/schedule/) to find the times/locations for all synchronous course engagements.
-* **Edstem**: This will be our main Q&A platform, where you can ask (and answer) questions, see announcements, and read Weekly Blasts, which are required readings in CS10. Click the `Ed Discussion` tab on the left to navigate to Edstem. Here is the link to the [EdStem](https://edstem.org/us/courses/93956). If you need to join the EdStem, click the following: [Join EdStem](https://edstem.org/us/join/MKbBRM)
-* **Gradescope**: This is where you will submit Projects 1-4, and the Final Project. Click the `Gradescope` tab on the left to open Gradescope. Submission instructions can be found at the following: [Gradescope](https://www.gradescope.com/courses/1232070). To join, you can enter the following entry code: <b>2DEGXG</b>
-* **Bcourses**: Lecture recordings can be found on [the bCourses site](https://bcourses.berkeley.edu/courses/1558076/external_tools/90481), generally within 48 hours of lecture. You will have to be logged into your Berkeley email to access the recordings. The recordings are under the "Media Gallery" tab in bCourses.
-* **iClicker**: You are required to [create a free iClicker account](https://mhe.my.site.com/iclicker/s/article/How-Students-Create-an-iClicker-Account-Through-a-Campus-Portal) and download the free iClicker app. Then, you should sign up with your Berkeley email. To get credit for attending lecture, please open the app once you're seated in the lecture hall and mark your attendance. If for some reason you are not enrolled, use the following links:
-    -  [Lecture iClicker](https://join.iclicker.com/ODSE).
-    -  [Lab iClicker](https://join.iclicker.com/UQKE).
-    -  [Discussion iClicker](https://join.iclicker.com/NTCF).
-* **PrairieLearn**: This is the platform you will use to take exams (Quest, Midterm, and Postterm). We will manually add you to the site later in the semester. For now, here is the link to [PrairieLearn](https://us.prairielearn.com/). If you are not added when you need it later in the semester, please post a message on EdStem.
-* **Snap!**: The programming language we will be using for more than half of the semester. The website can be found here: [Snap!](https://snap.berkeley.edu/). You will need to set up a Snap! account by following the [Snap! Account Setup Guide](https://docs.google.com/document/d/1yP818HbagO1fVR1Oor162raXztaXeRqcQI3TkH-WiKA/edit?usp=sharing).
-* **Gradeview**: This is the website where you will be able to access your current grades in the class. You will need to sign in using your UC Berkeley credentials on the [Gradeview](https://gradeview.eecs.berkeley.edu/login) website.
+* **Course Website**: The day-to-day happenings of the course, including the daily schedule and links to all the platforms below, can be found at cs10.org. Everything you need should be on the website. You can find the daily schedule via the [CS10 Calendar]({{ site.baseurl }}/#cs10-calendar).
+* **EdStem**: Our main Q&A platform — ask (and answer) questions, see announcements, and read the required Weekly Blasts. Accessible via the `Ed Discussion` tab in the top navigation bar.
+* **Gradescope**: Where you'll submit most course assignments, including Projects 1-4, the Final Project, labs, and attendance makeup submissions. Accessible via the `Gradescope` tab in the top navigation bar.
+* **bCourses**: Lecture recordings, posted within 48 hours of lecture under the "Media Gallery" tab. You'll need to be logged into your Berkeley email to access them. This is the only thing we use bCourses for.
+* **iClicker**{: #iclicker-join-links}: Required for attendance credit — [create a free account](https://mhe.my.site.com/iclicker/s/article/How-Students-Create-an-iClicker-Account-Through-a-Campus-Portal) and download the app with your Berkeley email, then open it and mark your attendance once you're seated. Everyone should enroll in the lecture; for lab and discussion, enroll in your respective section. If you're not auto-enrolled, use the join links below:
 
+    | Session                                   | Join Link                                       |
+    | :----------------------------------------- | :----------------------------------------------- |
+    | Lecture: 1-2PM (Physics 4)                 | [join.iclicker.com/MCVK](https://join.iclicker.com/MCVK) |
+    | Jaclyn's Lab: 4-6PM (SOCS 110)              | [join.iclicker.com/HSSW](https://join.iclicker.com/HSSW) |
+    | Elise's Lab: 5-7PM (Wheeler 212)            | [join.iclicker.com/LIUQ](https://join.iclicker.com/LIUQ) |
+    | Discussion: 3-4PM (AAPB 160)                | [join.iclicker.com/VDOP](https://join.iclicker.com/VDOP) |
+    | Discussion: 4-5PM (AAPB 160)                | [join.iclicker.com/GWZE](https://join.iclicker.com/GWZE) |
+* **PrairieLearn**: Where you'll take exams (Quest, Midterm, Postterm). We'll manually add you later in the semester — if you're not added when you need it, post on EdStem.
+* **Snap!**: Our block-based programming language for the first half of the semester. Set up your account with the [Snap! Account Setup Guide](https://docs.google.com/document/d/1yP818HbagO1fVR1Oor162raXztaXeRqcQI3TkH-WiKA/edit?usp=sharing).
+* **Gradeview**: Where you'll check your current grade. Sign in with your UC Berkeley credentials. Note that Gradeview won't be functional until later in the semester; we'll notify you once it's ready.
+
+
+<div style="background-color:#fef7e0; border-left:4px solid #f9ab00; border-radius:4px; padding:0.75rem 1rem; margin-bottom:1rem;">
+  🚧 <strong>Content below this line is under revision and may be inaccurate.</strong>
+</div>
 
 ## Primary Course Components
+
+This semester, CS10 will run fully in-person. Consequently, remote (or hybrid) students cannot be supported. However, there are make-up options for lecture, lab, and discussion attendance.
 
 ### Lecture 
 
@@ -126,7 +143,7 @@ These assignments will be one of the best ways for you to apply what you have le
 
 - There will be 3 Snap<em>!</em> projects, 1 research-based project, and a Final Project wherein you can use a language of your choice to build something of your choice. The number of points per project is listed in the Grading Breakdown. Project specs will be released on the website and on Edstem, and you should always read them before starting to work on a project.
 
-## Projects and Deadlines
+#### Projects and Deadlines
 
 
 | Project                                       |  Submission Deadline     |
@@ -188,7 +205,7 @@ The best way to prepare is to use the practice exams posted under the Resources 
 
 If you are an incomplete student, you may only take the first exams (Quest 1, Midterm 1, and Postterm 1).
 
-## Exam Clobber Policy
+### Exam Clobber Policy
 If your percentage score on a latter exam is higher than your percentage score on a prior exam, then we'll replace your percentage score on the prior exam with the percentage score on the latter exam. The clobber can never hurt your grade: if you score lower, no replacement will be done.
 
 ## Grading
@@ -298,6 +315,10 @@ If you have a disability or think you may have a disability, you can work with t
 
 Students who need academic accommodations or have questions about their accommodations should contact DSP, located at 260 César Chávez Student Center. Students may call 642-0518 (voice), 642-6376 (TTY), or e-mail dsp@berkeley.edu(link sends e-mail)
 
+### Academic Accommodations Hub
+
+Here's a link to the [Academic Accommodations Hub](https://evcp.berkeley.edu/programs-resources/academic-accommodations-hub).
+
 ## Academic Integrity
 
 Let’s get honest about being honest. It is truly a disappointment to catch students cheating. All we really want is for you to learn the material - and as both current and former students, we understand that oftentimes, juggling various assignment deadlines while keeping up with material can be stressful. If you feel overwhelmed in this class, reach out! We are here to support you.
@@ -352,13 +373,7 @@ We recognize that Computer Science is a demographically skewed field in the Unit
 - We will do our absolute best to show you that while bias, discrimination, and judgment still exist, they should not stand in the way of you learning Computer Science. While acknowledging the struggles many students may face, we also hope to show that computer science is a field anyone can be successful in (in other words, there is no innate "talent" or "trait" required to understand computer science). Of course, different people have different opportunities, but one of the goals of CS10 is to equalize the playing field.
 - Discrimination or disrespect on the basis of race, ethnicity, religion, socioeconomic status, ability, gender, or sexual orientation will not be tolerated under any circumstances. Should someone make you feel uncomfortable or disrespected in any way, please let the instructor know immediately.
 
-
-## Academic Accommodations Hub
-
-Here's a link to the [Academic Accommodations Hub](https://evcp.berkeley.edu/programs-resources/academic-accommodations-hub).
-
-
-## EECS Student Climate & Incident Reporting Form
+### EECS Student Climate & Incident Reporting Form
 
 It is very important to the EECS Department that every student in the EECS community feels safe, respected, and welcome. We recognize though that incidents happen, sometimes unintentionally, that run counter to that goal.
 The EECS department provides a secure and anonymous [Incident Reporting Form](https://eecs.link/climate) that can be used to report incidents including (but not limited to) microaggressions, discrimination, marginalizing / alienating behaviour, etc.

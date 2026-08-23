@@ -23,6 +23,7 @@ UC Berkeley, Fall 2026
 
 ## Announcements: Wednesday, August 26
 - Welcome to CS10! 🎉
+- Attendance starts Week 2.
 
 **Instructor:** <a href="https://people.eecs.berkeley.edu/~ddgarcia/">Teaching Professor Dan Garcia</a>  
 **Instructor’s OH:** TBD  
