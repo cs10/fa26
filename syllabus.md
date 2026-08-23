@@ -57,10 +57,10 @@ Below is a quick reference for every platform we'll use this semester, along wit
     | Session                                   | Join Link                                       |
     | :----------------------------------------- | :----------------------------------------------- |
     | Lecture: 1-2PM (Physics 4)                 | [join.iclicker.com/MCVK](https://join.iclicker.com/MCVK) |
-    | Jaclyn's Lab: 4-6PM (SOCS 110)              | [join.iclicker.com/HSSW](https://join.iclicker.com/HSSW) |
-    | Elise's Lab: 5-7PM (Wheeler 212)            | [join.iclicker.com/LIUQ](https://join.iclicker.com/LIUQ) |
-    | Discussion: 3-4PM (AAPB 160)                | [join.iclicker.com/VDOP](https://join.iclicker.com/VDOP) |
-    | Discussion: 4-5PM (AAPB 160)                | [join.iclicker.com/GWZE](https://join.iclicker.com/GWZE) |
+    | Jaclyn's Lab: 4-6PM (Social Sciences Building, Room 110) | [join.iclicker.com/HSSW](https://join.iclicker.com/HSSW) |
+    | Elise's Lab: 5-7PM (Wheeler Hall, Room 212) | [join.iclicker.com/LIUQ](https://join.iclicker.com/LIUQ) |
+    | Discussion: 3-4PM (Anthropology and Art Practice Building, Room 160) | [join.iclicker.com/VDOP](https://join.iclicker.com/VDOP) |
+    | Discussion: 4-5PM (Anthropology and Art Practice Building, Room 160) | [join.iclicker.com/GWZE](https://join.iclicker.com/GWZE) |
 * **PrairieLearn**: Where you'll take exams (Quest, Midterm, Postterm). We'll manually add you later in the semester — if you're not added when you need it, post on EdStem.
 * **Snap!**: Our block-based programming language for the first half of the semester. Set up your account with the [Snap! Account Setup Guide](https://docs.google.com/document/d/1yP818HbagO1fVR1Oor162raXztaXeRqcQI3TkH-WiKA/edit?usp=sharing).
 * **Gradeview**: Where you'll check your current grade. Sign in with your UC Berkeley credentials. Note that Gradeview won't be functional until later in the semester; we'll notify you once it's ready.
@@ -125,11 +125,11 @@ From experience, we have observed that students who regularly attend and activel
 
 ### Office Hours (OH) 
 
-There will be three types of office hours, described below. The times and locations for all office hours are posted under the “Daily Schedule” tab on the course website. You <b>do not</b> need to email or make an appointment to attend. You may attend any office hours that work for you.
+There will be three types of office hours, described below. The times and locations for all office hours are posted on the [CS10 Calendar]({{ site.baseurl }}/#cs10-calendar) on the course website. You <b>do not</b> need to email or make an appointment to attend. You may attend any office hours that work for you.
 
 #### General OH
 
-General office hours are intended for any course- or content-related questions. You can get help with code, debugging, conceptual understanding, getting started on assignments, and more. The location for General OH will be listed under the “Daily Schedule” tab.
+General office hours are intended for any course- or content-related questions. You can get help with code, debugging, conceptual understanding, getting started on assignments, and more. The location for General OH will be listed on the [CS10 Calendar]({{ site.baseurl }}/#cs10-calendar).
 
 #### Student Support OH
 
@@ -137,7 +137,7 @@ Student Support OH is intended for discussing your status in the class, catching
 
 #### Instructor OH
 
-Professor Garcia will host Instructor OH (times and locations are also listed under the “Daily Schedule” tab). You may attend for higher-level or conceptual help (for example, if you are confused about a topic or want to go over practice problems), or to discuss more general topics such as how you are doing in the class, college advice, or research opportunities. For help with specific assignments (labs or projects), please attend General OH.
+Professor Garcia will host Instructor OH (times and locations are also listed on the [CS10 Calendar]({{ site.baseurl }}/#cs10-calendar)). You may attend for higher-level or conceptual help (for example, if you are confused about a topic or want to go over practice problems), or to discuss more general topics such as how you are doing in the class, college advice, or research opportunities. For help with specific assignments (labs or projects), please attend General OH.
 
 <!-- ### Reading Quizzes
 
@@ -148,7 +148,7 @@ These are short assigned readings each week. We will discuss them as a class dur
 These assignments will be one of the best ways for you to apply what you have learned in lecture, lab, and discussion. These will be a bit more time-intensive than the other assignments and will require you to be caught up on the other components of the course.
 
 
-- There will be 3 Snap<em>!</em> projects, 1 research-based project, and a Final Project wherein you can use a language of your choice to build something of your choice. The number of points per project is listed in the Grading Breakdown. Project specs will be released on the website and on Edstem, and you should always read them before starting to work on a project.
+* There will be 3 Snap<em>!</em> projects, 1 research-based project, and a Final Project wherein you can use a language of your choice to build something of your choice. The number of points per project is listed in the Grading Breakdown. Project specs will be released on the website and on Edstem, and you should always read them before starting to work on a project.
 
 #### Projects and Deadlines
 
@@ -242,7 +242,7 @@ That said, don't treat this as a strategy. "I'll just do well on the Postterm" i
 | Project 1: Wordle™-lite                       | 15       |
 | Project 2: Spelling-Bee                       | 25       |
 | Project 3: 2048                               | 35       |
-| Project 4: Explore                            | 20       |
+| Project 4: Explore Post                       | 20       |
 | Final Project                                 | 60       |
 | Labs                                          | 80       |
 | Attendance / Participation                    | 15       |
@@ -310,7 +310,7 @@ UC Berkeley is committed to creating a learning environment that meets the needs
 
 If you have a disability or think you may have a disability, you can work with the Disabled Students' Program (DSP) to request an official accommodation. The Disabled Students' Program (DSP) is the campus office responsible for authorizing disability-related academic accommodations, in cooperation with the students themselves and their instructors. You can find more information about DSP, including contact information and the application process here: dsp.berkeley.edu. If you have already been approved for accommodations through DSP, please meet with me so we can develop an implementation plan together."
 
-Students who need academic accommodations or have questions about their accommodations should contact DSP, located at 260 César Chávez Student Center. Students may call 642-0518 (voice), 642-6376 (TTY), or e-mail dsp@berkeley.edu(link sends e-mail)
+Students who need academic accommodations or have questions about their accommodations should contact DSP, located at 260 César Chávez Student Center. Students may call 642-0518 (voice), 642-6376 (TTY), or e-mail dsp@berkeley.edu (link sends e-mail)
 
 ### Academic Accommodations Hub
 
@@ -349,7 +349,7 @@ We highly encourage collaboration, so let’s define what that means. Discussing
 
 **What happens if you cheat?**
 
-We take cheating extremely seriously and will almost always pursue the strictest consequences available to us. We have advanced cheating detection software, and we will routinely run this to detect cheating. These are sophisticated tools that are pretty hard to fool- any attempts to obfuscate your code to avoid detection will likely fail, and instead may result in additional consequences.
+We take cheating extremely seriously and will almost always pursue the strictest consequences available to us. We have advanced cheating detection software, and we will routinely run this to detect cheating. These are sophisticated tools that are pretty hard to fool — any attempts to obfuscate your code to avoid detection will likely fail, and instead may result in additional consequences.
 
 Note that you will always have a chance to explain your actions before any action is taken. If you admit that you cheated, we will apply the necessary sanctions. If you'd like to meet with us to discuss your situation, we'll set up a meeting. Afterwards, if staff determines that you cheated and you don't agree with that decision, we'll proceed with a Student-Conduct Investigation.
 
@@ -366,9 +366,9 @@ If at any point in the academic-integrity process, a student lies or attempts to
 ## Diversity and Inclusion Statement
 
 We recognize that Computer Science is a demographically skewed field in the United States, and that even at Berkeley, minoritized students can find themselves feeling alone. It is our goal in this course to deliver an equitable learning experience for everyone involved. Concretely, this means a few things:
-- In addition to teaching the technical skills necessary for programming, we will also teach the social implications of computer science. In doing so, we will directly address the contributions of underrepresented groups to the field, which are often overlooked.
-- We will do our absolute best to show you that while bias, discrimination, and judgment still exist, they should not stand in the way of you learning Computer Science. While acknowledging the struggles many students may face, we also hope to show that computer science is a field anyone can be successful in (in other words, there is no innate "talent" or "trait" required to understand computer science). Of course, different people have different opportunities, but one of the goals of CS10 is to equalize the playing field.
-- Discrimination or disrespect on the basis of race, ethnicity, religion, socioeconomic status, ability, gender, or sexual orientation will not be tolerated under any circumstances. Should someone make you feel uncomfortable or disrespected in any way, please let the instructor know immediately.
+* In addition to teaching the technical skills necessary for programming, we will also teach the social implications of computer science. In doing so, we will directly address the contributions of underrepresented groups to the field, which are often overlooked.
+* We will do our absolute best to show you that while bias, discrimination, and judgment still exist, they should not stand in the way of you learning Computer Science. While acknowledging the struggles many students may face, we also hope to show that computer science is a field anyone can be successful in (in other words, there is no innate "talent" or "trait" required to understand computer science). Of course, different people have different opportunities, but one of the goals of CS10 is to equalize the playing field.
+* Discrimination or disrespect on the basis of race, ethnicity, religion, socioeconomic status, ability, gender, or sexual orientation will not be tolerated under any circumstances. Should someone make you feel uncomfortable or disrespected in any way, please let the instructor know immediately.
 
 ### EECS Student Climate & Incident Reporting Form
 
