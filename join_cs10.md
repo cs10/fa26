@@ -18,7 +18,7 @@ nav_order: 10
 
 1. Read Ed Discussion Post (Link TBD): To join [Ed Discusison, click here.](https://edstem.org/us/courses/93956)
 2. Fill out the [Late-add Google Form](https://forms.gle/hYYTdd3nU5eGR3639)
-3. Read Website: Start from the beginning—go through the syllabus, lectures, and assignments in order. A handy tracker will be available once you join the class and fill out the form. The class schedule can be found on our [home page](https://cs10.org/).
+3. Read Website: Start from the beginning—go through the syllabus, lectures, and assignments in order. A handy tracker will be available once you join the class and fill out the form. The class schedule can be found on our [home page](https://cs10.org{{ site.baseurl }}/).
 
 ## Will I be penalized for missed work?  
 **No**, you won’t be penalized for assignments due before you joined.
@@ -27,13 +27,13 @@ nav_order: 10
 **Yes**, assignments based on the week you join and past work will be adjusted.
 
 ## Do I still need to take the first exam?  
-**Yes**, all students are required to take the first exam: **Quest**. Other exam policies can be found in our [syllabus](https://cs10.org/sp26/syllabus/#exams)!
+**Yes**, all students are required to take the first exam: **Quest**. Other exam policies can be found in our [syllabus](https://cs10.org{{ site.baseurl }}/syllabus/#exams)!
 
 ## How much time will it take to catch up?  
 It depends, but expect to spend extra hours at first.
 
 ## Can I get extra help?  
-**Yes!** Our Regular and Support OH times can be found on this [calendar](https://cs10.org/sp26/calendar/).
+**Yes!** Our Regular and Support OH times can be found on this [calendar](https://cs10.org{{ site.baseurl }}/calendar/).
 
 <!-- ### Primary Course Components + Attendance
 Here is a visualization that summarizes the components of the course, and which platform to use to submit work.
