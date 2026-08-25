@@ -8,9 +8,6 @@ nav_order: 9
 
 # Readings
 
-<div style="background-color:#e6f4ea; border-left:4px solid #34a853; border-radius:4px; padding:0.75rem 1rem; margin-bottom:1rem;">
-  ✅ <strong>This page has been verified against the Fa26 schedule as of 8/22.</strong>
-</div>
 
 Readings are not required this semester, but they are useful and fun resources related to each week’s topic. You are welcome to discuss the readings or watchings with course staff.
 

@@ -8,9 +8,6 @@ nav_order: 7
 
 # Discussion
 
-<div style="background-color:#e6f4ea; border-left:4px solid #34a853; border-radius:4px; padding:0.75rem 1rem; margin-bottom:1rem;">
-  ✅ <strong>This page has been verified against the Fa26 schedule as of 8/21.</strong>
-</div>
 
 This page will be updated with discussion Worksheets and Solutions throughout the semester. Discussions will not be recorded.
 

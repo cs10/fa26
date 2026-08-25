@@ -7,9 +7,6 @@ nav_order: 6
 
 # Projects
 
-<div style="background-color:#e6f4ea; border-left:4px solid #34a853; border-radius:4px; padding:0.75rem 1rem; margin-bottom:1rem;">
-  ✅ <strong>This page has been verified against the Fa26 schedule as of 8/22.</strong>
-</div>
 
 > This page will be updated with CS10's project specifications/guidelines (specs) and walkthroughs. Recordings, if available, will also be updated here. 
 

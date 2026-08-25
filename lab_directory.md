@@ -6,9 +6,6 @@ nav_order: 8
 ---
 # Labs
 
-<div style="background-color:#e6f4ea; border-left:4px solid #34a853; border-radius:4px; padding:0.75rem 1rem; margin-bottom:1rem;">
-  ✅ <strong>This page has been verified against the Fa26 schedule as of 8/21.</strong>
-</div>
 
 Lab Slides: [Jaclyn's Lab (801L)](https://drive.google.com/drive/folders/1nlxHC011EkUgz9csZpY1u-L6l_oAODM3?usp=drive_link) &nbsp;•&nbsp; [Elise's Lab (802L)](https://drive.google.com/drive/folders/13bsl0EVZKhPkAir1gWGS2_OHGSCpWRkC?usp=drive_link)
 

@@ -38,9 +38,6 @@
   }
 </style>
 
-<div style="background-color:#e6f4ea; border-left:4px solid #34a853; border-radius:4px; padding:0.75rem 1rem; margin-bottom:1rem;">
-  ✅ <strong>This page has been verified against the Fa26 schedule as of 8/21.</strong>
-</div>
 
 <!-- Add a jump-to button to navigate to the current week -->
 <p>
@@ -351,7 +348,7 @@
     <tr>
       <th>Wed 9/23</th>
       <td>
-        Lec 8. Social Implications of Computing: Privacy<br/>
+        Lec 8. Algorithms<br/>
         (Video) (Slides)
       </td>
       <td rowspan="2"> Catch-up (optional) <br/> </td>
@@ -404,7 +401,7 @@
       <td class="schedule-week-num" rowspan="5">Week 6</td>
       <th>Mon 9/28</th>
       <td>
-        Lec 9. Algorithms<br/>
+        Lec 9. Algorithmic Complexity<br/>
         (Video) (Slides)
       </td>
       <td rowspan="2"> Lab 7. Algorithms <br/> </td>
@@ -558,7 +555,7 @@
     <tr>
       <th>Wed 10/14</th>
       <td>
-        Lec 14. Algorithmic Complexity<br/>
+        Lec 14. Social Implications of Computing: Privacy<br/>
         (Video) (Slides)
       </td>
       <td rowspan="2"> Lab 12. Algorithmic Complexity <br/> </td>
@@ -627,7 +624,7 @@
     <tr>
       <th>Wed 10/21</th>
       <td>
-        Lec 16. HCI (Tim Aveni)<br/>
+        Lec 16. HCI (Shm Almeda)<br/>
         (Video) (Slides)
       </td>
       <td rowspan="2"> Practice Midterm (fractal) <br/> </td>

@@ -7,9 +7,6 @@ nav_order: 2
 
 # Weekly Calendar (Updated Each Week)
 
-<div style="background-color:#e6f4ea; border-left:4px solid #34a853; border-radius:4px; padding:0.75rem 1rem; margin-bottom:1rem;">
-  ✅ <strong>This page has been verified against the Fa26 schedule as of 8/21.</strong>
-</div>
 
 If the calendar below appears blank, make sure you're signed in to your Berkeley email!
 
