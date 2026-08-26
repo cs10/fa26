@@ -40,7 +40,7 @@ Below is a quick reference for every platform we'll use this semester, along wit
 | :---------------- | :------------------------------- | :--------------------------------------------------------------------| :---------- |
 | Course Website    | Daily schedule, links to all platforms below | [cs10.org](https://cs10.org{{ site.baseurl }})              | —          |
 | EdStem            | Q&A, announcements, Weekly Blasts | [EdStem](https://edstem.org/us/courses/{{ site.ed_course_id }}) / [Join](https://edstem.org/us/join/TBD) | TBD   |
-| Gradescope        | Submit Projects 1-4, Final Project, labs, lecture quizzes & discussion worksheets | [Gradescope](https://www.gradescope.com/courses/{{ site.gradescope_course_id }}) | G7EE3P     |
+| Gradescope        | Submit Projects 1-4, Final Project, and labs | [Gradescope](https://www.gradescope.com/courses/{{ site.gradescope_course_id }}) | G7EE3P     |
 | bCourses          | Lecture recordings                | [bCourses](https://bcourses.berkeley.edu/courses/{{ site.bcourses_course_id }}/external_tools/90481) | —          |
 | iClicker          | Lecture/lab/discussion attendance | see [join links below](#iclicker-join-links)                        | —          |
 | PrairieLearn      | Exams (Quest, Midterm, Postterm)  | [PrairieLearn](https://us.prairielearn.com/)                        | TBD          |
@@ -50,7 +50,7 @@ Below is a quick reference for every platform we'll use this semester, along wit
 
 * **Course Website**: The day-to-day happenings of the course, including the daily schedule and links to all the platforms below, can be found at cs10.org. Everything you need should be on the website. You can find the daily schedule via the [CS10 Calendar]({{ site.baseurl }}/#cs10-calendar).
 * **EdStem**: Our main Q&A platform — ask (and answer) questions, see announcements, and read the required Weekly Blasts. Accessible via the `Ed Discussion` tab in the top navigation bar.
-* **Gradescope**: Where you'll submit most course assignments, including Projects 1-4, the Final Project, labs, and attendance makeup submissions. Accessible via the `Gradescope` tab in the top navigation bar.
+* **Gradescope**: Where you'll submit most course assignments, including Projects 1-4, the Final Project, and labs. Accessible via the `Gradescope` tab in the top navigation bar.
 * **bCourses**: Lecture recordings, posted within 48 hours of lecture under the "Media Gallery" tab. You'll need to be logged into your Berkeley email to access them. This is the only thing we use bCourses for.
 * **iClicker**{: #iclicker-join-links}: Required for attendance credit — [create a free account](https://mhe.my.site.com/iclicker/s/article/How-Students-Create-an-iClicker-Account-Through-a-Campus-Portal) and download the app with your Berkeley email, then open it and mark your attendance once you're seated. Everyone should enroll in the lecture; for lab and discussion, enroll in your respective section. If you're not auto-enrolled, use the join links below:
 
@@ -68,26 +68,32 @@ Below is a quick reference for every platform we'll use this semester, along wit
 
 ## Primary Course Components
 
-This semester, CS10 will run fully in-person. Consequently, remote (or hybrid) students cannot be supported. However, there are make-up options for lecture, lab, and discussion attendance.
+This semester, CS10 will run fully in-person. Consequently, remote (or hybrid) students cannot be supported. Attendance for [Lecture](#lecture), [Lab Sections](#lab-sections), and [Discussion Sections](#discussion-sections) is tracked using iClicker, and every student receives 10 attendance passes for the semester to cover any sessions they miss.
 
-| Component | Attendance Required | Makeup Option | Drop / Free Passes |
-| :--------- | :-------------------- | :--------------- | :-------------------- |
-| [Lecture](#lecture) | Monday & Wednesday only | Complete the corresponding Lecture Quiz on Gradescope, due by the following lecture at 11:59 PM (you are not required to do the lecture quiz if you attend in person) | May skip up to 5 lectures without penalty |
-| [Lab Sections](#lab-sections) | Yes | Submit the lab assignment early, due by the start of your next lab section | May skip up to 5 lab sessions (attendance only — assignment still required); lowest 2 lab assignment scores dropped |
-| [Discussion Sections](#discussion-sections) | Yes | Submit the discussion worksheet, due by the next discussion section at 11:59 PM (you do NOT need to submit the worksheet if you attend in person) | May skip 2 worksheets (i.e., 2 discussions) without penalty |
+### Attendance Passes
+
+You are allotted **10 attendance passes** for the semester, shared across lecture, lab, and discussion sections combined. These passes exist to cover emergencies, illness, and other unexpected circumstances that prevent you from attending. Note that they are NOT intended for routine or planned absences. A pass may be applied to any combination of the three components: for example, 3 toward lecture, 4 toward lab, and 2 toward discussion, leaving 1 remaining.
+
+Attendance tracking begins in Week 2 of the semester. Attendance during Week 1, including Lab 1, is not tracked and does not draw on your attendance passes.
+
+A pass is applied automatically whenever you miss a lecture, lab section, or discussion section, as recorded via iClicker, provided you still have passes remaining. Applying a pass fully excuses the absence, meaning you receive full attendance credit without a penalty, and no notification or submission is required on your part. It is your responsibility to keep track of how many attendance passes you have used and how many remain throughout the semester.
+
+There is no way to earn attendance credit beyond your 10 passes. Once your passes are exhausted, a missed lecture, lab, or discussion earns no attendance credit. If extenuating circumstances (prolonged illness, family emergencies, etc.) caused you to exhaust your passes or they occurred after you've exhausted them, visit our Support OH to discuss your situation individually.
+
+Attendance passes and assignment extensions operate independently of one another. An extension affects only an assignment's grading deadline, and it does not restore or protect attendance credit. Vice versa, applying a pass has no effect on an assignment's grading deadline. For example, if you miss a lab section, an attendance pass is used regardless of whether you also have an extension on that lab's assignment. If you attend a lab section in person and separately request an extension on that lab's assignment, no attendance pass is used, since you were present.
+
+Exhausting all 10 attendance passes also affects your access to exam retakes; see [Attendance Passes and Exam Retakes](#attendance-passes-and-exam-retakes) under Exams.
 
 ### Lecture 
 
 Lectures will be live and in-person in Physics 4 on Mondays, Wednesdays, and Fridays from 1–2 PM. They will be recorded, and recordings will be posted on bCourses (see [Platforms](#platforms) section). 
 
-Lectures aim to introduce concepts and provide a "big-picture view" of material from a theoretical standpoint. Most lectures will be live and in person. However, some lectures may be pre-recorded, which you can watch in your free time, and there will be an assignment that corresponds to it to test your conceptual understanding. Attendance for these days will be through the "Lecture Quiz" solely (and no iClicker is needed for those days).
+Lectures aim to introduce concepts and provide a "big-picture view" of material from a theoretical standpoint. Most lectures will be live and in person. However, some lectures may be pre-recorded, which you can watch in your free time. There is no in-person session on pre-recorded lecture days, so attendance is not required and no attendance pass is spent for those days; we may post an optional, ungraded comprehension exercise for these lectures, but it has no bearing on your grade or attendance.
 
-<b>Attendance is required, and credit for attending will be through the iClicker app. </b> If you cannot attend lecture, you will need to complete the corresponding "Lecture Quiz" on Gradescope for attendance credit. The corresponding lecture quiz will be due on Gradescope the day of the **following lecture** at 11:59 PM. On this quiz, we will ask questions about lecture content. You may fill out our general [extension form](#extension-requests) to receive an automatic extension for lecture quizzes.
+<b>Attendance is required, and credit for attending will be through the iClicker app.</b> If you cannot attend lecture, one of your 10 [attendance passes](#attendance-passes) is used automatically; no submission or notification is needed. We may continue to post an optional Lecture Quiz for your own review of the material, but it is entirely ungraded and has no bearing on your grade or attendance.
 
 * <b>Monday & Wednesday</b> lectures have required attendance.
-* <b>Friday</b> lectures (we call them the Friday "Talks"!) are optional and have no lecture quiz. Some Fridays will be review sessions where we prep for exams or go over the answers to an exam; these exam review Fridays will not be recorded and will not have any slides, so we recommend coming in person to get the answers to exam questions!
-
-Your lowest 5 lecture-quiz scores will be automatically dropped — so you can miss up to 5 lectures (or skip 5 quizzes) without penalty, and you don’t need to inform us when you miss class. These drops are not intended to be “free-passes” to skip lectures: please reserve them for unexpected emergencies / sickness / … since missing out on content will only disrupt your learning. If there are extenuating circumstances which cause you to miss more than 5 lectures (like prolonged sickness, family emergencies, etc.) then you should visit Support OH.
+* <b>Friday</b> lectures (we call them the Friday "Talks"!) are optional and do not draw on your attendance passes. Some Fridays will be review sessions where we prep for exams or go over the answers to an exam; these exam review Fridays will not be recorded and will not have any slides, so we recommend coming in person to get the answers to exam questions!
 
 ### Lab Sections
 
@@ -99,11 +105,11 @@ This semester, there are two lab sections, both in person:
 
 Lab assignments are submitted to Gradescope. Each lab (unless specified) has <b>two assignments</b>: one for your code, one for conceptual checkoff problems, and TAs/Tutors are available during lab sections to help with both. Labs are graded all-or-nothing: a full score on both assignments earns credit for that lab, and anything less earns none. The three practice exam labs (Practice Midterm (no code), Practice Midterm (fractal), and Practice Postterm) are graded on completion only, and Lab 1 is not optional but has no submission, credit, or attendance grade. All other labs are graded unless explicitly marked "optional" on the schedule page, and optional labs don't require attendance either. **Your lowest two lab assignment scores will be dropped.**
 
-Lab assignments are due at 11:59 PM before your next lab section:
+Lab assignments are due before your next lab section begins, with a grace period until 11:59 PM that same day. Gradescope's actual deadline for credit is 11:59 PM, so nothing is marked late before then, but we strongly encourage submitting before your next lab section starts so you're not falling behind on new material. Concretely, the 11:59 PM grace period lands on:
 * Monday/Wednesday section: Monday labs due Wednesday, Wednesday labs due the following Monday.
 * Tuesday/Thursday section: Tuesday labs due Thursday, Thursday labs due the following Tuesday.
 
-Attendance at lab sections is required, tracked via iClicker, and counts toward your grade. You may miss up to 5 lab sessions without penalty, and you don't need to inform us. This excuses attendance only; the lab assignment is still required, though you can earn attendance credit by submitting it early, right before your next lab section begins, instead of the normal 11:59 PM deadline. For example, if Lab X is normally due Tuesday at 11:59 PM but you miss that lab, submit it right before your Thursday lab section starts. If extenuating circumstances (prolonged illness, family emergencies, etc.) cause you to miss more than 5 sessions, visit Support OH. Your lab attendance grade, part of your overall attendance/participation grade, is based solely on whether you attended in person or submitted early, and it's tracked separately from your lab assignment grade.
+Attendance at lab sections is required and tracked via iClicker. If you miss a lab section, one of your 10 [attendance passes](#attendance-passes) is used automatically; no submission or notification is needed. The lab assignment itself is always due by the grace-period deadline above regardless of whether you attended or used a pass — attendance and the lab assignment grade are tracked independently of each other.
 
 Some lab days are designated Project Parties or Catch-up Sessions, where attendance is not required and labs function as optional office hours. We will explicitly label all optional labs, discussions, and lectures as "optional."
 
@@ -115,11 +121,9 @@ This semester, there are two discussion sections, both in person on Fridays in t
 * Discussion 801: 3–4 PM
 * Discussion 802: 4–5 PM
 
-Discussion attendance is mandatory and tracked using iClicker. <b>If you attend discussion in person and do the iClicker, no further action or submission is required</b> to receive attendance credit. If you do not attend, whether due to a regular conflict or missing a few sessions, you may make up the attendance credit by submitting the discussion worksheet (required portions only) to Gradescope. You must complete all required portions of the worksheet to receive credit, and worksheets are graded based on completion and honest effort.
+Discussion attendance is mandatory and tracked using iClicker. <b>If you attend discussion in person and do the iClicker, no further action or submission is required</b> to receive attendance credit. If you do not attend, one of your 10 [attendance passes](#attendance-passes) is used automatically; no submission or notification is needed.
 
-The discussion worksheets are located on the course website and can be submitted in any format (for example, handwritten, electronically written, or typed). Worksheets are due on the day of the next discussion section at 11:59 PM. In other words, Discussion X is due the same day Discussion X+1 is released. Discussions are also recorded, and we recommend watching the recordings to help with the worksheet problems. However, discussions will not go over every problem on the worksheet.
-
-You may miss two discussion sessions without penalty (i.e., without having to submit the worksheet). This means you may skip submitting two worksheets and still receive full credit for your discussion grade. Please reserve this drop for unexpected circumstances such as illness or emergencies. You do not need to contact us if you miss or do not attend discussion. If you need an extension, please refer to the [Extension Requests](#extension-requests) section.
+The discussion worksheets remain posted on the course website as optional self-study material, and you're welcome to work through them in any format (for example, handwritten, electronically written, or typed). They are ungraded and are not submitted anywhere, so completing one has no bearing on your attendance or grade. Discussions are also recorded, and we recommend watching the recordings and working through the worksheets to help prepare for exams. However, discussions will not go over every problem on the worksheet.
 
 From experience, we have observed that students who regularly attend and actively participate in discussions tend to perform better on exams.
 
@@ -217,6 +221,14 @@ For example, say your best scores (across the three attempts of each) are 70% on
 
 That said, don't treat this as a strategy. "I'll just do well on the Postterm" is a risky mentality, and it often doesn't pan out that way in practice. Do your best on every exam so you stay on pace and set yourself up for success.
 
+### Attendance Passes and Exam Retakes
+
+Exam retakes (version 2 and version 3 of each Quest, Midterm, and Postterm) are a privilege, not an entitlement. If you exhaust all 10 of your [attendance passes](#attendance-passes), you permanently forfeit access to every remaining exam retake for the rest of the semester, across all exam types, not just the one you were about to take. This does not affect the mandatory first version of any exam (Quest 1, Midterm 1, Postterm 1), which you may always take.
+
+For example, if you exhaust your passes the day before Postterm 1, you may still take Postterm 1, but you lose access to Postterm 2 and Postterm 3. If you exhaust your passes right after taking Midterm 2, you lose access to Midterm 3, Postterm 2, and Postterm 3.
+
+This policy is effective immediately. If genuine extenuating circumstances (prolonged illness, family emergencies, etc.) caused you to exhaust your passes, visit Support OH; we will discuss your specific situation individually, though this is not an automatic exception.
+
 ## Grading
 
 ### General Grading Breakdown — Percentages
@@ -282,19 +294,11 @@ If you require an extension longer than what is available through the Extension 
 
 ### Lab Extensions
 
-We understand that circumstances may arise that prevent you from meeting assignment deadlines. An extension request grants you an <b>automatic 48-hour (2-day) extension</b> on your lab deadline, regardless of which lab section you're in. This also applies to Practice Midterm and Practice Postterm (both coding and non-coding portions). For example, if your lab is normally due Wednesday at 11:59 PM, an approved extension moves your deadline to Friday at 11:59 PM. Note that this only extends your grading deadline; if you're seeking lab attendance credit for a missed lab, you'll still need to submit before your next lab section begins, regardless of any grading extension.
+We understand that circumstances may arise that prevent you from meeting assignment deadlines. An extension request grants you an <b>automatic 48-hour (2-day) extension</b> on your lab deadline, regardless of which lab section you're in. This also applies to Practice Midterm and Practice Postterm (both coding and non-coding portions). For example, if your lab is normally due Wednesday at 11:59 PM, an approved extension moves your deadline to Friday at 11:59 PM. This only affects your assignment's grading deadline; it has no effect on attendance, which is tracked separately through [attendance passes](#attendance-passes).
 
 ### Project Extensions
 
 An extension request will <b>automatically extend your project submission deadline by 72 hours</b> without any lateness penalties. For instance, if a project is due by Monday at midnight, it will now be due by Thursday at midnight.
-
-### Lecture Quiz Extensions
-
-An extension request will automatically extend your lecture quiz submission deadline to the day of the following lecture at 11:59 PM. For example, if a lecture quiz was originally due on Monday, the extended deadline would be Wednesday at 11:59 PM. If there is no lecture on the day your extension would normally land (for example, due to a holiday or break), your deadline simply moves to whenever the next lecture actually happens.
-
-### Discussion Worksheet Extensions
-
-An extension request will automatically extend your discussion worksheet submission deadline to the day of the following discussion section at 11:59 PM. For example, if a worksheet was originally due on 9/11, the new due date would be 9/18 at 11:59 PM. If there is no discussion section on the day your extension would normally land (for example, due to a holiday or break), your deadline simply moves to whenever the next discussion section actually happens.
 
 ## Lateness Penalties
 
