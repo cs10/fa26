@@ -625,7 +625,7 @@
       <th>Wed 10/21</th>
       <td>
         Lec 16. HCI (Shm Almeda)<br/>
-        (Video) <!--<a href="">(Slides)</a>-->(Slides)
+        (Video) <!--<a href="">(Slides)</a>-->
       </td>
       <td rowspan="2"> Practice Midterm (fractal) <br/> </td>
       <td></td>
