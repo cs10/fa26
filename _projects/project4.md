@@ -11,12 +11,12 @@ submission_files:
 
 *We highly recommend reading through this spec in its entirety before you begin.*
 
-- [Artifact + Documentation](https://www.gradescope.com/courses/1232070/assignments/7495230) Due: **Tuesday, 3/31 at 11:59 PM PT** on Gradescope
+- [Artifact + Documentation](https://www.gradescope.com/courses/{{ site.gradescope_course_id }}) Due: **Tuesday, 3/31 at 11:59 PM PT** on Gradescope
 
 - Presention on **Thursday, 4/2 at 11 AM in Soda 430** during discussion.
     - Information on makeup presentations is provided below. 
 
-- [Comments + Peer Feedback](https://www.gradescope.com/courses/1232070/assignments/7495242) Due: **Friday, 4/10 at 11:59 PM PT** on Gradescope
+- [Comments + Peer Feedback](https://www.gradescope.com/courses/{{ site.gradescope_course_id }}) Due: **Friday, 4/10 at 11:59 PM PT** on Gradescope
     - Be sure to upload the comments to Ed Discussion (link TBD)
       
 > Any important updates or clarifications will be made here.

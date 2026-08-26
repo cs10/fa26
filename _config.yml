@@ -31,7 +31,7 @@ url: 'http://cs10.org' # the hostname & protocol for your site, e.g. http://exam
 # TODO(setup): Set all of these course variables
 course: CS 10
 course_email: cs10@berkeley.edu
-gradescope_course_id: 1363663 # you can find this in the Gradescope URL after /courses
+gradescope_course_id: 1371156 # you can find this in the Gradescope URL after /courses
 bcourses_course_id: 1558076 # Same as above, but for bCourses. Leave blank if not in use...
 ed_course_id: 102681 # Again, same as above.
 sememster: fa26 # set for the current seemester
@@ -55,7 +55,7 @@ aux_links:
   iClicker:
     - 'https://student.iclicker.com/#/login'
   Gradescope:
-    - 'https://www.gradescope.com/courses/1363663'
+    - 'https://www.gradescope.com/courses/1371156'
   GradeView:
     - 'https://gradeview.eecs.berkeley.edu/login'
 

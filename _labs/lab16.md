@@ -196,4 +196,4 @@ Recreate your own version of combine in Python that takes in a list of numbers O
 
 ---
 
-**You can always check the validity of your solutions by using the local autograder. Remember to submit on [Gradescope](https://www.gradescope.com/courses/782967)!**
+**You can always check the validity of your solutions by using the local autograder. Remember to submit on [Gradescope](https://www.gradescope.com/courses/{{ site.gradescope_course_id }})!**
