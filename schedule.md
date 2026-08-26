@@ -78,7 +78,7 @@
       <th>Wed 8/26</th>
       <td>
         Lec 1. Welcome + Abstraction<br/>
-        (Video) (Slides)
+        (Video) <a href="https://drive.google.com/file/d/1dUlUg_4BUZrQ-t0aKLIFu9f2e3nh-gzQ/view?usp=drive_link">(Slides)</a>
       </td>
       <td rowspan="2"><a href="https://cs10.org/fa26/labs/lab01/">Lab 1. Welcome to Snap!</a> <br/> </td>
       <td></td>
@@ -131,7 +131,7 @@
       <th>Mon 8/31</th>
       <td>
         Lec 2. Functions<br/>
-        (Video) (Slides)
+        (Video) <a href="https://drive.google.com/file/d/1xiNfvA8PbKNc-VAMd2YaB7X93UuJHfB6/view?usp=drive_link">(Slides)</a>
       </td>
       <td rowspan="2"> Lab 2. Build Your Own Blocks <br/> </td>
       <td></td>
@@ -147,7 +147,7 @@
       <th>Wed 9/2</th>
       <td>
         Lec 3. Abstraction II<br/>
-        (Video) (Slides)
+        (Video) <a href="https://drive.google.com/file/d/1w3ck5J-VOj6Tan7eKdhgN8OwwiD9a4Zu/view?usp=drive_link">(Slides)</a>
       </td>
       <td rowspan="2"> Lab 3. Conditionals, Reporters, & Testing <br/> </td>
       <td></td>
@@ -211,7 +211,7 @@
       <th>Wed 9/9</th>
       <td>
         Lec 4. Computing in Education<br/>
-        (Video) (Slides)
+        (Video) <a href="https://drive.google.com/file/d/1BKQ0jP7T1YgsMpJ-wAJ7ZR_cd132BlYi/view?usp=drive_link">(Slides)</a>
       </td>
       <td rowspan="2"> Project 1 Party <br/> </td>
       <td></td>
@@ -264,7 +264,7 @@
       <th>Mon 9/14</th>
       <td>
         Lec 5. Iteration<br/>
-        (Video) (Slides)
+        (Video) <a href="https://drive.google.com/file/d/13dQEitJYlz1EBnlLgIeMmiJ7_G8w5ncc/view?usp=drive_link">(Slides)</a>
       </td>
       <td rowspan="2"> Lab 4. Iteration <br/> </td>
       <td></td>
@@ -280,7 +280,7 @@
       <th>Wed 9/16</th>
       <td>
         Lec 6. Lists, Scoping, & HOFs<br/>
-        (Video) (Slides)
+        (Video) <a href="https://drive.google.com/file/d/1pHeJkMcS4hex5l5hfZ0DxoWpl0zwGybx/view?usp=drive_link">(Slides)</a>
       </td>
       <td rowspan="2"> Lab 5. Lists & HOFs <br/> </td>
       <td></td>
@@ -333,7 +333,7 @@
       <th>Mon 9/21</th>
       <td>
         Lec 7. Higher-Order Functions<br/>
-        (Video) (Slides)
+        (Video) <a href="https://drive.google.com/file/d/1pohZVsm_LXNdiQscTqqWox3Hv8Wd6e0J/view?usp=drive_link">(Slides)</a>
       </td>
       <td rowspan="2"> Lab 6. Functions as Data, HOFs <br/> </td>
       <td></td>
@@ -349,7 +349,7 @@
       <th>Wed 9/23</th>
       <td>
         Lec 8. Algorithms<br/>
-        (Video) (Slides)
+        (Video) <a href="https://drive.google.com/file/d/1eGe_LL8JUu0iNGoxfAxNxDCMX7-qcAgp/view?usp=drive_link">(Slides)</a>
       </td>
       <td rowspan="2"> Catch-up (optional) <br/> </td>
       <td></td>
@@ -402,7 +402,7 @@
       <th>Mon 9/28</th>
       <td>
         Lec 9. Algorithmic Complexity<br/>
-        (Video) (Slides)
+        (Video) <a href="https://drive.google.com/file/d/1-e_TRoFaZAZXtt1gSPLcjGmeN36Uxqnm/view?usp=drive_link">(Slides)</a>
       </td>
       <td rowspan="2"> Lab 7. Algorithms <br/> </td>
       <td></td>
@@ -418,7 +418,7 @@
       <th>Wed 9/30</th>
       <td>
         Lec 10. Testing + 2048<br/>
-        (Video) (Slides)
+        (Video) <a href="https://drive.google.com/file/d/1ajYTduj9Rpv19rZO6TSlcuQ21yBFsuy3/view?usp=drive_link">(Slides)</a>
       </td>
       <td rowspan="2"> Lab 8. Testing + 2048 <br/> </td>
       <td></td>
@@ -471,7 +471,7 @@
       <th>Mon 10/5</th>
       <td>
         Lec 11. Recursion I (Functional)<br/>
-        (Video) (Slides)
+        (Video) <a href="https://drive.google.com/file/d/1rhyfIfPyb5HsSB9N8dOA_Pn58sr0yvvU/view?usp=drive_link">(Slides)</a>
       </td>
       <td rowspan="2"> Lab 9. Boards <br/> </td>
       <td></td>
@@ -487,7 +487,7 @@
       <th>Wed 10/7</th>
       <td>
         Lec 12. Recursion II (Fractals)<br/>
-        (Video) (Slides)
+        (Video) <a href="https://drive.google.com/file/d/1qb_ixaZvzDitH-eATGfOSaovxeaJaVXa/view?usp=drive_link">(Slides)</a>
       </td>
       <td rowspan="2"> Lab 10. Trees & Fractals <br/> </td>
       <td></td>
@@ -540,7 +540,7 @@
       <th>Mon 10/12</th>
       <td>
         Lec 13. Recursion III (Count Change)<br/>
-        (Video) (Slides)
+        (Video) <a href="https://drive.google.com/file/d/1LOBsTelQjBgY0QfpdYokovIxQ3_SDHfE/view?usp=drive_link">(Slides)</a>
       </td>
       <td rowspan="2"> Lab 11. Recursive Reporters <br/> </td>
       <td></td>
@@ -556,7 +556,7 @@
       <th>Wed 10/14</th>
       <td>
         Lec 14. Social Implications of Computing: Privacy<br/>
-        (Video) (Slides)
+        (Video) <!--<a href="">(Slides)</a>-->(Slides)
       </td>
       <td rowspan="2"> Lab 12. Algorithmic Complexity <br/> </td>
       <td></td>
@@ -609,7 +609,7 @@
       <th>Mon 10/19</th>
       <td>
         Lec 15. Kathy Yelick "Saving the World with Computing"<br/>
-        (Video) (Slides)
+        (Video) <a href="https://drive.google.com/file/d/1k3hl9mOVuNLAh9LzrZNGpzKaH69BwII2/view?usp=drive_link">(Slides)</a>
       </td>
       <td rowspan="2"> Practice Midterm (no code) <br/> </td>
       <td></td>
@@ -625,7 +625,7 @@
       <th>Wed 10/21</th>
       <td>
         Lec 16. HCI (Shm Almeda)<br/>
-        (Video) (Slides)
+        (Video) <!--<a href="">(Slides)</a>-->(Slides)
       </td>
       <td rowspan="2"> Practice Midterm (fractal) <br/> </td>
       <td></td>
@@ -678,7 +678,7 @@
       <th>Mon 10/26</th>
       <td>
         Lec 17. Concurrency<br/>
-        (Video) (Slides)
+        (Video) <a href="https://drive.google.com/file/d/1nxDs9G9eijscPh4PW7Cmme7dQgMo3SUX/view?usp=drive_link">(Slides)</a>
       </td>
       <td rowspan="2"> Lab 13. Concurrency <br/> </td>
       <td></td>
@@ -694,7 +694,7 @@
       <th>Wed 10/28</th>
       <td>
         Lec 18. OOP in Snap!<br/>
-        (Video) (Slides)
+        (Video) <a href="https://drive.google.com/file/d/1tIn-P8b1ZADGqX7yZ-VzrslA-dnOzlgF/view?usp=drive_link">(Slides)</a>
       </td>
       <td rowspan="2"> Lab 14. OOP in Snap! <br/> </td>
       <td></td>
@@ -747,7 +747,7 @@
       <th>Mon 11/2</th>
       <td>
         Lec 19. Python I - Intro<br/>
-        (Video) (Slides)
+        (Video) <a href="https://drive.google.com/file/d/1k4g6eWTP0WoWxxgpx9fsBooxRhTpSoMM/view?usp=drive_link">(Slides)</a>
       </td>
       <td rowspan="2"> Lab 15. Welcome to Python <br/> </td>
       <td></td>
@@ -763,7 +763,7 @@
       <th>Wed 11/4</th>
       <td>
         Lec 20. Python II - Data Types & Structures<br/>
-        (Video) (Slides)
+        (Video) <a href="https://drive.google.com/file/d/1Yd5uJC6QNdYuhprWArCrVqRLbqDmtopK/view?usp=drive_link">(Slides)</a>
       </td>
       <td rowspan="2"> Lab 16. Lists and Mutability <br/> </td>
       <td></td>
@@ -816,7 +816,7 @@
       <th>Mon 11/9</th>
       <td>
         Lec 21. Programming Paradigms<br/>
-        (Video) (Slides)
+        (Video) <a href="https://drive.google.com/file/d/1YvQDjtZSyw2tiN8uBqwxTgbZ3MIGRC_H/view?usp=drive_link">(Slides)</a>
       </td>
       <td rowspan="2"> Lab 17. Data Structures in Python <br/> </td>
       <td></td>
@@ -880,7 +880,7 @@
       <th>Mon 11/16</th>
       <td>
         Lec 22. Gen AI<br/>
-        (Video) (Slides)
+        (Video) <a href="https://drive.google.com/file/d/1W5s73SjKPawZgR2nazuYorUp7tc_BUYs/view?usp=drive_link">(Slides)</a>
       </td>
       <td rowspan="2"> Lab 19. Data Science <br/> </td>
       <td></td>
@@ -896,7 +896,7 @@
       <th>Wed 11/18</th>
       <td>
         Lec 23. Ethics in AI<br/>
-        (Video) (Slides)
+        (Video) <a href="https://drive.google.com/file/d/1ibFKElf1ZtS0ChdCMIzwRbRhLODp7A3x/view?usp=drive_link">(Slides)</a>
       </td>
       <td rowspan="2"> Practice Postterm <br/> </td>
       <td></td>
@@ -949,7 +949,7 @@
       <th>Mon 11/23</th>
       <td>
         Lec 24. Python III - Game Theory<br/>
-        (Video) (Slides)
+        (Video) <a href="https://drive.google.com/file/d/1_cZHoz-5i-RRs2v79vaV03udf6RiFc6o/view?usp=drive_link">(Slides)</a>
       </td>
       <td rowspan="2"> Lab 20. Linear Recursion in Python <br/> </td>
       <td></td>
