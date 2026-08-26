@@ -3,5 +3,6 @@ name: Elise Vambenepe
 role: Teaching Assistant
 email: elisevbp@
 photo: Elise_Vambenepe.JPG
+pronouns: she/her
 ---
-Hello! I'm a sophomore studying IEOR (Industrial Engineering & Operations Research). I became an AI last spring after taking CS10 in the fall, and I'm excited to continue my journey as a UCS1! I love dark chocolate and exploring East Bay on my road bike.
+Hello! I'm a junior studying IEOR (Industrial Engineering & Operations Research). I love dark chocolate and exploring East Bay on my road bike.
