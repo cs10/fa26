@@ -90,10 +90,10 @@ Lectures will be live and in-person in Physics 4 on Mondays, Wednesdays, and Fri
 
 Lectures aim to introduce concepts and provide a "big-picture view" of material from a theoretical standpoint. Most lectures will be live and in person. However, some lectures may be pre-recorded, which you can watch in your free time. There is no in-person session on pre-recorded lecture days, so attendance is not required and no attendance pass is spent for those days; we may post an optional, ungraded comprehension exercise for these lectures, but it has no bearing on your grade or attendance.
 
-<b>Attendance is required, and credit for attending will be through the iClicker app.</b> If you cannot attend lecture, one of your 10 [attendance passes](#attendance-passes) is used automatically; no submission or notification is needed. We may continue to post an optional Lecture Quiz for your own review of the material, but it is entirely ungraded and has no bearing on your grade or attendance.
+<b>Attendance is required, and credit for attending will be through the iClicker app.</b> If you cannot attend lecture, one of your 10 [attendance passes](#attendance-passes) is used automatically. We will continue to post an optional, supplementary "Lecture Quiz" on Gradescope for your own review of the material.
 
-* <b>Monday & Wednesday</b> lectures have required attendance.
-* <b>Friday</b> lectures (we call them the Friday "Talks"!) are optional and do not draw on your attendance passes. Some Fridays will be review sessions where we prep for exams or go over the answers to an exam; these exam review Fridays will not be recorded and will not have any slides, so we recommend coming in person to get the answers to exam questions!
+* <b>Monday & Wednesday</b> lectures cover new course content and have required attendance.
+* <b>Friday</b> lectures (we call them the Friday "Talks"!) are more applied and informal: expect live coding demos, Q&A, and exam previews/reviews. They're optional and do not draw on your attendance passes. Some Fridays are dedicated to going over exam solutions live; these sessions are not recorded and have no slides, so attending in person is the only way to get the answers.
 
 ### Lab Sections
 
@@ -105,11 +105,11 @@ This semester, there are two lab sections, both in person:
 
 Lab assignments are submitted to Gradescope. Each lab (unless specified) has <b>two assignments</b>: one for your code, one for conceptual checkoff problems, and TAs/Tutors are available during lab sections to help with both. Labs are graded all-or-nothing: a full score on both assignments earns credit for that lab, and anything less earns none. The three practice exam labs (Practice Midterm (no code), Practice Midterm (fractal), and Practice Postterm) are graded on completion only, and Lab 1 is not optional but has no submission, credit, or attendance grade. All other labs are graded unless explicitly marked "optional" on the schedule page, and optional labs don't require attendance either. **Your lowest two lab assignment scores will be dropped.**
 
-Lab assignments are due before your next lab section begins, with a grace period until 11:59 PM that same day. Gradescope's actual deadline for credit is 11:59 PM, so nothing is marked late before then, but we strongly encourage submitting before your next lab section starts so you're not falling behind on new material. Concretely, the 11:59 PM grace period lands on:
+**Lab assignments are due before your next lab section begins**, with a grace period until 11:59 PM that same day. Gradescope's actual deadline for credit is 11:59 PM, but we strongly encourage submitting before your next lab section starts so you're not falling behind on new material. The 11:59 PM deadline falls on:
 * Monday/Wednesday section: Monday labs due Wednesday, Wednesday labs due the following Monday.
 * Tuesday/Thursday section: Tuesday labs due Thursday, Thursday labs due the following Tuesday.
 
-Attendance at lab sections is required and tracked via iClicker. If you miss a lab section, one of your 10 [attendance passes](#attendance-passes) is used automatically; no submission or notification is needed. The lab assignment itself is always due by the grace-period deadline above regardless of whether you attended or used a pass — attendance and the lab assignment grade are tracked independently of each other.
+Attendance at lab sections is required and tracked via iClicker. If you miss a lab section, one of your 10 [attendance passes](#attendance-passes) is used automatically (i.e., you do not need to let us know). The lab assignment itself is always due by the deadline above regardless of whether you used a pass — attendance and the lab assignment grade are tracked independently of each other.
 
 Some lab days are designated Project Parties or Catch-up Sessions, where attendance is not required and labs function as optional office hours. We will explicitly label all optional labs, discussions, and lectures as "optional."
 
@@ -123,7 +123,7 @@ This semester, there are two discussion sections, both in person on Fridays in t
 
 Discussion attendance is mandatory and tracked using iClicker. <b>If you attend discussion in person and do the iClicker, no further action or submission is required</b> to receive attendance credit. If you do not attend, one of your 10 [attendance passes](#attendance-passes) is used automatically; no submission or notification is needed.
 
-The discussion worksheets remain posted on the course website as optional self-study material, and you're welcome to work through them in any format (for example, handwritten, electronically written, or typed). They are ungraded and are not submitted anywhere, so completing one has no bearing on your attendance or grade. Discussions are also recorded, and we recommend watching the recordings and working through the worksheets to help prepare for exams. However, discussions will not go over every problem on the worksheet.
+The discussion worksheets will be posted on the course website, and your discussion TA will often print and hand them out during section. The worksheets are neither submitted nor graded. Discussion sections are not recorded, and we may not go over every problem on the worksheet during section, but you're welcome to visit General OH to discuss worksheet content.
 
 From experience, we have observed that students who regularly attend and actively participate in discussions tend to perform better on exams.
 
@@ -223,9 +223,11 @@ That said, don't treat this as a strategy. "I'll just do well on the Postterm" i
 
 ### Attendance Passes and Exam Retakes
 
-Exam retakes (version 2 and version 3 of each Quest, Midterm, and Postterm) are a privilege, not an entitlement. If you exhaust all 10 of your [attendance passes](#attendance-passes), you permanently forfeit access to every remaining exam retake for the rest of the semester, across all exam types, not just the one you were about to take. This does not affect the mandatory first version of any exam (Quest 1, Midterm 1, Postterm 1), which you may always take.
+We offer a relatively generous retake policy (version 2 and version 3 of each Quest, Midterm, and Postterm), which is a privilege. If you exhaust all 10 of your [attendance passes](#attendance-passes), you permanently forfeit access to every remaining exam retake for the rest of the semester. This does not affect the mandatory first version of any exam (Quest 1, Midterm 1, Postterm 1), which you may always take.
 
-For example, if you exhaust your passes the day before Postterm 1, you may still take Postterm 1, but you lose access to Postterm 2 and Postterm 3. If you exhaust your passes right after taking Midterm 2, you lose access to Midterm 3, Postterm 2, and Postterm 3.
+For example:
+* If you exhaust your passes the day before Postterm 1, you may still take Postterm 1, but you lose access to Postterm 2 and Postterm 3.
+* If you exhaust your passes right after taking Midterm 2, you lose access to Midterm 3, Postterm 2, and Postterm 3.
 
 This policy is effective immediately. If genuine extenuating circumstances (prolonged illness, family emergencies, etc.) caused you to exhaust your passes, visit Support OH; we will discuss your specific situation individually, though this is not an automatic exception.
 
