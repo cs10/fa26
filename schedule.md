@@ -80,7 +80,7 @@
         Lec 1. Welcome + Abstraction<br/>
         (Video) (Slides)
       </td>
-      <td rowspan="2"> Lab 1. Welcome to Snap! <br/> </td>
+      <td rowspan="2"><a href="https://cs10.org/fa26/labs/lab01/">Lab 1. Welcome to Snap!</a> <br/> </td>
       <td></td>
       <td></td>
     </tr>
