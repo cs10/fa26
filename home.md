@@ -26,6 +26,7 @@ UC Berkeley, Fall 2026
 - Read <a href="https://edstem.org/us/courses/102681/discussion/8209330">"Weekly Blast 1: Welcome to CS10! 👋"</a> on EdStem
 - Enroll in a Lab & Discussion Section (read <a href="https://edstem.org/us/courses/102681/discussion/8209335">Ed post #5</a>)
 - Sign up for iClicker (lecture, lab, and discussion) (read <a href="https://edstem.org/us/courses/102681/discussion/8209338">Ed post #6</a>)
+- Fill out the <a href="https://forms.gle/QoHMcFPTCpEao9jz5">Pre-Semester Survey</a> before the end of this week!
 - Read the <a href="https://cs10.org{{ site.baseurl }}/syllabus/">syllabus</a> thoroughly! Note that the syllabus is not yet finalized, and there have been some changes as of 8/26.
 - Attendance starts Week 2.
 - All office hours start Week 2 (ideally). In the meantime, please ask on Ed if you have a question.
