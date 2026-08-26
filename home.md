@@ -22,15 +22,11 @@ UC Berkeley, Fall 2026
 </div>
 
 ## Announcements: Wednesday, August 26
-Welcome to CS10! 🎉
-
-**To Do:**
+- Welcome to CS10! 🎉
 - Read <a href="https://edstem.org/us/courses/102681/discussion/8209330">"Weekly Blast 1: Welcome to CS10! 👋"</a> on EdStem
 - Enroll in a Lab & Discussion Section (read <a href="https://edstem.org/us/courses/102681/discussion/8209335">Ed post #5</a>)
 - Sign up for iClicker (lecture, lab, and discussion) (read <a href="https://edstem.org/us/courses/102681/discussion/8209338">Ed post #6</a>)
 - Read the <a href="https://cs10.org{{ site.baseurl }}/syllabus/">syllabus</a> thoroughly! Note that the syllabus is not yet finalized, and there have been some changes as of 8/26.
-
-**Notes:**
 - Attendance starts Week 2.
 - All office hours start Week 2 (ideally). In the meantime, please ask on Ed if you have a question.
 - Concurrent enrollment students should still attend lectures, labs, and discussion if you plan to enroll.
