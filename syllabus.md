@@ -184,19 +184,19 @@ All exams will be taken on an online platform called [PrairieLearn](#platforms).
 
 Exams are open-note, but <b>not</b> open-internet: you may not consult web search or AI tools for help on exams. You may use any resource provided on the course website, including (but not limited to) lecture slides and videos, materials on the Resources tab, practice exams, and past labs and discussions. If you are unsure whether a resource is allowed, ask on EdStem or consult with course staff.
 
-Here are the specific dates for exams, although these dates may change. All exams open at 4 PM on Friday and close at 11:59 PM on Sunday.
+Here are the specific dates for exams, although these dates may change. All exams open at 5 PM on Friday and close at 11:59 PM on Sunday.
 
 | Exam             | Release              | Due         |   
 | :----:           | :----:               | :----:      | 
-| Quest 1          | FRI 9/25 @ 4 PM      | SUN 9/27 @ 11:59 PM    |  
-| Quest 2          | FRI 10/2 @ 4 PM      | SUN 10/4 @ 11:59 PM    |
-| Quest 3          | FRI 10/9 @ 4 PM      | SUN 10/11 @ 11:59 PM   |  
-| Midterm 1        | FRI 10/23 @ 4 PM     | SUN 10/25 @ 11:59 PM   |  
-| Midterm 2        | FRI 10/30 @ 4 PM     | SUN 11/1 @ 11:59 PM    |  
-| Midterm 3        | FRI 11/6 @ 4 PM      | SUN 11/8 @ 11:59 PM    | 
-| Postterm 1       | FRI 11/20 @ 4 PM     | SUN 11/22 @ 11:59 PM   |  
-| Postterm 2       | FRI 12/4 @ 4 PM      | SUN 12/6 @ 11:59 PM    |  
-| Postterm 3       | FRI 12/11 @ 4 PM     | SUN 12/13 @ 11:59 PM   |  
+| Quest 1          | FRI 9/25 @ 5 PM      | SUN 9/27 @ 11:59 PM    |  
+| Quest 2          | FRI 10/2 @ 5 PM      | SUN 10/4 @ 11:59 PM    |
+| Quest 3          | FRI 10/9 @ 5 PM      | SUN 10/11 @ 11:59 PM   |  
+| Midterm 1        | FRI 10/23 @ 5 PM     | SUN 10/25 @ 11:59 PM   |  
+| Midterm 2        | FRI 10/30 @ 5 PM     | SUN 11/1 @ 11:59 PM    |  
+| Midterm 3        | FRI 11/6 @ 5 PM      | SUN 11/8 @ 11:59 PM    | 
+| Postterm 1       | FRI 11/20 @ 5 PM     | SUN 11/22 @ 11:59 PM   |  
+| Postterm 2       | FRI 12/4 @ 5 PM      | SUN 12/6 @ 11:59 PM    |  
+| Postterm 3       | FRI 12/11 @ 5 PM     | SUN 12/13 @ 11:59 PM   |  
 
 You will see several exams throughout the semester (for example, Quest 1, Quest 2, Quest 3). Each exam type (Quest, Midterm, and Postterm) has three versions, so you can retake it and earn credit for questions you missed on earlier attempts; each retake is similar in content but not identical.
 
