@@ -42,7 +42,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
       <td>Week 1</td>
       <td>Fri 8/28</td>
       <td>Disc 1. Welcome to CS 10!</td>
-      <td>Worksheet 1</td>
+      <td><a href="https://docs.google.com/document/d/1iorI7tkhWwZlTzgJp9XLK5NKPMB0xPveJgCCT3MwAJU/edit?usp=sharing">Worksheet 1</a></td>
       <td>Solutions 1</td>
       <td>Notes 1</td>
     </tr>

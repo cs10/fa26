@@ -97,7 +97,7 @@
         (Video)<br/>
       </td>
       <td></td>
-      <td> Disc 1. Welcome to CS 10! </td>
+      <td> <a href="https://docs.google.com/document/d/1iorI7tkhWwZlTzgJp9XLK5NKPMB0xPveJgCCT3MwAJU/edit?usp=sharing">Disc 1. Welcome to CS 10!</a> </td>
       <td></td>
     </tr>
   </tbody>
