@@ -27,8 +27,8 @@ UC Berkeley, Fall 2026
 - Sign up for iClicker (lecture, lab, and discussion) (read <a href="https://edstem.org/us/courses/102681/discussion/8209338">Ed post #6</a>)
 - Fill out the <a href="https://forms.gle/QoHMcFPTCpEao9jz5">Pre-Semester Survey</a> before the end of this week!
 - Concurrent enrollment students should still attend lectures, labs, and discussion if you plan to enroll.
-- Please take note of our new attendance policy (see "Attendance Passes" section in the <a href="https://cs10.org/fa26/syllabus/#attendance-passes">syllabus</a>). Feel free to reach out to cs10@berkeley.edu for any questions or concerns. 
-- Support OH will occur today from 5-7 PM on Zoom. Learn more about Support OH on <a href="https://edstem.org/us/courses/102681/discussion/8210374">Ed post #14</a>.
+- Please take note of our new attendance policy (see <a href="https://cs10.org/fa26/syllabus/#attendance-passes">"Attendance Passes"</a> section in the syllabus). Feel free to reach out to cs10@berkeley.edu for any questions or concerns. 
+- Support OH will occur today from 5-7 PM on Zoom. Learn more about Support OH in <a href="https://edstem.org/us/courses/102681/discussion/8210374">Ed post #14</a>.
 
 **Instructor:** <a href="https://people.eecs.berkeley.edu/~ddgarcia/">Teaching Professor Dan Garcia</a>  
 **Instructor’s OH:** TBD  
