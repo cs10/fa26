@@ -21,16 +21,14 @@ UC Berkeley, Fall 2026
 
 </div>
 
-## Announcements: Wednesday, August 26
-- Welcome to CS10! 🎉
+## Announcements: Friday, August 28
 - Read <a href="https://edstem.org/us/courses/102681/discussion/8209330">"Weekly Blast 1: Welcome to CS10! 👋"</a> on EdStem
 - Enroll in a Lab & Discussion Section (read <a href="https://edstem.org/us/courses/102681/discussion/8209335">Ed post #5</a>)
 - Sign up for iClicker (lecture, lab, and discussion) (read <a href="https://edstem.org/us/courses/102681/discussion/8209338">Ed post #6</a>)
 - Fill out the <a href="https://forms.gle/QoHMcFPTCpEao9jz5">Pre-Semester Survey</a> before the end of this week!
-- Read the <a href="https://cs10.org{{ site.baseurl }}/syllabus/">syllabus</a> thoroughly! Note that the syllabus is not yet finalized, and there have been some changes as of 8/26.
-- Attendance starts Week 2.
-- All office hours start Week 2 (ideally). In the meantime, please ask on Ed if you have a question.
 - Concurrent enrollment students should still attend lectures, labs, and discussion if you plan to enroll.
+- Please take note of our new attendance policy (see <a href="https://cs10.org/fa26/syllabus/#attendance-passes">"Attendance Passes"</a> section in the syllabus). Feel free to reach out to cs10@berkeley.edu for any questions or concerns. 
+- Support OH will occur today from 5-7 PM on Zoom. Learn more about Support OH in <a href="https://edstem.org/us/courses/102681/discussion/8210374">Ed post #14</a>.
 
 **Instructor:** <a href="https://people.eecs.berkeley.edu/~ddgarcia/">Teaching Professor Dan Garcia</a>  
 **Instructor’s OH:** TBD  

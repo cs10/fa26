@@ -19,7 +19,7 @@ Lab Slides: [Jaclyn's Lab (801L)](https://drive.google.com/drive/folders/1nlxHC0
 
 | Labs | Date |
 | :----: | :----: |
-| Lab 1: Welcome to Snap! | Wed 8/26 & Thu 8/27 |
+| [Lab 1: Welcome to Snap!](/fa26/labs/lab01) | Wed 8/26 & Thu 8/27 |
 | Lab 2: Build Your Own Blocks | Mon 8/31 & Tue 9/1 |
 | Lab 3: Conditionals, Reporters, & Testing | Wed 9/2 & Thu 9/3 |
 | Project 1 Party (Optional) | Wed 9/9 & Thu 9/10 |
