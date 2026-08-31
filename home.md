@@ -23,6 +23,8 @@ UC Berkeley, Fall 2026
 
 ## Announcements: Monday, August 31
 - Read Weekly Blast 2 on EdStem
+- Enroll in a Lab & Discussion Section (read <a href="https://edstem.org/us/courses/102681/discussion/8209335">Ed post #5</a>)
+  - Only attend the section you are enrolled in
 - Fill out the <a href="https://forms.gle/QoHMcFPTCpEao9jz5">Pre-Semester Survey</a>
 - Mandatory attendance starts this week! Please remember to check in with iClicker for Lecture, Lab, and Discussion to log your attendance.
 - Project 1: WordleLite will be released on Friday, 9/4, and will be due on Wednesday, 9/16, at 11:59 PM
