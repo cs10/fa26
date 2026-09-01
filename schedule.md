@@ -77,7 +77,7 @@
     <tr>
       <th>Wed 8/26</th>
       <td>
-        Lec 1. Welcome + Abstraction<br/>
+        <a href="https://bcourses.berkeley.edu/courses/1558076/external_tools/90481">Lec 1. Welcome + Abstraction</a><br/>
         (Video) <a href="https://drive.google.com/file/d/1dUlUg_4BUZrQ-t0aKLIFu9f2e3nh-gzQ/view?usp=drive_link">(Slides)</a>
       </td>
       <td rowspan="2"><a href="https://cs10.org/fa26/labs/lab01/">Lab 1. Welcome to Snap!</a> <br/> </td>
@@ -93,7 +93,7 @@
     <tr>
       <th>Fri 8/28</th>
       <td>
-        Talk 1. Fun "Ask me anything", abstraction, using Snap!<br/>
+        <a href="https://bcourses.berkeley.edu/courses/1558076/external_tools/90481">Talk 1. Fun "Ask me anything", abstraction, using Snap!</a><br/>
         (Video)<br/>
       </td>
       <td></td>
@@ -130,7 +130,7 @@
       <td class="schedule-week-num" rowspan="5">Week 2</td>
       <th>Mon 8/31</th>
       <td>
-        Lec 2. Functions<br/>
+        <a href="https://bcourses.berkeley.edu/courses/1558076/external_tools/90481">Lec 2. Functions</a><br/>
         (Video) <a href="https://drive.google.com/file/d/1xiNfvA8PbKNc-VAMd2YaB7X93UuJHfB6/view?usp=drive_link">(Slides)</a>
       </td>
       <td rowspan="2"> Lab 2. Build Your Own Blocks <br/> </td>
