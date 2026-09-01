@@ -39,7 +39,7 @@ Below is a quick reference for every platform we'll use this semester, along wit
 | Platform         | Purpose                         | Link                                                                 | Join Code       |
 | :---------------- | :------------------------------- | :--------------------------------------------------------------------| :---------- |
 | Course Website    | Daily schedule, links to all platforms below | [cs10.org](https://cs10.org{{ site.baseurl }})              | —          |
-| EdStem            | Q&A, announcements, Weekly Blasts | [EdStem](https://edstem.org/us/courses/{{ site.ed_course_id }}) / [Join](https://edstem.org/us/join/TBD) | TBD   |
+| EdStem            | Q&A, announcements, Weekly Blasts | [EdStem](https://edstem.org/us/courses/{{ site.ed_course_id }}) / [Join](https://edstem.org/us/join/We446g) | We446g   |
 | Gradescope        | Submit Projects 1-4, Final Project, and labs | [Gradescope](https://www.gradescope.com/courses/{{ site.gradescope_course_id }}) | G7EE3P     |
 | bCourses          | Lecture recordings                | [bCourses](https://bcourses.berkeley.edu/courses/{{ site.bcourses_course_id }}/external_tools/90481) | —          |
 | iClicker          | Lecture/lab/discussion attendance | see [join links below](#iclicker-join-links)                        | —          |

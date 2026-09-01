@@ -16,7 +16,7 @@ nav_order: 10
 
 ## What should I do first?  
 
-1. Read Ed Discussion Post (Link TBD): To join [Ed Discusison, click here.](https://edstem.org/us/courses/93956)
+1. Read Ed Discussion Post: To join [EdStem, click here.](https://edstem.org/us/join/We446g)
 2. Fill out the [Late-add Google Form](https://forms.gle/hYYTdd3nU5eGR3639)
 3. Read Website: Start from the beginning—go through the syllabus, lectures, and assignments in order. A handy tracker will be available once you join the class and fill out the form. The class schedule can be found on our [home page](https://cs10.org{{ site.baseurl }}/).
 

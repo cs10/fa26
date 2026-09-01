@@ -15,7 +15,7 @@ Here you will find logistics about resolving your grade, along with next steps a
 
 ## What should I do first?
 
-You will need to be manually enrolled into each of the platforms (Bcourses, Gradescope, PrairieLearn, EdStem). To get started, please enroll yourself into EdStem (Link TBD) and make a post about being enrolled into the platforms.
+You will need to be manually enrolled into each of the platforms (Bcourses, Gradescope, PrairieLearn, EdStem). To get started, please enroll yourself into [EdStem](https://edstem.org/us/join/We446g) and make a post about being enrolled into the platforms.
 
 ## Who should I contact if I have questions?
 
