@@ -133,7 +133,7 @@
         <a href="https://bcourses.berkeley.edu/courses/1558076/external_tools/90481">Lec 2. Functions</a><br/>
         (Video) <a href="https://drive.google.com/file/d/1xiNfvA8PbKNc-VAMd2YaB7X93UuJHfB6/view?usp=drive_link">(Slides)</a>
       </td>
-      <td rowspan="2"> Lab 2. Build Your Own Blocks <br/> </td>
+      <td rowspan="2"> <a href="https://cs10.org/fa26/labs/lab02/">Lab 2. Build Your Own Blocks</a> <br/> </td>
       <td></td>
       <td></td>
     </tr>

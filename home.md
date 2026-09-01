@@ -21,14 +21,13 @@ UC Berkeley, Fall 2026
 
 </div>
 
-## Announcements: Friday, August 28
-- Read <a href="https://edstem.org/us/courses/102681/discussion/8209330">"Weekly Blast 1: Welcome to CS10! 👋"</a> on EdStem
+## Announcements: Monday, August 31
+- Read Weekly Blast 2 on EdStem
 - Enroll in a Lab & Discussion Section (read <a href="https://edstem.org/us/courses/102681/discussion/8209335">Ed post #5</a>)
-- Sign up for iClicker (lecture, lab, and discussion) (read <a href="https://edstem.org/us/courses/102681/discussion/8209338">Ed post #6</a>)
-- Fill out the <a href="https://forms.gle/QoHMcFPTCpEao9jz5">Pre-Semester Survey</a> before the end of this week!
-- Concurrent enrollment students should still attend lectures, labs, and discussion if you plan to enroll.
-- Please take note of our new attendance policy (see <a href="https://cs10.org/fa26/syllabus/#attendance-passes">"Attendance Passes"</a> section in the syllabus). Feel free to reach out to cs10@berkeley.edu for any questions or concerns. 
-- Support OH will occur today from 5-7 PM on Zoom. Learn more about Support OH in <a href="https://edstem.org/us/courses/102681/discussion/8210374">Ed post #14</a>.
+  - Only attend the section you are enrolled in
+- Fill out the <a href="https://forms.gle/QoHMcFPTCpEao9jz5">Pre-Semester Survey</a>
+- Mandatory attendance starts this week! Please remember to check in with iClicker for Lecture, Lab, and Discussion to log your attendance.
+- Project 1: WordleLite will be released on Friday, 9/4, and will be due on Wednesday, 9/16, at 11:59 PM
 
 **Instructor:** <a href="https://people.eecs.berkeley.edu/~ddgarcia/">Teaching Professor Dan Garcia</a>  
 **Instructor’s OH:** TBD  

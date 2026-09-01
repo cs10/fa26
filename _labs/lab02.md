@@ -2,7 +2,7 @@
 title: # Lab 02: 
 
 description: Build Your Own Blocks
-due: Thursday, January 29th, 2359 hrs
+due: Thursday, September 3rd, 2359 hrs
 gradescope_assignment_id: 
 submission_files:
 ---
@@ -94,4 +94,4 @@ Examples:
 Objective:  
 - Create a procedure that draws a field of flowers using your creativity and artistic flair! You may use blocks you previously coded in this lab as helpers.  
 - **DO NOT change the pen hue color** when attempting the flower field block, as this may interfere with the autograder.  
-- When finished, take a screenshot of your drawing and upload it to this [folder](https://drive.google.com/drive/u/0/folders/1Seq9Fovej-T3OcWO2K8i_TTKc05bLcfm). All participants will receive a small prize at the next lab! 😉
+- When finished, take a screenshot of your drawing and upload it to your section's [folder](https://drive.google.com/drive/folders/1XqCm_7LhEzbQ-1jrZykalMCnl3Ih6okH?usp=sharing). All participants will receive a small prize at the next lab! 😉
