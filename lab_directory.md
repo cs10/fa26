@@ -21,7 +21,7 @@ Lab Slides: [Jaclyn's Lab (801L)](https://drive.google.com/drive/folders/1nlxHC0
 | :----: | :----: |
 | [Lab 1: Welcome to Snap!](/fa26/labs/lab01) | Wed 8/26 & Thu 8/27 |
 | [Lab 2: Build Your Own Blocks](/fa26/labs/lab02) | Mon 8/31 & Tue 9/1 |
-| Lab 3: Conditionals, Reporters, & Testing | Wed 9/2 & Thu 9/3 |
+| [Lab 3: Conditionals, Reporters, & Testing](/fa26/labs/lab03) | Wed 9/2 & Thu 9/3 |
 | Project 1 Party (Optional) | Wed 9/9 & Thu 9/10 |
 | Lab 4: Iteration | Mon 9/14 & Tue 9/15 |
 | Lab 5: Lists & HOFs | Wed 9/16 & Thu 9/17 |
