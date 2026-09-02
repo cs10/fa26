@@ -28,6 +28,7 @@ UC Berkeley, Fall 2026
 - Fill out the <a href="https://forms.gle/QoHMcFPTCpEao9jz5">Pre-Semester Survey</a>
 - Please remember to check in with iClicker for Lecture, Lab, and Discussion to log your attendance
 - Project 1 Party will occur during lab next week on 9/9 & 9/10, and attendance will be optional. Come get help on your project!
+- There will be no lab on Tuesday, 9/8
 
 **Instructor:** <a href="https://people.eecs.berkeley.edu/~ddgarcia/">Teaching Professor Dan Garcia</a>  
 **Instructor’s OH:** Monday @ 2-3 PM in TBD  
