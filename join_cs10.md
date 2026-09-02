@@ -28,6 +28,9 @@ nav_order: 10
 ## Will I be penalized for missed work?  
 **No**, you won’t be penalized for assignments due before you joined.
 
+## Will I be penalized for attendance?  
+**No**, missed sessions before you officially joined the class do not count against you. Your 10 attendance passes for the semester start counting down from the day you officially joined the class. If you have any questions, read the [attendance policy](https://cs10.org{{ site.baseurl }}/syllabus/#attendance-passes) on the syllabus and post on Ed.
+
 ## Will deadlines be adjusted for me?  
 **Yes**, assignments based on the week you join and past work will be adjusted.
 
