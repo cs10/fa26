@@ -1,7 +1,7 @@
 ---
 title: Project 1
 description: Wordle™-lite
-due: "11:59 PM PST on Wednesday, 2/4"
+due: "11:59 PM PST on Wednesday, 9/16"
 gradescope_assignment_id: 7495160
 submission_files:
     - starter.xml
