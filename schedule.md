@@ -149,7 +149,7 @@
         Lec 3. Abstraction II<br/>
         (Video) <a href="https://drive.google.com/file/d/1w3ck5J-VOj6Tan7eKdhgN8OwwiD9a4Zu/view?usp=drive_link">(Slides)</a>
       </td>
-      <td rowspan="2"> Lab 3. Conditionals, Reporters, & Testing <br/> </td>
+      <td rowspan="2"> <a href="https://cs10.org/fa26/labs/lab03/">Lab 3. Conditionals, Reporters, & Testing</a> <br/> </td>
       <td></td>
       <td></td>
     </tr>
