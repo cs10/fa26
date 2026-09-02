@@ -7,12 +7,12 @@ submission_files:
     - starter.xml
 ---
 
-*Version 3.0. Last Updated: 2025-09-09.*
+*Version 3.0. Last Updated: 2026-09-02.*
 
 *We highly recommend reading through this spec in its entirety before you begin.*
 
 > Any important updates or clarifications will be made here
->> Project 1 Party on Monday (2/2) from 5–8 PM and Wednesday (2/4) from 6–8 PM.
+>> Lab time on Wednesday 9/9 and Thursday 9/10 will be a Project Party to work on the project. There will be no official Lab assignment.
 
 ## To begin, load [this starter project](https://snap.berkeley.edu/snap/snap.html#present:Username=jaclyn&ProjectName=CS10%20Project%201%3a%20Wordle%e2%84%a2%2dlite)
 
