@@ -14,7 +14,7 @@ submission_files:
 > Any important updates or clarifications will be made here
 >> Project 1 Party on Monday (2/2) from 5–8 PM and Wednesday (2/4) from 6–8 PM.
 
-## To begin, load [this starter project](https://snap.berkeley.edu/snap/snap.html#present:Username=jedi_force&ProjectName=BJC%20CS10%20Project%201%3A%20Wordle%E2%84%A2-lite)
+## To begin, load [this starter project](https://snap.berkeley.edu/snap/snap.html#present:Username=jaclyn&ProjectName=CS10%20Project%201%3a%20Wordle%e2%84%a2%2dlite)
 
 
 [Project 1 Walkthrough Guide.pdf](https://drive.google.com/file/d/1liTxubkrh5-Vtp5CbQETI9BurAquIVSx/view)
