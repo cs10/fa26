@@ -22,7 +22,7 @@ UC Berkeley, Fall 2026
 </div>
 
 ## Announcements: Wednesday, September 2
-- Dan's OH will take place on Monday's from 2-3 PM (location is TBD)!
+- Dan's OH will take place on Mondays from 2-3 PM in Gateway B1040 Bear!
 - Added CS10 late? Read <a href="https://edstem.org/us/courses/102681/discussion/8227793">EdStem post #39</a>
   - Late adds should expect to spend extra time to catch up
 - Fill out the <a href="https://forms.gle/QoHMcFPTCpEao9jz5">Pre-Semester Survey</a>
