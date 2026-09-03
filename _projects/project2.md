@@ -13,7 +13,7 @@ submission_files:
 
 *[Project walkthrough guide.pdf](https://drive.google.com/file/d/1eJQpY5PpUwt3vesplElChY293NFQk4Vp/view?usp=sharing)*
 
-## To begin, load [this starter project](https://snap.berkeley.edu/snap/snap.html#present:Username=jedi_force&ProjectName=CS10%20Project%202%3a%20Spelling%20Bee&editMode&noRun)
+## To begin, load [this starter project](https://snap.berkeley.edu/snap/snap.html#present:Username=elisevbp&ProjectName=FA26%20CS10%20Project%202%3a%20Spelling%20Bee&editMode&noRun)
 
 Any important updates or clarifications will be made here.
 > Project 2 Party is TBD
@@ -164,6 +164,6 @@ Note: correct, working code should handle those test cases, but not have the tes
 | complete solution to puzzle _ using words _ | 7.5   | Reporter | list and string | string
 
 ## Feedback Form 
-Congratulations on finish your first project in CS10🥳. Please spend some time completing this [feedback form](https://forms.gle/5T1EMXyLzm6jzzvSA). This will be worth 1 point of your project grade. Each person should submit this feedback form. Thank you!
+Congratulations on finish your first project in CS10🥳. Please spend some time completing this [feedback form](https://forms.gle/nAxU5qU3DTgBQpZv6). This will be worth 1 point of your project grade. Each person should submit this feedback form. Thank you!
 
 
