@@ -284,7 +284,7 @@ Your total points will be rounded to the nearest integer when we compute letter 
 
 ## Extension Requests
 
-For all extension requests on any assignment, please use the Extension Request Form (TBD).
+For all extension requests on any assignment, please use the [Extension Request Form](https://forms.gle/yxo5nuvBRAwcGRCi6).
 
 You are also allowed to request extensions retroactively without penalty. That is, you may request an extension even after the original deadline of a lab or project, but not after the extended deadline for that assignment.
 
