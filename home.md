@@ -31,7 +31,7 @@ UC Berkeley, Fall 2026
 - There will be no lab on Tuesday, 9/8
 
 **Instructor:** <a href="https://people.eecs.berkeley.edu/~ddgarcia/">Teaching Professor Dan Garcia</a>  
-**Instructor’s OH:** Monday @ 2-3 PM in TBD  
+**Instructor’s OH:** Monday @ 2-3 PM in Gateway B1040 Bear  
 **Lectures:** Monday, Wednesday, Friday @ 1–2 PM in <a href="https://classrooms.berkeley.edu/classroom-database/physics-0004">Physics 4</a>  
 **Discussion 801:** Friday @ 3–4 PM in <a href="https://classrooms.berkeley.edu/classroom-database/anthropology-and-art-practice-0160">AAPB 160</a>  
 **Discussion 802:** Friday @ 4–5 PM in <a href="https://classrooms.berkeley.edu/classroom-database/anthropology-and-art-practice-0160">AAPB 160</a>  
