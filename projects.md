@@ -27,10 +27,10 @@ nav_order: 6
   <tbody>
     <tr>
       <td>Project 1: Wordle™-lite</td>
-      <!-- <td><a href="/sp26/projects/project1">Project 1 Instructions</a></td> -->
-      <td> Project 1 Instructions </td>
-      <!-- <td><a href="https://drive.google.com/file/d/1liTxubkrh5-Vtp5CbQETI9BurAquIVSx/view?usp=sharing">Proj 1 Walkthrough Slides</a></td> -->
-      <td> Proj 1 Walkthrough Slides </td>
+      <-- <td><a href="/fa26/projects/project1">Project 1 Instructions</a></td> -->
+      <!-- <td> Project 1 Instructions </td> -->
+      <-- <td><a href="https://drive.google.com/file/d/1liTxubkrh5-Vtp5CbQETI9BurAquIVSx/view?usp=sharing">Proj 1 Walkthrough Slides</a></td> -->
+      <!-- <td> Proj 1 Walkthrough Slides </td> -->
       <td style="max-width:120px;">Friday, 9/4</td>
       <td>Wednesday, 9/16</td>
     </tr>

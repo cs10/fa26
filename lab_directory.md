@@ -7,11 +7,11 @@ nav_order: 8
 # Labs
 
 
-Lab Slides: [Jaclyn's Lab (801L)](https://drive.google.com/drive/folders/1nlxHC011EkUgz9csZpY1u-L6l_oAODM3?usp=drive_link) &nbsp;•&nbsp; [Elise's Lab (802L)](https://drive.google.com/drive/folders/13bsl0EVZKhPkAir1gWGS2_OHGSCpWRkC?usp=drive_link)
+Lab Slides: <a href="https://drive.google.com/drive/folders/1QviClM8HHk_4ARff5usa6fXSsMhjHkJV?usp=sharing">Fall 2026 Lab</a>
 
 > Labs are an opportunity for you to apply what you've learned in lecture in code (and other forms). All labs have a conceptual and a coding component, unless otherwise specified. All lab assignments must be uploaded and autograded using Gradescope; the Gradescope link can be found on the worksheet. The Practice Midterm and Practice Postterm will count towards your lab grade. You will need to take both the coding and non-coding portions of these practice exams to receive credit. Credit for the practice exams is based on completion only, not the score you received on the practice exam.
 
-> We have two lab sections this semester — 801L (SOCS 110, Jaclyn) meets Monday/Wednesday, and 802L (WHLR 212, Elise) meets Tuesday/Thursday. For 801L, Monday lab assignments are due the following Wednesday at 23:59, and Wednesday lab assignments are due the following Monday at 23:59. For 802L, Tuesday lab assignments are due on Thursday at 23:59, and Thursday lab assignments are due the following Tuesday at 23:59. All labs that do not explicitly say “optional” on the schedule page will be graded, with the exception of Lab 1. Lab 1 is not optional, but there is no submission or credit. Attendance is not required for optional labs. The graded labs include three practice exam labs (Practice Midterm (no code), Practice Midterm (fractal), and Practice Postterm), which are graded based on completion only. Your lowest two lab assignment scores will be dropped.
+> We have two lab sections this semester — 801L (SOCS 110, Jaclyn) meets Monday/Wednesday, and 802L (WHLR 212, Elise) meets Tuesday/Thursday. Monday/Tuesday lab assignments are due the following Thursday at 23:59, and Wednesday/Thursday lab assignments are due the following Tuesday at 23:59. All labs that do not explicitly say “optional” on the schedule page will be graded, with the exception of Lab 1. Lab 1 is not optional, but there is no submission or credit. Attendance is not required for optional labs. The graded labs include three practice exam labs (Practice Midterm (no code), Practice Midterm (fractal), and Practice Postterm), which are graded based on completion only. Your lowest two lab assignment scores will be dropped.
 
 > The worksheets linked below are high-level overviews and can be seen as a set of instructions for lab. Each worksheet lists all the required blocks, functions, or tasks for a particular lab. The worksheets also contain some of the test cases used to grade the lab.
 
@@ -21,7 +21,7 @@ Lab Slides: [Jaclyn's Lab (801L)](https://drive.google.com/drive/folders/1nlxHC0
 | :----: | :----: |
 | [Lab 1: Welcome to Snap!](/fa26/labs/lab01) | Wed 8/26 & Thu 8/27 |
 | [Lab 2: Build Your Own Blocks](/fa26/labs/lab02) | Mon 8/31 & Tue 9/1 |
-| Lab 3: Conditionals, Reporters, & Testing | Wed 9/2 & Thu 9/3 |
+| [Lab 3: Conditionals, Reporters, & Testing](/fa26/labs/lab03) | Wed 9/2 & Thu 9/3 |
 | Project 1 Party (Optional) | Wed 9/9 & Thu 9/10 |
 | Lab 4: Iteration | Mon 9/14 & Tue 9/15 |
 | Lab 5: Lists & HOFs | Wed 9/16 & Thu 9/17 |

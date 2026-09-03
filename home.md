@@ -21,16 +21,17 @@ UC Berkeley, Fall 2026
 
 </div>
 
-## Announcements: Monday, August 31
-- Read Weekly Blast 2 on EdStem
-- Enroll in a Lab & Discussion Section (read <a href="https://edstem.org/us/courses/102681/discussion/8209335">Ed post #5</a>)
-  - Only attend the section you are enrolled in
+## Announcements: Wednesday, September 2
+- Dan's OH will take place on Monday's from 2-3 PM (location is TBD)!
+- Added CS10 late? Read <a href="https://edstem.org/us/courses/102681/discussion/8227793">EdStem post #39</a>
+  - Late adds should expect to spend extra time to catch up
 - Fill out the <a href="https://forms.gle/QoHMcFPTCpEao9jz5">Pre-Semester Survey</a>
-- Mandatory attendance starts this week! Please remember to check in with iClicker for Lecture, Lab, and Discussion to log your attendance.
-- Project 1: WordleLite will be released on Friday, 9/4, and will be due on Wednesday, 9/16, at 11:59 PM
+- Please remember to check in with iClicker for Lecture, Lab, and Discussion to log your attendance
+- Project 1 Party will occur during lab next week on 9/9 & 9/10, and attendance will be optional. Come get help on your project!
+- There will be no lab on Tuesday, 9/8
 
 **Instructor:** <a href="https://people.eecs.berkeley.edu/~ddgarcia/">Teaching Professor Dan Garcia</a>  
-**Instructor’s OH:** TBD  
+**Instructor’s OH:** Monday @ 2-3 PM in Gateway B1040 Bear  
 **Lectures:** Monday, Wednesday, Friday @ 1–2 PM in <a href="https://classrooms.berkeley.edu/classroom-database/physics-0004">Physics 4</a>  
 **Discussion 801:** Friday @ 3–4 PM in <a href="https://classrooms.berkeley.edu/classroom-database/anthropology-and-art-practice-0160">AAPB 160</a>  
 **Discussion 802:** Friday @ 4–5 PM in <a href="https://classrooms.berkeley.edu/classroom-database/anthropology-and-art-practice-0160">AAPB 160</a>  
