@@ -146,7 +146,7 @@
     <tr>
       <th>Wed 9/2</th>
       <td>
-        Lec 3. Abstraction II<br/>
+        <a href="https://bcourses.berkeley.edu/courses/1558076/external_tools/90481">Lec 3. Abstraction II</a><br/>
         (Video) <a href="https://drive.google.com/file/d/1w3ck5J-VOj6Tan7eKdhgN8OwwiD9a4Zu/view?usp=drive_link">(Slides)</a>
       </td>
       <td rowspan="2"> Lab 3. Conditionals, Reporters, & Testing <br/> </td>
