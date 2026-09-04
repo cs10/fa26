@@ -1,15 +1,15 @@
 ---
 title: Project 3
 description: 2048
-due: "11:59 PM PST on Monday, 3/16"
+due: "11:59 PM PST on Monday, 10/19"
 gradescope_assignment_id: 6577013
 submission_files:
     - starter.xml
 ---
 
-<!-- *Version 3.1. Last Updated: 2024-10-10.* -->
+<!-- *Version 3.1. Last Updated: 2026-09-04.* -->
 
-## To begin, load [this starter project](https://snap.berkeley.edu/snap/snap.html#present:Username=jedi_force&ProjectName=CS10%20Project%203%3a%202048&editMode&noRun)
+## To begin, load [this starter project](https://snap.berkeley.edu/snap/snap.html#present:Username=elisevbp&ProjectName=FA26%20CS10%20Project%203%3a%202048&editMode&noRun)
 
 > Any important announcements will be made here:
 
@@ -189,7 +189,8 @@ Here is guide and some examples of the testing block:
 
 ## Feedback Form
 
-Congratulations on finishing your third project in CS10🥳Please spend some time completing this [feedback form](https://forms.gle/xSE1e9pS7BWfvhy7A). This will be worth 1 point of your project grade. Each member of your group should submit to the form. Each person in the group should submit the form to get full credit. Thank you!
+Congratulations on finishing your third project in CS10🥳Please spend some time completing this [feedback form](https://forms.gle/gmcjQGnAtwZSV15C8). This will be worth 1 point of your project grade. Each member of your group should submit to the form. Each person in the group should submit the form to get full credit. Thank you!
+
 
 ## Grading
 
