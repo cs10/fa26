@@ -1,13 +1,13 @@
 ---
 title: Project 2
 description: Spelling Bee
-due: "11:59 PM PST on Monday, 2/23"
+due: "11:59 PM PST on Friday, 10/2"
 gradescope_assignment_id: 6577063
 submission_files:
     - starter.xml
 ---
 
-*Version 3.0. Last Updated: 2024-09-15.*
+*Version 3.0. Last Updated: 2026-09-04.*
 
 *We highly recommend reading through this spec in its entirety before you begin.*
 
