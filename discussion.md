@@ -50,7 +50,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
       <td>Week 2</td>
       <td>Fri 9/4</td>
       <td>Disc 2. Number Rep & Control Structures</td>
-      <td>Worksheet 2</td>
+      <td><a href="https://docs.google.com/document/d/1oWpqj-5SO3G9k5yJTNbZehXmxJkZ5I9z/edit?usp=sharing&ouid=108241901646567491558&rtpof=true&sd=true">Worksheet 2</a></td>
       <td>Solutions 2</td>
       <td>Notes 2</td>
     </tr>
