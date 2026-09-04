@@ -21,14 +21,12 @@ UC Berkeley, Fall 2026
 
 </div>
 
-## Announcements: Wednesday, September 2
-- Dan's OH will take place on Mondays from 2-3 PM in Gateway B1040 Bear!
+## Announcements: Friday, September 4
 - Added CS10 late? Read <a href="https://edstem.org/us/courses/102681/discussion/8227793">EdStem post #39</a>
   - Late adds should expect to spend extra time to catch up
-- Fill out the <a href="https://forms.gle/QoHMcFPTCpEao9jz5">Pre-Semester Survey</a>
-- Please remember to check in with iClicker for Lecture, Lab, and Discussion to log your attendance
+- Project 1 is released and will be due on Wednesday, 9/16, by 11:59 PM
 - Project 1 Party will occur during lab next week on 9/9 & 9/10, and attendance will be optional. Come get help on your project!
-- There will be no lab on Tuesday, 9/8
+- Office Hours begin this week! Please refer to the <a href="https://cs10.org/fa26/calendar/">Course Calendar for the full schedule</a>
 
 **Instructor:** <a href="https://people.eecs.berkeley.edu/~ddgarcia/">Teaching Professor Dan Garcia</a>  
 **Instructor’s OH:** Monday @ 2-3 PM in Gateway B1040 Bear  
