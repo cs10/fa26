@@ -21,13 +21,12 @@ UC Berkeley, Fall 2026
 
 </div>
 
-## Announcements: Friday, September 4
+## Announcements: Wednesday, September 9
+- Project 1 Party will occur during lab next week on 9/9 & 9/10, and attendance will be optional. Come get help on your project!
+  - Project 1 will be due on Wednesday, 9/16, at 11:59 PM
 - Added CS10 late? Read <a href="https://edstem.org/us/courses/102681/discussion/8227793">EdStem post #39</a>
   - Late adds should expect to spend extra time to catch up
-- Project 1 is released and will be due on Wednesday, 9/16, by 11:59 PM
-- Project 1 Party will occur during lab next week on 9/9 & 9/10, and attendance will be optional. Come get help on your project!
-- Office Hours begin this week! Please refer to the <a href="https://cs10.org/fa26/calendar/">Course Calendar for the full schedule</a>
-
+  
 **Instructor:** <a href="https://people.eecs.berkeley.edu/~ddgarcia/">Teaching Professor Dan Garcia</a>  
 **Instructor’s OH:** Monday @ 2-3 PM in Gateway B1040 Bear  
 **Lectures:** Monday, Wednesday, Friday @ 1–2 PM in <a href="https://classrooms.berkeley.edu/classroom-database/physics-0004">Physics 4</a>  
