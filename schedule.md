@@ -147,7 +147,7 @@
       <th>Wed 9/2</th>
       <td>
         <a href="https://bcourses.berkeley.edu/courses/1558076/external_tools/90481">Lec 3. Abstraction II</a><br/>
-        (Video) <a href="https://drive.google.com/file/d/1w3ck5J-VOj6Tan7eKdhgN8OwwiD9a4Zu/view?usp=drive_link">(Slides)</a>
+        <a href="https://bcourses.berkeley.edu/courses/1558076/external_tools/90481">(Video)</a> <a href="https://drive.google.com/file/d/1w3ck5J-VOj6Tan7eKdhgN8OwwiD9a4Zu/view?usp=drive_link">(Slides)</a>
       </td>
       <td rowspan="2"> <a href="https://cs10.org/fa26/labs/lab03/">Lab 3. Conditionals, Reporters, & Testing</a> <br/> </td>
       <td></td>
@@ -163,7 +163,7 @@
       <th>Fri 9/4</th>
       <td>
         Talk 2. Making functions<br/>
-        (Video)<br/>
+        <a href="https://bcourses.berkeley.edu/courses/1558076/external_tools/90481">(Video)</a><br/>
       </td>
       <td></td>
       <td> Disc 2. Number Rep & Control Structures </td>
