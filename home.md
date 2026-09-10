@@ -35,7 +35,8 @@ UC Berkeley, Fall 2026
 **Discussion 802:** Friday @ 4–5 PM in <a href="https://classrooms.berkeley.edu/classroom-database/anthropology-and-art-practice-0160">AAPB 160</a>  
 **Lab 801L:** Monday, Wednesday @ 4–6 PM in <a href="https://classrooms.berkeley.edu/classroom-database/social-sciences-0110">SOCS 110</a>  
 **Lab 802L:** Tuesday, Thursday @ 5–7 PM in <a href="https://classrooms.berkeley.edu/classroom-database/wheeler-0212">Wheeler 212</a>  
-**OH Queue:** <a href="https://oh.cs10.org/">oh.cs10.org</a>
+**OH Queue:** <a href="https://oh.cs10.org/">oh.cs10.org</a>  
+**Lecture Recordings:** <a href="https://www.askademia.org/?next=/compsci10/fa26">Askademia</a>
 
 <br/>
 

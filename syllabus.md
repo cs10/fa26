@@ -80,7 +80,7 @@ A pass is applied automatically whenever you miss a lecture, lab section, or dis
 
 There is no way to earn attendance credit beyond your 10 passes. Once your passes are exhausted, a missed lecture, lab, or discussion earns no attendance credit. If extenuating circumstances (prolonged illness, family emergencies, etc.) caused you to exhaust your passes or they occurred after you've exhausted them, visit our Support OH to discuss your situation individually.
 
-Attendance passes and assignment extensions operate independently of one another. An extension affects only an assignment's grading deadline, and it does not restore or protect attendance credit. Vice versa, applying a pass has no effect on an assignment's grading deadline. For example, if you miss a lab section, an attendance pass is used regardless of whether you also have an extension on that lab's assignment. If you attend a lab section in person and separately request an extension on that lab's assignment, no attendance pass is used, since you were present.
+Attendance passes and assignment extensions operate independently of one ganother. An extension affects only an assignment's grading deadline, and it does not restore or protect attendance credit. Vice versa, applying a pass has no effect on an assignment's grading deadline. For example, if you miss a lab section, an attendance pass is used regardless of whether you also have an extension on that lab's assignment. If you attend a lab section in person and separately request an extension on that lab's assignment, no attendance pass is used, since you were present.
 
 Exhausting all 10 attendance passes also affects your access to exam retakes; see [Attendance Passes and Exam Retakes](#attendance-passes-and-exam-retakes) under Exams.
 
