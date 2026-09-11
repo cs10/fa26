@@ -21,9 +21,8 @@ UC Berkeley, Fall 2026
 
 </div>
 
-## Announcements: Wednesday, September 9
-- Project 1 Party will occur during lab next week on 9/9 & 9/10, and attendance will be optional. Come get help on your project!
-  - Project 1 will be due on Wednesday, 9/16, at 11:59 PM
+## Announcements: Friday, September 11
+- Project 1 will be due on Wednesday, 9/16, at 11:59 PM
 - Added CS10 late? Read <a href="https://edstem.org/us/courses/102681/discussion/8227793">EdStem post #39</a>
   - Late adds should expect to spend extra time to catch up
   
