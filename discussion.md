@@ -58,7 +58,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
       <td>Week 3</td>
       <td>Fri 9/11</td>
       <td>Disc 3. Domain/Range, Scoping, Iteration, Lists</td>
-      <td>Worksheet 3</td>
+      <td><a href="https://docs.google.com/document/d/1muIrWG-F-RFWoUClySRauTpGCcYJrJpZ/edit?usp=sharing&ouid=108241901646567491558&rtpof=true&sd=true">Worksheet 3</a></td>
       <td>Solutions 3</td>
       <td>Notes 3</td>
     </tr>
