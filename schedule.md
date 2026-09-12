@@ -162,7 +162,7 @@
     <tr>
       <th>Fri 9/4</th>
       <td>
-        Talk 2. Making functions<br/>
+        <a href="https://bcourses.berkeley.edu/courses/1558076/external_tools/90481">Talk 2. Making functions</a><br/>
         <a href="https://bcourses.berkeley.edu/courses/1558076/external_tools/90481">(Video)</a><br/>
       </td>
       <td></td>
@@ -210,8 +210,8 @@
     <tr>
       <th>Wed 9/9</th>
       <td>
-        Lec 4. Computing in Education<br/>
-        (Video) <a href="https://drive.google.com/file/d/1BKQ0jP7T1YgsMpJ-wAJ7ZR_cd132BlYi/view?usp=drive_link">(Slides)</a>
+        <a href="https://bcourses.berkeley.edu/courses/1558076/external_tools/90481">Lec 4. Computing in Education</a><br/>
+        <a href="https://bcourses.berkeley.edu/courses/1558076/external_tools/90481">(Video)</a> <a href="https://drive.google.com/file/d/1BKQ0jP7T1YgsMpJ-wAJ7ZR_cd132BlYi/view?usp=drive_link">(Slides)</a>
       </td>
       <td rowspan="2"> Project 1 Party <br/> </td>
       <td></td>
@@ -226,8 +226,8 @@
     <tr>
       <th>Fri 9/11</th>
       <td>
-        Talk 3. All Quest practice except for Iteration, Boolean, HOF<br/>
-        (Video)<br/>
+        <a href="https://bcourses.berkeley.edu/courses/1558076/external_tools/90481">Talk 3. All Quest practice except for Iteration, Boolean, HOF</a><br/>
+        <a href="https://bcourses.berkeley.edu/courses/1558076/external_tools/90481">(Video)</a><br/>
       </td>
       <td></td>
       <td> Disc 3. Domain/Range, Scoping, Iteration, Lists </td>
