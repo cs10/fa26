@@ -46,10 +46,10 @@ Add ‘berkeley.edu’ to the end of all emails.
 {% endfor %}
 {% endif %}
 
-{% assign academic_interns = site.staffers | where: 'role', 'Academic Intern' %}
+{% assign teaching_interns = site.staffers | where: 'role', 'Teaching Intern' %}
 ## Teaching Interns
 
-{% for staffer in academic_interns %}
+{% for staffer in teaching_interns %}
 {{ staffer }}
 {% endfor %}
 

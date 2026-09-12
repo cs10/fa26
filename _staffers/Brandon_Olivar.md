@@ -2,7 +2,7 @@
 name: Brandon Olivar
 role: Tutor
 email: brandonolivar@
-photo: brandon_olivar.jpg
+photo: tutor/brandon_olivar.jpg
 pronouns: he/him
 ---
 

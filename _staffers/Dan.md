@@ -4,7 +4,7 @@ role: Instructor
 email: ddgarcia@
 website: https://people.eecs.berkeley.edu/~ddgarcia/
 pronouns: he/him/his
-photo: dan.jpg
+photo: instructor/dan.jpg
 ---
 **Office Hours: TBD**
 
