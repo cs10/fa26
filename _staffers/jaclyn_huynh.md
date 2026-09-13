@@ -5,5 +5,5 @@ email: jaclynhuynh@
 photo: teaching-assistant/jaclyn_huynh.jpg
 pronouns: she/her
 ---
-Hey there! I'm Jaclyn, a junior studying Data Science, and I'm so excited to be part of the CS10 team! I came to Cal with zero coding experience and I'm always happy to chat or help out, so don’t hesitate to reach out! In my free time, you’ll probably find me doing escape rooms or hunting down new boba spots. :))
+Hey there! 👋 I'm Jaclyn, a junior studying Data Science from San Jose, CA! I love solving Minute Cryptics and drinking matcha. Here is my current favorite emoji: 🫪 Looking forward to a great semester!
 
