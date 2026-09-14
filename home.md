@@ -21,8 +21,10 @@ UC Berkeley, Fall 2026
 
 </div>
 
-## Announcements: Friday, September 11
+## Announcements: Monday, September 14
 - Project 1 will be due on Wednesday, 9/16, at 11:59 PM
+- PrairieLearn access will be granted today, and setup help will be offered during lab
+- Friday's Talk (9/18) will go over Practice Quest problems
 - Added CS10 late? Read <a href="https://edstem.org/us/courses/102681/discussion/8227793">EdStem post #39</a>
   - Late adds should expect to spend extra time to catch up
   
