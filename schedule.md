@@ -77,8 +77,8 @@
     <tr>
       <th>Wed 8/26</th>
       <td>
-        <a href="https://bcourses.berkeley.edu/courses/1558076/external_tools/90481">Lec 1. Welcome + Abstraction</a><br/>
-        <a href="https://bcourses.berkeley.edu/courses/1558076/external_tools/90481">(Video)</a> <a href="https://drive.google.com/file/d/1dUlUg_4BUZrQ-t0aKLIFu9f2e3nh-gzQ/view?usp=drive_link">(Slides)</a>
+        <a href="https://www.askademia.org/compsci10/fa26">Lec 1. Welcome + Abstraction</a><br/>
+        <a href="https://www.askademia.org/compsci10/fa26">(Video)</a> <a href="https://drive.google.com/file/d/1dUlUg_4BUZrQ-t0aKLIFu9f2e3nh-gzQ/view?usp=drive_link">(Slides)</a>
       </td>
       <td rowspan="2"><a href="https://cs10.org/fa26/labs/lab01/">Lab 1. Welcome to Snap!</a> <br/> </td>
       <td></td>
@@ -93,8 +93,8 @@
     <tr>
       <th>Fri 8/28</th>
       <td>
-        <a href="https://bcourses.berkeley.edu/courses/1558076/external_tools/90481">Talk 1. Fun "Ask me anything", abstraction, using Snap!</a><br/>
-      <a href="https://bcourses.berkeley.edu/courses/1558076/external_tools/90481">(Video)</a><br/>
+        <a href="https://www.askademia.org/compsci10/fa26">Talk 1. Fun "Ask me anything", abstraction, using Snap!</a><br/>
+      <a href="https://www.askademia.org/compsci10/fa26">(Video)</a><br/>
       </td>
       <td></td>
       <td> <a href="https://docs.google.com/document/d/1iorI7tkhWwZlTzgJp9XLK5NKPMB0xPveJgCCT3MwAJU/edit?usp=sharing">Disc 1. Welcome to CS 10!</a> </td>
@@ -130,8 +130,8 @@
       <td class="schedule-week-num" rowspan="5">Week 2</td>
       <th>Mon 8/31</th>
       <td>
-        <a href="https://bcourses.berkeley.edu/courses/1558076/external_tools/90481">Lec 2. Functions</a><br/>
-        <a href="https://bcourses.berkeley.edu/courses/1558076/external_tools/90481">(Video)</a> <a href="https://drive.google.com/file/d/1xiNfvA8PbKNc-VAMd2YaB7X93UuJHfB6/view?usp=drive_link">(Slides)</a>
+        <a href="https://www.askademia.org/compsci10/fa26">Lec 2. Functions</a><br/>
+        <a href="https://www.askademia.org/compsci10/fa26">(Video)</a> <a href="https://drive.google.com/file/d/1xiNfvA8PbKNc-VAMd2YaB7X93UuJHfB6/view?usp=drive_link">(Slides)</a>
       </td>
       <td rowspan="2"> <a href="https://cs10.org/fa26/labs/lab02/">Lab 2. Build Your Own Blocks</a> <br/> </td>
       <td></td>
@@ -146,8 +146,8 @@
     <tr>
       <th>Wed 9/2</th>
       <td>
-        <a href="https://bcourses.berkeley.edu/courses/1558076/external_tools/90481">Lec 3. Abstraction II</a><br/>
-        <a href="https://bcourses.berkeley.edu/courses/1558076/external_tools/90481">(Video)</a> <a href="https://drive.google.com/file/d/1w3ck5J-VOj6Tan7eKdhgN8OwwiD9a4Zu/view?usp=drive_link">(Slides)</a>
+        <a href="https://www.askademia.org/compsci10/fa26">Lec 3. Abstraction II</a><br/>
+        <a href="https://www.askademia.org/compsci10/fa26">(Video)</a> <a href="https://drive.google.com/file/d/1w3ck5J-VOj6Tan7eKdhgN8OwwiD9a4Zu/view?usp=drive_link">(Slides)</a>
       </td>
       <td rowspan="2"> <a href="https://cs10.org/fa26/labs/lab03/">Lab 3. Conditionals, Reporters, & Testing</a> <br/> </td>
       <td></td>
@@ -162,8 +162,8 @@
     <tr>
       <th>Fri 9/4</th>
       <td>
-        <a href="https://bcourses.berkeley.edu/courses/1558076/external_tools/90481">Talk 2. Making functions</a><br/>
-        <a href="https://bcourses.berkeley.edu/courses/1558076/external_tools/90481">(Video)</a><br/>
+        <a href="https://www.askademia.org/compsci10/fa26">Talk 2. Making functions</a><br/>
+        <a href="https://www.askademia.org/compsci10/fa26">(Video)</a><br/>
       </td>
       <td></td>
       <td> Disc 2. Number Rep & Control Structures </td>
@@ -210,8 +210,8 @@
     <tr>
       <th>Wed 9/9</th>
       <td>
-        <a href="https://bcourses.berkeley.edu/courses/1558076/external_tools/90481">Lec 4. Computing in Education</a><br/>
-        <a href="https://bcourses.berkeley.edu/courses/1558076/external_tools/90481">(Video)</a> <a href="https://drive.google.com/file/d/1BKQ0jP7T1YgsMpJ-wAJ7ZR_cd132BlYi/view?usp=drive_link">(Slides)</a>
+        <a href="https://www.askademia.org/compsci10/fa26">Lec 4. Computing in Education</a><br/>
+        <a href="https://www.askademia.org/compsci10/fa26">(Video)</a> <a href="https://drive.google.com/file/d/1BKQ0jP7T1YgsMpJ-wAJ7ZR_cd132BlYi/view?usp=drive_link">(Slides)</a>
       </td>
       <td rowspan="2"> Project 1 Party <br/> </td>
       <td></td>
@@ -226,8 +226,8 @@
     <tr>
       <th>Fri 9/11</th>
       <td>
-        <a href="https://bcourses.berkeley.edu/courses/1558076/external_tools/90481">Talk 3. All Quest practice except for Iteration, Boolean, HOF</a><br/>
-        <a href="https://bcourses.berkeley.edu/courses/1558076/external_tools/90481">(Video)</a><br/>
+        <a href="https://www.askademia.org/compsci10/fa26">Talk 3. All Quest practice except for Iteration, Boolean, HOF</a><br/>
+        <a href="https://www.askademia.org/compsci10/fa26">(Video)</a><br/>
       </td>
       <td></td>
       <td> Disc 3. Domain/Range, Scoping, Iteration, Lists </td>
@@ -264,7 +264,7 @@
       <th>Mon 9/14</th>
       <td>
         Lec 5. Iteration<br/>
-        (Video) <a href="https://drive.google.com/file/d/13dQEitJYlz1EBnlLgIeMmiJ7_G8w5ncc/view?usp=drive_link">(Slides)</a>
+        <a href="https://www.askademia.org/compsci10/fa26">(Video)</a> <a href="https://drive.google.com/file/d/13dQEitJYlz1EBnlLgIeMmiJ7_G8w5ncc/view?usp=drive_link">(Slides)</a>
       </td>
       <td rowspan="2"> <a href="https://cs10.org/fa26/labs/lab04/">Lab 4. Iteration</a> <br/> </td>
       <td></td>
