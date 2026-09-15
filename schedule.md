@@ -266,7 +266,7 @@
         Lec 5. Iteration<br/>
         (Video) <a href="https://drive.google.com/file/d/13dQEitJYlz1EBnlLgIeMmiJ7_G8w5ncc/view?usp=drive_link">(Slides)</a>
       </td>
-      <td rowspan="2"> Lab 4. Iteration <br/> </td>
+      <td rowspan="2"> <a href="https://cs10.org/fa26/labs/lab04/">Lab 4. Iteration</a> <br/> </td>
       <td></td>
       <td></td>
     </tr>
