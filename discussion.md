@@ -11,9 +11,11 @@ nav_order: 7
 
 This page will be updated with discussion Worksheets and Solutions throughout the semester. Discussions will not be recorded.
 
-> Discussion worksheets only need to be turned in if you did not attend discussion in-person or if your attendance was not logged in iClicker. In this case, the worksheets are due before the next discussion. All due dates can be found in Gradescope under the assignment. 
-> Discussion worksheet handouts will be provided.
-> Discussion worksheets are released before the discussion, and solutions are usually released after the discussion worksheet's due date.
+> Discussion attendance is mandatory and tracked using iClicker. If you attend discussion in person and do the iClicker, no further action or submission is required to receive attendance credit. If you do not attend, one of your 10 attendance passes is used automatically; no submission or notification is needed.
+>
+> The discussion worksheets will be posted on the course website, and your discussion TA will often print and hand them out during section. The worksheets are neither submitted nor graded. Discussion sections are not recorded, and we may not go over every problem on the worksheet during section, but you're welcome to visit General OH to discuss worksheet content.
+
+*(See the [Syllabus](syllabus) for the full attendance policy.)*
 
 <style>
   table {
