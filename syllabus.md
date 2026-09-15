@@ -106,8 +106,8 @@ This semester, there are two lab sections, both in person:
 Lab assignments are submitted to Gradescope. Each lab (unless specified) has <b>two assignments</b>: one for your code, one for conceptual checkoff problems, and TAs/Tutors are available during lab sections to help with both. Labs are graded all-or-nothing: a full score on both assignments earns credit for that lab, and anything less earns none. The three practice exam labs (Practice Midterm (no code), Practice Midterm (fractal), and Practice Postterm) are graded on completion only, and Lab 1 is not optional but has no submission, credit, or attendance grade. All other labs are graded unless explicitly marked "optional" on the schedule page, and optional labs don't require attendance either. **Your lowest two lab assignment scores will be dropped.**
 
 **Lab assignments are due before your next lab section begins**, with a grace period until 11:59 PM that same day. Gradescope's actual deadline for credit is 11:59 PM, but we strongly encourage submitting before your next lab section starts so you're not falling behind on new material. The 11:59 PM deadline falls on:
-* Monday/Wednesday section: Monday labs due Wednesday, Wednesday labs due the following Monday.
-* Tuesday/Thursday section: Tuesday labs due Thursday, Thursday labs due the following Tuesday.
+* Monday/Tuesday labs: due the following Thursday.
+* Wednesday/Thursday labs: due the following Tuesday.
 
 Attendance at lab sections is required and tracked via iClicker. If you miss a lab section, one of your 10 [attendance passes](#attendance-passes) is used automatically (i.e., you do not need to let us know). The lab assignment itself is always due by the deadline above regardless of whether you used a pass — attendance and the lab assignment grade are tracked independently of each other.
 
