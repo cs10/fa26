@@ -24,7 +24,7 @@ Lab Slides: <a href="https://drive.google.com/drive/folders/1QviClM8HHk_4ARff5us
 | [Lab 3: Conditionals, Reporters, & Testing](/fa26/labs/lab03) | Wed 9/2 & Thu 9/3 |
 | Project 1 Party (Optional) | Wed 9/9 & Thu 9/10 |
 | [Lab 4: Iteration](/fa26/labs/lab04) | Mon 9/14 & Tue 9/15 |
-| Lab 5: Lists & HOFs | Wed 9/16 & Thu 9/17 |
+| [Lab 5: Lists & HOFs](/fa26/labs/lab05) | Wed 9/16 & Thu 9/17 |
 | Lab 6: Functions as Data, HOFs | Mon 9/21 & Tue 9/22 |
 | Catch-up Session (Optional) | Wed 9/23 & Thu 9/24 |
 | Lab 7: Algorithms | Mon 9/28 & Tue 9/29 |
