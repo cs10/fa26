@@ -15,9 +15,6 @@ submission_files:
 
 ## To begin, load [this starter project](https://snap.berkeley.edu/snap/snap.html#present:Username=elisevbp&ProjectName=FA26%20CS10%20Project%202%3a%20Spelling%20Bee&editMode&noRun)
 
-Any important updates or clarifications will be made here.
-> Project 2 Party is TBD
-
 ## Content
 
 [I. Submission Guidelines](#Submission-guidelines)  
