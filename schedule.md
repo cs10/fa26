@@ -166,7 +166,7 @@
         <a href="https://www.askademia.org/compsci10/fa26">(Video)</a><br/>
       </td>
       <td></td>
-      <td> Disc 2. Number Rep & Control Structures </td>
+      <td> <a href="https://docs.google.com/document/d/1oWpqj-5SO3G9k5yJTNbZehXmxJkZ5I9z/edit?usp=sharing&ouid=108241901646567491558&rtpof=true&sd=true">Disc 2. Number Rep & Control Structures</a> </td>
       <td><b>Proj 1: Wordle™ Lite Released</b></td>
     </tr>
   </tbody>
@@ -230,7 +230,7 @@
         <a href="https://www.askademia.org/compsci10/fa26">(Video)</a><br/>
       </td>
       <td></td>
-      <td> Disc 3. Domain/Range, Scoping, Iteration, Lists </td>
+      <td> <a href="https://docs.google.com/document/d/1muIrWG-F-RFWoUClySRauTpGCcYJrJpZ/edit?usp=sharing&ouid=108241901646567491558&rtpof=true&sd=true">Disc 3. Domain/Range, Scoping, Iteration, Lists</a> </td>
       <td></td>
     </tr>
   </tbody>

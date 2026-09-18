@@ -36,7 +36,7 @@ UC Berkeley, Fall 2026
 **Lab 801L:** Monday, Wednesday @ 4–6 PM in <a href="https://classrooms.berkeley.edu/classroom-database/social-sciences-0110">SOCS 110</a>  
 **Lab 802L:** Tuesday, Thursday @ 5–7 PM in <a href="https://classrooms.berkeley.edu/classroom-database/wheeler-0212">Wheeler 212</a>  
 **OH Queue:** <a href="https://oh.cs10.org/">oh.cs10.org</a>  
-**Lecture Recordings:** <a href="https://www.askademia.org/?next=/compsci10/fa26">Askademia</a>
+**Lecture Recordings:** <a href="https://www.askademia.org/?next=/compsci10/fa26">Askademia</a>, <a href="https://bcourses.berkeley.edu/courses/1558076/external_tools/90481">bCourses (Media Gallery)</a>
 
 <br/>
 
