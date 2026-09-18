@@ -299,7 +299,7 @@
         (Video)<br/>
       </td>
       <td></td>
-      <td> Disc. 4: HOFs + Iteration </td>
+      <td> <a href="https://docs.google.com/document/d/1Xg5Yhd2i9ORrRi2u15gv8OMKvYvaBHjR/edit?usp=sharing&ouid=108241901646567491558&rtpof=true&sd=true">Disc. 4: Iteration & Lists</a> </td>
       <td></td>
     </tr>
   </tbody>

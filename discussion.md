@@ -67,8 +67,8 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     <tr>
       <td>Week 4</td>
       <td>Fri 9/18</td>
-      <td>Disc 4. HOFs + Iteration</td>
-      <td>Worksheet 4</td>
+      <td>Disc 4. Iteration & Lists</td>
+      <td><a href="https://docs.google.com/document/d/1Xg5Yhd2i9ORrRi2u15gv8OMKvYvaBHjR/edit?usp=sharing&ouid=108241901646567491558&rtpof=true&sd=true">Worksheet 4</a></td>
       <td>Solutions 4</td>
       <td>Notes 4</td>
     </tr>
