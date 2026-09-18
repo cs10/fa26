@@ -77,7 +77,7 @@
     <tr>
       <th>Wed 8/26</th>
       <td>
-        <a href="https://www.askademia.org/compsci10/fa26">Lec 1. Welcome + Abstraction</a><br/>
+        Lec 1. Welcome + Abstraction<br/>
         <a href="https://www.askademia.org/compsci10/fa26">(Video)</a> <a href="https://drive.google.com/file/d/1dUlUg_4BUZrQ-t0aKLIFu9f2e3nh-gzQ/view?usp=drive_link">(Slides)</a>
       </td>
       <td rowspan="2"><a href="https://cs10.org/fa26/labs/lab01/">Lab 1. Welcome to Snap!</a> <br/> </td>
@@ -93,7 +93,7 @@
     <tr>
       <th>Fri 8/28</th>
       <td>
-        <a href="https://www.askademia.org/compsci10/fa26">Talk 1. Fun "Ask me anything", abstraction, using Snap!</a><br/>
+        Talk 1. Fun "Ask me anything", abstraction, using Snap!<br/>
       <a href="https://www.askademia.org/compsci10/fa26">(Video)</a><br/>
       </td>
       <td></td>
@@ -130,7 +130,7 @@
       <td class="schedule-week-num" rowspan="5">Week 2</td>
       <th>Mon 8/31</th>
       <td>
-        <a href="https://www.askademia.org/compsci10/fa26">Lec 2. Functions</a><br/>
+        Lec 2. Functions<br/>
         <a href="https://www.askademia.org/compsci10/fa26">(Video)</a> <a href="https://drive.google.com/file/d/1xiNfvA8PbKNc-VAMd2YaB7X93UuJHfB6/view?usp=drive_link">(Slides)</a>
       </td>
       <td rowspan="2"> <a href="https://cs10.org/fa26/labs/lab02/">Lab 2. Build Your Own Blocks</a> <br/> </td>
@@ -146,7 +146,7 @@
     <tr>
       <th>Wed 9/2</th>
       <td>
-        <a href="https://www.askademia.org/compsci10/fa26">Lec 3. Abstraction II</a><br/>
+        Lec 3. Abstraction II<br/>
         <a href="https://www.askademia.org/compsci10/fa26">(Video)</a> <a href="https://drive.google.com/file/d/1w3ck5J-VOj6Tan7eKdhgN8OwwiD9a4Zu/view?usp=drive_link">(Slides)</a>
       </td>
       <td rowspan="2"> <a href="https://cs10.org/fa26/labs/lab03/">Lab 3. Conditionals, Reporters, & Testing</a> <br/> </td>
@@ -162,7 +162,7 @@
     <tr>
       <th>Fri 9/4</th>
       <td>
-        <a href="https://www.askademia.org/compsci10/fa26">Talk 2. Making functions</a><br/>
+        Talk 2. Making functions<br/>
         <a href="https://www.askademia.org/compsci10/fa26">(Video)</a><br/>
       </td>
       <td></td>
@@ -210,7 +210,7 @@
     <tr>
       <th>Wed 9/9</th>
       <td>
-        <a href="https://www.askademia.org/compsci10/fa26">Lec 4. Computing in Education</a><br/>
+        Lec 4. Computing in Education<br/>
         <a href="https://www.askademia.org/compsci10/fa26">(Video)</a> <a href="https://drive.google.com/file/d/1BKQ0jP7T1YgsMpJ-wAJ7ZR_cd132BlYi/view?usp=drive_link">(Slides)</a>
       </td>
       <td rowspan="2"> Project 1 Party <br/> </td>
@@ -226,7 +226,7 @@
     <tr>
       <th>Fri 9/11</th>
       <td>
-        <a href="https://www.askademia.org/compsci10/fa26">Talk 3. All Quest practice except for Iteration, Boolean, HOF</a><br/>
+        Talk 3. All Quest practice except for Iteration, Boolean, HOF<br/>
         <a href="https://www.askademia.org/compsci10/fa26">(Video)</a><br/>
       </td>
       <td></td>
