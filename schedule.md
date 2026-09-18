@@ -282,7 +282,7 @@
         Lec 6. Lists, Scoping, & HOFs<br/>
         (Video) <a href="https://drive.google.com/file/d/1pHeJkMcS4hex5l5hfZ0DxoWpl0zwGybx/view?usp=drive_link">(Slides)</a>
       </td>
-      <td rowspan="2"> Lab 5. Lists & HOFs <br/> </td>
+      <td rowspan="2"> <a href="https://cs10.org/fa26/labs/lab05/">Lab 5. Lists & HOFs</a> <br/> </td>
       <td></td>
       <td><b>Proj 1 Due</b></td>
     </tr>

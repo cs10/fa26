@@ -21,10 +21,10 @@ UC Berkeley, Fall 2026
 
 </div>
 
-## Announcements: Monday, September 14
-- Project 1 will be due on Wednesday, 9/16, at 11:59 PM
-- PrairieLearn access will be granted today, and setup help will be offered during lab
-- Friday's Talk (9/18) will go over Practice Quest problems
+## Announcements:  Friday, September 18
+- Project 2: Spelling Bee will be released on Monday, 9/21, and due on Friday, 10/2
+- Quest 1 will be released next Friday, 9/25, at 5PM and will close on Sunday, 9/27 at 11:59PM
+- Catch-up office hours are from 10AM-12PM on Fridays @ Gateway 1110B! 
 - Added CS10 late? Read <a href="https://edstem.org/us/courses/102681/discussion/8227793">EdStem post #39</a>
   - Late adds should expect to spend extra time to catch up
   
