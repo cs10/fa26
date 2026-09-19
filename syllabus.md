@@ -223,13 +223,13 @@ That said, don't treat this as a strategy. "I'll just do well on the Postterm" i
 
 ### Attendance Passes and Exam Retakes
 
-We offer a relatively generous retake policy (version 2 and version 3 of each Quest, Midterm, and Postterm), which is a privilege. If you exhaust all 10 of your [attendance passes](#attendance-passes), you permanently forfeit access to every remaining exam retake for the rest of the semester. This does not affect the mandatory first version of any exam (Quest 1, Midterm 1, Postterm 1), which you may always take.
+We offer a relatively generous retake policy (version 2 and version 3 of each Quest, Midterm, and Postterm), which is a privilege. You may miss up to 10 lecture, lab, or discussion sessions, each covered by one of your [attendance passes](#attendance-passes), with no effect on retake access. Your **11th unexcused absence** — the first one you have no pass left to cover — permanently locks you out of every remaining exam retake for the rest of the semester. This does not affect the mandatory first version of any exam (Quest 1, Midterm 1, Postterm 1), which you may always take.
 
 For example:
-* If you exhaust your passes the day before Postterm 1, you may still take Postterm 1, but you lose access to Postterm 2 and Postterm 3.
-* If you exhaust your passes right after taking Midterm 2, you lose access to Midterm 3, Postterm 2, and Postterm 3.
+* If your 11th unexcused absence happens the day before Postterm 1, you may still take Postterm 1, but you lose access to Postterm 2 and Postterm 3.
+* If your 11th unexcused absence happens right after you take Midterm 2, you lose access to Midterm 3, Postterm 2, and Postterm 3.
 
-This policy is effective immediately. If genuine extenuating circumstances (prolonged illness, family emergencies, etc.) caused you to exhaust your passes, visit Support OH; we will discuss your specific situation individually, though this is not an automatic exception.
+This policy is effective immediately. If genuine extenuating circumstances (prolonged illness, family emergencies, etc.) caused you to reach your 11th unexcused absence, visit Support OH; we will discuss your specific situation individually, though this is not an automatic exception.
 
 ## Grading
 
