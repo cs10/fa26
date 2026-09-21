@@ -335,7 +335,7 @@
         Lec 7. Higher-Order Functions<br/>
         (Video) <a href="https://drive.google.com/file/d/1pohZVsm_LXNdiQscTqqWox3Hv8Wd6e0J/view?usp=drive_link">(Slides)</a>
       </td>
-      <td rowspan="2"> Lab 6. Functions as Data, HOFs <br/> </td>
+      <td rowspan="2"> <a href="https://cs10.org/fa26/labs/lab06/">Lab 6. Functions as Data, HOFs </a><br/> </td>
       <td></td>
       <td><b>Proj 2: Spelling Bee Released</b></td>
     </tr>
