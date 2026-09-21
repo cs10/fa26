@@ -11,7 +11,7 @@ submission_files:
 ## Instructions
 This worksheet serves as a guide and set of instructions to complete Lab 6. All material was sourced from the CS10 version of The Beauty and Joy of Computing (BJC) course.
 
-- You **must** use the [starter file, found here](https://snap.berkeley.edu/snap/snap.html#present:Username=efeth012&ProjectName=Lab6%20Starter) to get credit for the lab.  
+- You **must** use the [starter file, found here](https://snap.berkeley.edu/snap/snap.html#present:Username=efeth012&ProjectName=Lab6%20Starter&editMode&noRun) to get credit for the lab.  
 - Additionally, here is the [workbook](https://cs10.org/bjc-r/llab/html/topic.html?topic=berkeley_bjc%2Fhofs%2Fhofs-practice.topic&course&novideo&noreading&noassignment) that you can read through for further context and additional (non-required) material.  
 - Please note: The file name **does not equal the lab number!**
 
