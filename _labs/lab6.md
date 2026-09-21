@@ -1,12 +1,12 @@
 ---
-title: "Lab 12"
+title: "Lab 6"
 description: "HOFs and Functions as Data"
-due: "Tuesday, March 10th, 23:59"
+due: "Thursday, September 24th, 23:59"
 gradescope_assignment_id:
 submission_files:
 ---
 
-# Lab 12: HOFs and Functions as Data
+# Lab 6: HOFs and Functions as Data
 
 ## Instructions
 This worksheet serves as a guide and set of instructions to complete Lab 6. All material was sourced from the CS10 version of The Beauty and Joy of Computing (BJC) course.
