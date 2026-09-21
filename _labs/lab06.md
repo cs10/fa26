@@ -11,12 +11,12 @@ submission_files:
 ## Instructions
 This worksheet serves as a guide and set of instructions to complete Lab 6. All material was sourced from the CS10 version of The Beauty and Joy of Computing (BJC) course.
 
-- You **must** use the [starter file, found here](https://snap.berkeley.edu/project?username=jedi_force&projectname=Lab9%20Starter) to get credit for the lab.  
+- You **must** use the [starter file, found here](https://snap.berkeley.edu/snap/snap.html#present:Username=efeth012&ProjectName=Lab6%20Starter) to get credit for the lab.  
 - Additionally, here is the [workbook](https://cs10.org/bjc-r/llab/html/topic.html?topic=berkeley_bjc%2Fhofs%2Fhofs-practice.topic&course&novideo&noreading&noassignment) that you can read through for further context and additional (non-required) material.  
 - Please note: The file name **does not equal the lab number!**
 
 ## Submitting
-You will need to fill in the blocks under **“Lab 9 Starter”** and submit this to Gradescope (again, the file name does not equal the lab number!).  
+You will need to fill in the blocks under **“Lab 6 Starter”** and submit this to Gradescope (again, the file name does not equal the lab number!).  
 - To receive full credit, you must complete the required blocks, and those blocks must pass all tests from the Gradescope autograder.  
 - For instructions on how to submit labs to Gradescope, please see [this page](https://docs.google.com/document/d/1XAcZc9ypX07-bt0gK6uQ4P-06SrjPRsgiOjERIOlvYU/edit?usp=sharing).
 - ![run autograder]({{ site.baseurl }}/assets/images/lab_images/lab6_0.png)
