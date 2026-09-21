@@ -34,10 +34,8 @@ nav_order: 6
     </tr>
     <tr>
       <td>Project 2: Spelling Bee</td>
-      <!-- <td><a href="/sp26/projects/project2">Project 2 Intructions</a></td> -->
-      <td>Project 2 Intructions</td>
-      <!-- <td><a href="https://drive.google.com/file/d/1HXzSkplICnBcCwllj5ES4Ai10ylGgMrN/view?usp=sharing">Proj 2 Walkthrough Slides</a></td> -->
-      <td>Proj 2 Walkthrough Slides</td>
+      <td><a href="/sp26/projects/project2">Project 2 Intructions</a></td> -->
+      <td><a href="https://drive.google.com/file/d/1HXzSkplICnBcCwllj5ES4Ai10ylGgMrN/view?usp=sharing">Proj 2 Walkthrough Slides</a></td>
       <td style="max-width:120px;">Monday, 9/21</td>
       <td>Friday, 10/2</td>
     </tr>
