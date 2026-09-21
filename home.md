@@ -21,10 +21,12 @@ UC Berkeley, Fall 2026
 
 </div>
 
-## Announcements:  Friday, September 18
-- Project 2: Spelling Bee will be released on Monday, 9/21, and due on Friday, 10/2
-- Quest 1 will be released next Friday, 9/25, at 5PM and will close on Sunday, 9/27 at 11:59PM
-- Catch-up office hours are from 10AM-12PM on Fridays @ Gateway 1110B! 
+## Announcements:  Monday, September 21
+- Log in to iClicker.
+- **Quest 1** will be released this Friday, 9/25, at 5 PM and will close on Sunday, 9/27, at 11:59 PM
+- **Project 2: Spelling Bee** will be released today, 9/21, and due on Friday, 10/2, at 11:59 PM
+- This Wednesday (9/23) & Thursday (9/24) labs will be catch-up sessions, and attendance is optional
+- Catch-up office hours are from 10 AM - 12 PM on Fridays @ Gateway 1110B!
 - Added CS10 late? Read <a href="https://edstem.org/us/courses/102681/discussion/8227793">EdStem post #39</a>
   - Late adds should expect to spend extra time to catch up
   
