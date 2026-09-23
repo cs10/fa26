@@ -21,14 +21,13 @@ UC Berkeley, Fall 2026
 
 </div>
 
-## Announcements:  Monday, September 21
+## Announcements:  Wednesday, September 23
 - Log in to iClicker.
 - **Quest 1** will be released this Friday, 9/25, at 5 PM and will close on Sunday, 9/27, at 11:59 PM
-- **Project 2: Spelling Bee** will be released today, 9/21, and due on Friday, 10/2, at 11:59 PM
+- **Project 2: Spelling Bee** is released and due on Friday, 10/2, at 11:59 PM
+  - There was an error with the starter file that is now fixed. Please make sure that you are using the correct <a href="https://snap.berkeley.edu/snap/snap.html#present:Username=elisevbp&ProjectName=FA26%20CS10%20Project%202%3a%20Spelling%20Bee&editMode&noRun">starter file</a>, which is named "**FA26 CS10 Project 2: Spelling Bee**"
 - This Wednesday (9/23) & Thursday (9/24) labs will be catch-up sessions, and attendance is optional
 - Catch-up office hours are from 10 AM - 12 PM on Fridays @ Gateway 1110B!
-- Added CS10 late? Read <a href="https://edstem.org/us/courses/102681/discussion/8227793">EdStem post #39</a>
-  - Late adds should expect to spend extra time to catch up
   
 **Instructor:** <a href="https://people.eecs.berkeley.edu/~ddgarcia/">Teaching Professor Dan Garcia</a>  
 **Instructor’s OH:** Monday @ 2-3 PM in Gateway B1040 Bear  
