@@ -75,8 +75,8 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     <tr>
       <td>Week 5</td>
       <td>Fri 9/25</td>
-      <td>Disc 5. HOFs + Quest Review</td>
-      <td>Worksheet 5</td>
+      <td>Disc 5. HOFs + Quest Practice</td>
+      <td><a href="https://docs.google.com/document/d/1m8BOaJD6NaF_b1LEJzSMn5LtpC7O3wxa/edit?usp=sharing&ouid=108241901646567491558&rtpof=true&sd=true">Worksheet 5</a></td>
       <td>Solutions 5</td>
       <td>Notes 5</td>
     </tr>

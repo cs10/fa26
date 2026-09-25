@@ -368,7 +368,7 @@
         (Video)<br/>
       </td>
       <td></td>
-      <td> Disc. 5 HOFs + Quest Review </td>
+      <td> <a href="https://docs.google.com/document/d/1m8BOaJD6NaF_b1LEJzSMn5LtpC7O3wxa/edit?usp=sharing&ouid=108241901646567491558&rtpof=true&sd=true">Disc. 5: HOFs + Quest Practice</a> </td>
       <td><b>QUEST 1</b></td>
     </tr>
   </tbody>
