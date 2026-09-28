@@ -27,7 +27,7 @@ Lab Slides: <a href="https://drive.google.com/drive/folders/1QviClM8HHk_4ARff5us
 | [Lab 5: Lists & HOFs](/fa26/labs/lab05) | Wed 9/16 & Thu 9/17 |
 | [Lab 6: Functions as Data, HOFs](/fa26/labs/lab06) | Mon 9/21 & Tue 9/22 |
 | Catch-up Session (Optional) | Wed 9/23 & Thu 9/24 |
-| Lab 7: Algorithms | Mon 9/28 & Tue 9/29 |
+| [Lab 7: Algorithms](https://docs.google.com/document/d/1uKuuRwS0YEKdtDGP-TDZKEgcBQxq052g6uWPYs4NG_w/edit?usp=sharing) | Mon 9/28 & Tue 9/29 |
 | Lab 8: Testing + 2048 | Wed 9/30 & Thu 10/1 |
 | Lab 9: Boards | Mon 10/5 & Tue 10/6 |
 | Lab 10: Trees & Fractals | Wed 10/7 & Thu 10/8 |
