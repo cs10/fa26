@@ -21,12 +21,12 @@ UC Berkeley, Fall 2026
 
 </div>
 
-## Announcements:  Friday, September 25
-- Read <a href="https://edstem.org/us/courses/102681/discussion/8304562">Weekly Blast 5 📚‼️</a> on Ed
-- **Quest 1** will be released today, 9/25, at 5 PM and will close on Sunday, 9/27, at 11:59 PM
-  - **IMPORTANT:** Read the <a href="https://edstem.org/us/courses/102681/discussion/8303452">Quest 1 Logistics</a> on Ed
-- **Project 2: Spelling Bee** is released and due on Friday, 10/2, at 11:59 PM
-  - There was an error with the starter file that is now fixed. Please make sure that you are using the correct <a href="https://snap.berkeley.edu/snap/snap.html#present:Username=elisevbp&ProjectName=FA26%20CS10%20Project%202%3a%20Spelling%20Bee&editMode&noRun">starter file</a>, which is named "**FA26 CS10 Project 2: Spelling Bee**"
+## Announcements:  Monday, September 28
+- Log in to iClicker
+- Congratulations on finishing **Quest 1**! Quest 1 grades will be released soon.
+- Friday's Talk (10/2) will go over Quest 1 solutions and it will **not** be recorded.
+- **Quest 2** will be released this Friday, 10/2, at 5 PM and will be closed on Sunday, 10/4, at 11:59 PM
+- Project 2: Spelling Bee will be due on Friday, 10/2, at 11:59 PM
   
 **Instructor:** <a href="https://people.eecs.berkeley.edu/~ddgarcia/">Teaching Professor Dan Garcia</a>  
 **Instructor’s OH:** Monday @ 2-3 PM in Gateway B1040 Bear  
