@@ -404,7 +404,7 @@
         Lec 9. Algorithmic Complexity<br/>
         (Video) <a href="https://drive.google.com/file/d/1-e_TRoFaZAZXtt1gSPLcjGmeN36Uxqnm/view?usp=drive_link">(Slides)</a>
       </td>
-      <td rowspan="2"> Lab 7. Algorithms <br/> </td>
+      <td rowspan="2"> <a href="https://docs.google.com/document/d/1uKuuRwS0YEKdtDGP-TDZKEgcBQxq052g6uWPYs4NG_w/edit?usp=sharing">Lab 7. Algorithms</a> <br/> </td>
       <td></td>
       <td></td>
     </tr>
