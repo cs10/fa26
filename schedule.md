@@ -420,7 +420,7 @@
         Lec 10. Testing + 2048<br/>
         (Video) <a href="https://drive.google.com/file/d/1ajYTduj9Rpv19rZO6TSlcuQ21yBFsuy3/view?usp=drive_link">(Slides)</a>
       </td>
-      <td rowspan="2"> Lab 8. Testing + 2048 <br/> </td>
+      <td rowspan="2"> <a href="https://cs10.org/fa26/labs/lab08/">Lab 8. Testing + 2048</a> <br/> </td>
       <td></td>
       <td></td>
     </tr>
