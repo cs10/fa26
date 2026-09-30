@@ -26,7 +26,7 @@ UC Berkeley, Fall 2026
 - Friday's Talk (10/2) will go over Quest 1 solutions and it will **not** be recorded.
 - **Quest 2** will be released this Friday, 10/2, at 5 PM and will be closed on Sunday, 10/4, at 11:59 PM
 - Project 2: Spelling Bee will be due on Friday, 10/2, at 11:59 PM
-- Project 2 Party will occur on Thursday, 9/31, from 7-9 PM in Wheeler 212
+- Project 2 Party will occur on Thursday, 10/1, from 7-9 PM in Wheeler 212
   
 **Instructor:** <a href="https://people.eecs.berkeley.edu/~ddgarcia/">Teaching Professor Dan Garcia</a>  
 **Instructor’s OH:** Monday @ 2-3 PM in Gateway B1040 Bear  
