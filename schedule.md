@@ -280,7 +280,7 @@
       <th>Wed 9/16</th>
       <td>
         Lec 6. Lists, Scoping, & HOFs<br/>
-        (Video) <a href="https://drive.google.com/file/d/1pHeJkMcS4hex5l5hfZ0DxoWpl0zwGybx/view?usp=drive_link">(Slides)</a>
+        <a href="https://www.askademia.org/compsci10/fa26">(Video)</a> <a href="https://drive.google.com/file/d/1pHeJkMcS4hex5l5hfZ0DxoWpl0zwGybx/view?usp=drive_link">(Slides)</a>
       </td>
       <td rowspan="2"> <a href="https://cs10.org/fa26/labs/lab05/">Lab 5. Lists & HOFs</a> <br/> </td>
       <td></td>
@@ -296,7 +296,7 @@
       <th>Fri 9/18</th>
       <td>
         Talk 4. (Practice Quest) Booleans + Iteration<br/>
-        (Video)<br/>
+        <a href="https://www.askademia.org/compsci10/fa26">(Video)</a><br/>
       </td>
       <td></td>
       <td> <a href="https://docs.google.com/document/d/1Xg5Yhd2i9ORrRi2u15gv8OMKvYvaBHjR/edit?usp=sharing&ouid=108241901646567491558&rtpof=true&sd=true">Disc. 4: Iteration & Lists</a> </td>
@@ -333,7 +333,7 @@
       <th>Mon 9/21</th>
       <td>
         Lec 7. Higher-Order Functions<br/>
-        (Video) <a href="https://drive.google.com/file/d/1pohZVsm_LXNdiQscTqqWox3Hv8Wd6e0J/view?usp=drive_link">(Slides)</a>
+        <a href="https://www.askademia.org/compsci10/fa26">(Video)</a> <a href="https://drive.google.com/file/d/1pohZVsm_LXNdiQscTqqWox3Hv8Wd6e0J/view?usp=drive_link">(Slides)</a>
       </td>
       <td rowspan="2"> <a href="https://cs10.org/fa26/labs/lab06/">Lab 6. Functions as Data, HOFs </a><br/> </td>
       <td></td>
@@ -349,7 +349,7 @@
       <th>Wed 9/23</th>
       <td>
         Lec 8. Algorithms<br/>
-        (Video) <a href="https://drive.google.com/file/d/1eGe_LL8JUu0iNGoxfAxNxDCMX7-qcAgp/view?usp=drive_link">(Slides)</a>
+        <a href="https://www.askademia.org/compsci10/fa26">(Video)</a> <a href="https://drive.google.com/file/d/1eGe_LL8JUu0iNGoxfAxNxDCMX7-qcAgp/view?usp=drive_link">(Slides)</a>
       </td>
       <td rowspan="2"> Catch-up (optional) <br/> </td>
       <td></td>
@@ -365,7 +365,7 @@
       <th>Fri 9/25</th>
       <td>
         Talk 5. Quest 1 Preview<br/>
-        (Video)<br/>
+        <a href="https://www.askademia.org/compsci10/fa26">(Video)</a><br/>
       </td>
       <td></td>
       <td> <a href="https://docs.google.com/document/d/1m8BOaJD6NaF_b1LEJzSMn5LtpC7O3wxa/edit?usp=sharing&ouid=108241901646567491558&rtpof=true&sd=true">Disc. 5: HOFs + Quest Practice</a> </td>
@@ -402,7 +402,7 @@
       <th>Mon 9/28</th>
       <td>
         Lec 9. Algorithmic Complexity<br/>
-        (Video) <a href="https://drive.google.com/file/d/1-e_TRoFaZAZXtt1gSPLcjGmeN36Uxqnm/view?usp=drive_link">(Slides)</a>
+        <a href="https://www.askademia.org/compsci10/fa26">(Video)</a> <a href="https://drive.google.com/file/d/1-e_TRoFaZAZXtt1gSPLcjGmeN36Uxqnm/view?usp=drive_link">(Slides)</a>
       </td>
       <td rowspan="2"> <a href="https://docs.google.com/document/d/1uKuuRwS0YEKdtDGP-TDZKEgcBQxq052g6uWPYs4NG_w/edit?usp=sharing">Lab 7. Algorithms</a> <br/> </td>
       <td></td>
