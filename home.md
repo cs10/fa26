@@ -21,12 +21,12 @@ UC Berkeley, Fall 2026
 
 </div>
 
-## Announcements:  Monday, September 28
+## Announcements:  Wednesday, September 30
 - Log in to iClicker
-- Congratulations on finishing **Quest 1**! Quest 1 grades have been released (<a href="https://edstem.org/us/courses/102681/discussion/8321951">Ed #181</a>).
 - Friday's Talk (10/2) will go over Quest 1 solutions and it will **not** be recorded.
 - **Quest 2** will be released this Friday, 10/2, at 5 PM and will be closed on Sunday, 10/4, at 11:59 PM
 - Project 2: Spelling Bee will be due on Friday, 10/2, at 11:59 PM
+- Project 2 Party will occur on Thursday, 9/31, from 7-9 PM in Wheeler 212
   
 **Instructor:** <a href="https://people.eecs.berkeley.edu/~ddgarcia/">Teaching Professor Dan Garcia</a>  
 **Instructor’s OH:** Monday @ 2-3 PM in Gateway B1040 Bear  
