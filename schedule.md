@@ -437,7 +437,7 @@
         (Video)<br/>
       </td>
       <td></td>
-      <td> Disc 6. HOFs, Lambdas, Debugging </td>
+      <td> <a href="https://docs.google.com/document/d/1npL-LinkwdrAQBsSNm_tLEbUv86es1UH/edit?usp=sharing&ouid=108241901646567491558&rtpof=true&sd=true">Disc 6. HOFs, Lambdas, Debugging</a> </td>
       <td><b>Proj 2 Due</b><br/><b>QUEST 2</b></td>
     </tr>
   </tbody>
