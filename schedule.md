@@ -78,7 +78,7 @@
       <th>Wed 8/26</th>
       <td>
         Lec 1. Welcome + Abstraction<br/>
-        <a href="https://www.askademia.org/compsci10/fa26">(Video)</a> <a href="https://drive.google.com/file/d/1dUlUg_4BUZrQ-t0aKLIFu9f2e3nh-gzQ/view?usp=drive_link">(Slides)</a>
+        <a href="https://bcourses.berkeley.edu/courses/1558076/external_tools/90481">(Video)</a> <a href="https://drive.google.com/file/d/1dUlUg_4BUZrQ-t0aKLIFu9f2e3nh-gzQ/view?usp=drive_link">(Slides)</a>
       </td>
       <td rowspan="2"><a href="https://cs10.org/fa26/labs/lab01/">Lab 1. Welcome to Snap!</a> <br/> </td>
       <td></td>
@@ -94,7 +94,7 @@
       <th>Fri 8/28</th>
       <td>
         Talk 1. Fun "Ask me anything", abstraction, using Snap!<br/>
-      <a href="https://www.askademia.org/compsci10/fa26">(Video)</a><br/>
+      <a href="https://bcourses.berkeley.edu/courses/1558076/external_tools/90481">(Video)</a><br/>
       </td>
       <td></td>
       <td> <a href="https://docs.google.com/document/d/1iorI7tkhWwZlTzgJp9XLK5NKPMB0xPveJgCCT3MwAJU/edit?usp=sharing">Disc 1. Welcome to CS 10!</a> </td>
@@ -131,7 +131,7 @@
       <th>Mon 8/31</th>
       <td>
         Lec 2. Functions<br/>
-        <a href="https://www.askademia.org/compsci10/fa26">(Video)</a> <a href="https://drive.google.com/file/d/1xiNfvA8PbKNc-VAMd2YaB7X93UuJHfB6/view?usp=drive_link">(Slides)</a>
+        <a href="https://bcourses.berkeley.edu/courses/1558076/external_tools/90481">(Video)</a> <a href="https://drive.google.com/file/d/1xiNfvA8PbKNc-VAMd2YaB7X93UuJHfB6/view?usp=drive_link">(Slides)</a>
       </td>
       <td rowspan="2"> <a href="https://cs10.org/fa26/labs/lab02/">Lab 2. Build Your Own Blocks</a> <br/> </td>
       <td></td>
@@ -147,7 +147,7 @@
       <th>Wed 9/2</th>
       <td>
         Lec 3. Abstraction II<br/>
-        <a href="https://www.askademia.org/compsci10/fa26">(Video)</a> <a href="https://drive.google.com/file/d/1w3ck5J-VOj6Tan7eKdhgN8OwwiD9a4Zu/view?usp=drive_link">(Slides)</a>
+        <a href="https://bcourses.berkeley.edu/courses/1558076/external_tools/90481">(Video)</a> <a href="https://drive.google.com/file/d/1w3ck5J-VOj6Tan7eKdhgN8OwwiD9a4Zu/view?usp=drive_link">(Slides)</a>
       </td>
       <td rowspan="2"> <a href="https://cs10.org/fa26/labs/lab03/">Lab 3. Conditionals, Reporters, & Testing</a> <br/> </td>
       <td></td>
@@ -163,7 +163,7 @@
       <th>Fri 9/4</th>
       <td>
         Talk 2. Making functions<br/>
-        <a href="https://www.askademia.org/compsci10/fa26">(Video)</a><br/>
+        <a href="https://bcourses.berkeley.edu/courses/1558076/external_tools/90481">(Video)</a><br/>
       </td>
       <td></td>
       <td> <a href="https://docs.google.com/document/d/1oWpqj-5SO3G9k5yJTNbZehXmxJkZ5I9z/edit?usp=sharing&ouid=108241901646567491558&rtpof=true&sd=true">Disc 2. Number Rep & Control Structures</a> </td>
@@ -211,7 +211,7 @@
       <th>Wed 9/9</th>
       <td>
         Lec 4. Computing in Education<br/>
-        <a href="https://www.askademia.org/compsci10/fa26">(Video)</a> <a href="https://drive.google.com/file/d/1BKQ0jP7T1YgsMpJ-wAJ7ZR_cd132BlYi/view?usp=drive_link">(Slides)</a>
+        <a href="https://bcourses.berkeley.edu/courses/1558076/external_tools/90481">(Video)</a> <a href="https://drive.google.com/file/d/1BKQ0jP7T1YgsMpJ-wAJ7ZR_cd132BlYi/view?usp=drive_link">(Slides)</a>
       </td>
       <td rowspan="2"> Project 1 Party <br/> </td>
       <td></td>
@@ -227,7 +227,7 @@
       <th>Fri 9/11</th>
       <td>
         Talk 3. All Quest practice except for Iteration, Boolean, HOF<br/>
-        <a href="https://www.askademia.org/compsci10/fa26">(Video)</a><br/>
+        <a href="https://bcourses.berkeley.edu/courses/1558076/external_tools/90481">(Video)</a><br/>
       </td>
       <td></td>
       <td> <a href="https://docs.google.com/document/d/1muIrWG-F-RFWoUClySRauTpGCcYJrJpZ/edit?usp=sharing&ouid=108241901646567491558&rtpof=true&sd=true">Disc 3. Domain/Range, Scoping, Iteration, Lists</a> </td>
@@ -264,7 +264,7 @@
       <th>Mon 9/14</th>
       <td>
         Lec 5. Iteration<br/>
-        <a href="https://www.askademia.org/compsci10/fa26">(Video)</a> <a href="https://drive.google.com/file/d/13dQEitJYlz1EBnlLgIeMmiJ7_G8w5ncc/view?usp=drive_link">(Slides)</a>
+        <a href="https://bcourses.berkeley.edu/courses/1558076/external_tools/90481">(Video)</a> <a href="https://drive.google.com/file/d/13dQEitJYlz1EBnlLgIeMmiJ7_G8w5ncc/view?usp=drive_link">(Slides)</a>
       </td>
       <td rowspan="2"> <a href="https://cs10.org/fa26/labs/lab04/">Lab 4. Iteration</a> <br/> </td>
       <td></td>
@@ -280,7 +280,7 @@
       <th>Wed 9/16</th>
       <td>
         Lec 6. Lists, Scoping, & HOFs<br/>
-        <a href="https://www.askademia.org/compsci10/fa26">(Video)</a> <a href="https://drive.google.com/file/d/1pHeJkMcS4hex5l5hfZ0DxoWpl0zwGybx/view?usp=drive_link">(Slides)</a>
+        <a href="https://bcourses.berkeley.edu/courses/1558076/external_tools/90481">(Video)</a> <a href="https://drive.google.com/file/d/1pHeJkMcS4hex5l5hfZ0DxoWpl0zwGybx/view?usp=drive_link">(Slides)</a>
       </td>
       <td rowspan="2"> <a href="https://cs10.org/fa26/labs/lab05/">Lab 5. Lists & HOFs</a> <br/> </td>
       <td></td>
@@ -296,7 +296,7 @@
       <th>Fri 9/18</th>
       <td>
         Talk 4. (Practice Quest) Booleans + Iteration<br/>
-        <a href="https://www.askademia.org/compsci10/fa26">(Video)</a><br/>
+        <a href="https://bcourses.berkeley.edu/courses/1558076/external_tools/90481">(Video)</a><br/>
       </td>
       <td></td>
       <td> <a href="https://docs.google.com/document/d/1Xg5Yhd2i9ORrRi2u15gv8OMKvYvaBHjR/edit?usp=sharing&ouid=108241901646567491558&rtpof=true&sd=true">Disc. 4: Iteration & Lists</a> </td>
@@ -333,7 +333,7 @@
       <th>Mon 9/21</th>
       <td>
         Lec 7. Higher-Order Functions<br/>
-        <a href="https://www.askademia.org/compsci10/fa26">(Video)</a> <a href="https://drive.google.com/file/d/1pohZVsm_LXNdiQscTqqWox3Hv8Wd6e0J/view?usp=drive_link">(Slides)</a>
+        <a href="https://bcourses.berkeley.edu/courses/1558076/external_tools/90481">(Video)</a> <a href="https://drive.google.com/file/d/1pohZVsm_LXNdiQscTqqWox3Hv8Wd6e0J/view?usp=drive_link">(Slides)</a>
       </td>
       <td rowspan="2"> <a href="https://cs10.org/fa26/labs/lab06/">Lab 6. Functions as Data, HOFs </a><br/> </td>
       <td></td>
@@ -349,7 +349,7 @@
       <th>Wed 9/23</th>
       <td>
         Lec 8. Algorithms<br/>
-        <a href="https://www.askademia.org/compsci10/fa26">(Video)</a> <a href="https://drive.google.com/file/d/1eGe_LL8JUu0iNGoxfAxNxDCMX7-qcAgp/view?usp=drive_link">(Slides)</a>
+        <a href="https://bcourses.berkeley.edu/courses/1558076/external_tools/90481">(Video)</a> <a href="https://drive.google.com/file/d/1eGe_LL8JUu0iNGoxfAxNxDCMX7-qcAgp/view?usp=drive_link">(Slides)</a>
       </td>
       <td rowspan="2"> Catch-up (optional) <br/> </td>
       <td></td>
@@ -365,7 +365,7 @@
       <th>Fri 9/25</th>
       <td>
         Talk 5. Quest 1 Preview<br/>
-        <a href="https://www.askademia.org/compsci10/fa26">(Video)</a><br/>
+        <a href="https://bcourses.berkeley.edu/courses/1558076/external_tools/90481">(Video)</a><br/>
       </td>
       <td></td>
       <td> <a href="https://docs.google.com/document/d/1m8BOaJD6NaF_b1LEJzSMn5LtpC7O3wxa/edit?usp=sharing&ouid=108241901646567491558&rtpof=true&sd=true">Disc. 5: HOFs + Quest Practice</a> </td>
@@ -402,7 +402,7 @@
       <th>Mon 9/28</th>
       <td>
         Lec 9. Algorithmic Complexity<br/>
-        <a href="https://www.askademia.org/compsci10/fa26">(Video)</a> <a href="https://drive.google.com/file/d/1-e_TRoFaZAZXtt1gSPLcjGmeN36Uxqnm/view?usp=drive_link">(Slides)</a>
+        <a href="https://bcourses.berkeley.edu/courses/1558076/external_tools/90481">(Video)</a> <a href="https://drive.google.com/file/d/1-e_TRoFaZAZXtt1gSPLcjGmeN36Uxqnm/view?usp=drive_link">(Slides)</a>
       </td>
       <td rowspan="2"> <a href="https://docs.google.com/document/d/1uKuuRwS0YEKdtDGP-TDZKEgcBQxq052g6uWPYs4NG_w/edit?usp=sharing">Lab 7. Algorithms</a> <br/> </td>
       <td></td>
