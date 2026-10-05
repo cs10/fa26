@@ -21,10 +21,12 @@ UC Berkeley, Fall 2026
 
 </div>
 
-## Announcements:  Friday, October 2
-- **Quest 2** will be released today, 10/2, at 5 PM and will be closed on Sunday, 10/4, at 11:59 PM
-- **Project 2: Spelling Bee** will be due on Friday, 10/2, at 11:59 PM
-- **Project 3: 2048** will be released on Monday, 10/5
+## Announcements:  Monday, October 5
+- Log in to iClicker
+- Congratulations to those that have finished Quest 2! Quest 2 scores will be released soon.
+- Friday's Talk will go over Quest 2 solutions. It will **not** be recorded.
+- **Quest 3** will open this Friday, 10/9, at 5 PM and will close on Sunday, 10/11, at 11:59 PM.
+- **Project 3: 2048** will be released today and will be due on 10/19
   
 **Instructor:** <a href="https://people.eecs.berkeley.edu/~ddgarcia/">Teaching Professor Dan Garcia</a>  
 **Instructor’s OH:** Monday @ 2-3 PM in Gateway B1040 Bear  
