@@ -473,7 +473,7 @@
         Lec 11. Recursion I (Functional)<br/>
         (Video) <a href="https://drive.google.com/file/d/1rhyfIfPyb5HsSB9N8dOA_Pn58sr0yvvU/view?usp=drive_link">(Slides)</a>
       </td>
-      <td rowspan="2"> Lab 9. Boards <br/> </td>
+      <td rowspan="2"> <a href="https://cs10.org/fa26/labs/lab09/">Lab 9. Boards </a><br/> </td>
       <td></td>
       <td><b>Proj 3: 2048 Released</b></td>
     </tr>
