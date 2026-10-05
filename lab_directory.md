@@ -29,7 +29,7 @@ Lab Slides: <a href="https://drive.google.com/drive/folders/1QviClM8HHk_4ARff5us
 | Catch-up Session (Optional) | Wed 9/23 & Thu 9/24 |
 | [Lab 7: Algorithms](https://docs.google.com/document/d/1uKuuRwS0YEKdtDGP-TDZKEgcBQxq052g6uWPYs4NG_w/edit?usp=sharing) | Mon 9/28 & Tue 9/29 |
 | [Lab 8: Testing + 2048](/fa26/labs/lab08) | Wed 9/30 & Thu 10/1 |
-| Lab 9: Boards | Mon 10/5 & Tue 10/6 |
+| [Lab 9: Boards](/fa26/labs/lab09) | Mon 10/5 & Tue 10/6 |
 | Lab 10: Trees & Fractals | Wed 10/7 & Thu 10/8 |
 | Lab 11: Recursive Reporters | Mon 10/12 & Tue 10/13 |
 | Lab 12: Algorithmic Complexity (Conceptual Only) | Wed 10/14 & Thu 10/15 |
