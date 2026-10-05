@@ -1,12 +1,12 @@
 ---
-title: "Lab 08"
+title: "Lab 09"
 description: "Boards"
-due: "Thursday, February 19th, 23:59"
+due: "Tuesday, October 6th, 23:59"
 gradescope_assignment_id:
 submission_files:
 ---
 
-# Lab 8: Boards
+# Lab 9: Boards
 
 ## Instructions
 This worksheet serves as a guide and set of instructions to complete the lab. 
