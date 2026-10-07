@@ -86,7 +86,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
       <td>Disc 6. HOFs, Lambdas, Debugging</td>
       <td><a href="https://docs.google.com/document/d/1npL-LinkwdrAQBsSNm_tLEbUv86es1UH/edit?usp=sharing&ouid=108241901646567491558&rtpof=true&sd=true">Worksheet 6</a></td>
       <td>Solutions 6</td>
-      <td>Notes 6</td>
+      <td><a href="https://docs.google.com/presentation/d/1gvbovMcZEg3Jw7fXm4kaPOtkCX6yYOeKQ5DgN3w9fRA/edit?usp=sharing">Slides 6</a></td>
     </tr>
     <tr>
       <td>Week 7</td>
