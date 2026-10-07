@@ -21,9 +21,10 @@ UC Berkeley, Fall 2026
 
 </div>
 
-## Announcements:  Monday, October 5
+## Announcements:  Wednesday, October 7
 - Log in to iClicker
-- Congratulations to those that have finished Quest 2! Quest 2 scores will be released soon.
+- Read <a href="https://edstem.org/us/courses/102681/discussion/8360407">Weekly Blast 7</a> on Ed
+- Quest 2 scores have been released
 - Friday's Talk will go over Quest 2 solutions. It will **not** be recorded.
 - **Quest 3** will open this Friday, 10/9, at 5 PM and will close on Sunday, 10/11, at 11:59 PM.
 - **Project 3: 2048** will be released today and will be due on 10/19
