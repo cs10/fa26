@@ -32,7 +32,7 @@ Lab Slides: <a href="https://drive.google.com/drive/folders/1QviClM8HHk_4ARff5us
 | [Lab 9: Boards](/fa26/labs/lab09) | Mon 10/5 & Tue 10/6 |
 | [Lab 10: Trees & Fractals](/fa26/labs/lab10) | Wed 10/7 & Thu 10/8 |
 | Lab 11: Recursive Reporters | Mon 10/12 & Tue 10/13 |
-| Lab 12: Algorithmic Complexity (Conceptual Only) | Wed 10/14 & Thu 10/15 |
+| Lab 12: Algorithmic Complexity (Conceptual Only) & Project 3 Party | Wed 10/14 & Thu 10/15 |
 | Practice Midterm (no code) | Mon 10/19 & Tue 10/20 |
 | Practice Midterm (fractal) | Wed 10/21 & Thu 10/22 |
 | Lab 13: Concurrency (Conceptual Only) | Mon 10/26 & Tue 10/27 |
