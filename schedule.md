@@ -558,7 +558,7 @@
         Lec 14. Social Implications of Computing: Privacy<br/>
         (Video) <!--<a href="">(Slides)</a>-->(Slides)
       </td>
-      <td rowspan="2"> Lab 12. Algorithmic Complexity <br/> </td>
+      <td rowspan="2"> Lab 12. Algorithmic Complexity + Project 3 Party <br/> </td>
       <td></td>
       <td></td>
     </tr>
