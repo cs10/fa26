@@ -506,7 +506,7 @@
         (Video)<br/>
       </td>
       <td></td>
-      <td> Disc 7. Recursion I </td>
+      <td> <a href="https://docs.google.com/document/d/15-HQO5Z0MlZr5hsDJsEZInWOFGCz0pAE/edit?usp=sharing&ouid=108241901646567491558&rtpof=true&sd=true">Disc 7. Linear Recursion + Fractals</a> </td>
       <td><b>QUEST 3</b></td>
     </tr>
   </tbody>

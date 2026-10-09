@@ -91,8 +91,8 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     <tr>
       <td>Week 7</td>
       <td>Fri 10/9</td>
-      <td>Disc 7. Recursion I</td>
-      <td>Worksheet 7</td>
+      <td>Disc 7. Linear Recursion + Fractals</td>
+      <td><a href="https://docs.google.com/document/d/15-HQO5Z0MlZr5hsDJsEZInWOFGCz0pAE/edit?usp=sharing&ouid=108241901646567491558&rtpof=true&sd=true">Worksheet 7</a></td>
       <td>Solutions 7</td>
       <td>Notes 7</td>
     </tr>
