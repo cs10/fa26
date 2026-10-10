@@ -94,7 +94,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
       <td>Disc 7. Linear Recursion + Fractals</td>
       <td><a href="https://docs.google.com/document/d/15-HQO5Z0MlZr5hsDJsEZInWOFGCz0pAE/edit?usp=sharing&ouid=108241901646567491558&rtpof=true&sd=true">Worksheet 7</a></td>
       <td>Solutions 7</td>
-      <td>Notes 7</td>
+      <td><a href="https://drive.google.com/file/d/1gtP1pbjUJab9VcTWBuegVYVvOWat-aN1/view?usp=sharing">Notes 7</a></td>
     </tr>
     <tr>
       <td>Week 8</td>
