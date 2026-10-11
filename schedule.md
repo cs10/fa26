@@ -555,7 +555,7 @@
     <tr>
       <th>Wed 10/14</th>
       <td>
-        Lec 14. Social Implications of Computing: Privacy<br/>
+        Lec 14. Special Topics Lecture (IEOR)<br/>
         (Video) <!--<a href="">(Slides)</a>-->(Slides)
       </td>
       <td rowspan="2"> Lab 12. Algorithmic Complexity + Project 3 Party <br/> </td>
