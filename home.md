@@ -21,9 +21,9 @@ UC Berkeley, Fall 2026
 
 </div>
 
-## Announcements:  Friday, October 9
-- Read <a href="https://edstem.org/us/courses/102681/discussion/8360407">Weekly Blast 7</a> on Ed
-- **Quest 3** will open today (10/9) at 5 PM and will close on Sunday, 10/11, at 11:59 PM.
+## Announcements:  Monday, October 12
+- Log in to iClicker
+- Congratulations on finishing **Quest 3**! Quest 3 scores will be released soon.
 - Lab 12 will also be a Project 3 Party. Attendance is still mandatory for the lab portion (Algorithmic Complexity). 
   
 **Instructor:** <a href="https://people.eecs.berkeley.edu/~ddgarcia/">Teaching Professor Dan Garcia</a>  
