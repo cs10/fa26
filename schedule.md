@@ -542,7 +542,7 @@
         Lec 13. Recursion III (Count Change)<br/>
         (Video) <a href="https://drive.google.com/file/d/1LOBsTelQjBgY0QfpdYokovIxQ3_SDHfE/view?usp=drive_link">(Slides)</a>
       </td>
-      <td rowspan="2"> Lab 11. Recursive Reporters <br/> </td>
+      <td rowspan="2"> <a href="https://cs10.org/fa26/labs/lab11/">Lab 11. Recursive Reporters</a> <br/> </td>
       <td></td>
       <td></td>
     </tr>
