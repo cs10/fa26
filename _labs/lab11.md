@@ -1,12 +1,12 @@
 ---
-title: "Lab 10"
+title: "Lab 11"
 description: "Recursive Reporters"
-due: "Tuesday, March 3rd, 23:59"
+due: "Thursday, October 15th, 23:59"
 gradescope_assignment_id:
 submission_files:
 ---
 
-# Lab 10: Recursive Reporters
+# Lab 11: Recursive Reporters
 
 ## Instructions
 This worksheet serves as a guide and set of instructions to complete the lab. 
