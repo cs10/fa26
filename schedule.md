@@ -556,7 +556,7 @@
       <th>Wed 10/14</th>
       <td>
         Lec 14. Special Topics Lecture (IEOR)<br/>
-        (Video) <!--<a href="">(Slides)</a>-->(Slides)
+        (Video) <a href="https://docs.google.com/presentation/d/1iPP6UiomVGkPOpkMjRvKSWGPQLthXVD5BhUeUObXqtg/edit?usp=sharing">(Slides)</a>
       </td>
       <td rowspan="2"> Lab 12. Algorithmic Complexity + Project 3 Party <br/> </td>
       <td></td>
