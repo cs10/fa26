@@ -24,7 +24,7 @@ UC Berkeley, Fall 2026
 ## Announcements:  Wednesday, October 14
 - Log in to iClicker
 - Read <a href="https://edstem.org/us/courses/102681/discussion/8382821">Weekly Blast 8</a> on Ed
-- Quest 3 scores have been released.
+- Quest 3 scores have been released. Please come to OH if you would like to go over the solutions!
 - Lab 12 will also be a Project 3 Party. Attendance is still mandatory for the lab portion (Algorithmic Complexity).
 - Midterm 1 will be released next Friday, 10/23 
   
