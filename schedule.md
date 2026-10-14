@@ -558,7 +558,7 @@
         Lec 14. Special Topics Lecture (IEOR)<br/>
         (Video) <a href="https://docs.google.com/presentation/d/1iPP6UiomVGkPOpkMjRvKSWGPQLthXVD5BhUeUObXqtg/edit?usp=sharing">(Slides)</a>
       </td>
-      <td rowspan="2"> Lab 12. Algorithmic Complexity + Project 3 Party <br/> </td>
+      <td rowspan="2"> <a href="https://www.gradescope.com/courses/1371156/assignments/8487791">Lab 12. Algorithmic Complexity</a> + Project 3 Party <br/> </td>
       <td></td>
       <td></td>
     </tr>
