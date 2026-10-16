@@ -21,11 +21,10 @@ UC Berkeley, Fall 2026
 
 </div>
 
-## Announcements:  Wednesday, October 14
-- Log in to iClicker
+## Announcements:  Friday, October 16
 - Read <a href="https://edstem.org/us/courses/102681/discussion/8382821">Weekly Blast 8</a> on Ed
 - Quest 3 scores have been released. Please come to OH if you would like to go over the solutions!
-- Lab 12 will also be a Project 3 Party. Attendance is still mandatory for the lab portion (Algorithmic Complexity).
+- Project 3 is due on Monday, 10/19, at 11:59 PM
 - Midterm 1 will be released next Friday, 10/23 
   
 **Instructor:** <a href="https://people.eecs.berkeley.edu/~ddgarcia/">Teaching Professor Dan Garcia</a>  
