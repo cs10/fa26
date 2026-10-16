@@ -540,7 +540,7 @@
       <th>Mon 10/12</th>
       <td>
         Lec 13. Recursion III (Count Change)<br/>
-        (Video) <a href="https://drive.google.com/file/d/1LOBsTelQjBgY0QfpdYokovIxQ3_SDHfE/view?usp=drive_link">(Slides)</a>
+        <a href="https://bcourses.berkeley.edu/courses/1558076/external_tools/90481">(Video)</a> <a href="https://drive.google.com/file/d/1LOBsTelQjBgY0QfpdYokovIxQ3_SDHfE/view?usp=drive_link">(Slides)</a>
       </td>
       <td rowspan="2"> <a href="https://cs10.org/fa26/labs/lab11/">Lab 11. Recursive Reporters</a> <br/> </td>
       <td></td>
@@ -556,7 +556,7 @@
       <th>Wed 10/14</th>
       <td>
         Lec 14. Special Topics Lecture (IEOR)<br/>
-        (Video) <a href="https://docs.google.com/presentation/d/1iPP6UiomVGkPOpkMjRvKSWGPQLthXVD5BhUeUObXqtg/edit?usp=sharing">(Slides)</a>
+        <a href="https://bcourses.berkeley.edu/courses/1558076/external_tools/90481">(Video)</a> <a href="https://docs.google.com/presentation/d/1iPP6UiomVGkPOpkMjRvKSWGPQLthXVD5BhUeUObXqtg/edit?usp=sharing">(Slides)</a>
       </td>
       <td rowspan="2"> <a href="https://www.gradescope.com/courses/1371156/assignments/8487791">Lab 12. Algorithmic Complexity</a> + Project 3 Party <br/> </td>
       <td></td>
