@@ -575,7 +575,7 @@
         (Video)<br/>
       </td>
       <td></td>
-      <td> Disc 8. Algorithmic Complexity + Tree Recursion </td>
+      <td> <a href="https://docs.google.com/document/d/1Ta2FJ1JEmuwicqBuf7znKGNuD-0gBMKr/edit?usp=sharing&ouid=108241901646567491558&rtpof=true&sd=true">Disc 8. Algorithmic Complexity + Tree Recursion</a> </td>
       <td></td>
     </tr>
   </tbody>

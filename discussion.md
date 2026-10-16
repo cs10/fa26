@@ -100,7 +100,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
       <td>Week 8</td>
       <td>Fri 10/16</td>
       <td>Disc 8. Algorithmic Complexity + Tree Recursion</td>
-      <td>Worksheet 8</td>
+      <td><a href="https://docs.google.com/document/d/1Ta2FJ1JEmuwicqBuf7znKGNuD-0gBMKr/edit?usp=sharing&ouid=108241901646567491558&rtpof=true&sd=true">Worksheet 8</a></td>
       <td>Solutions 8</td>
       <td>Notes 8</td>
     </tr>
