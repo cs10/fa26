@@ -611,7 +611,7 @@
         Lec 15. Kathy Yelick "Saving the World with Computing"<br/>
         (Video) <a href="https://drive.google.com/file/d/1k3hl9mOVuNLAh9LzrZNGpzKaH69BwII2/view?usp=drive_link">(Slides)</a>
       </td>
-      <td rowspan="2"> Practice Midterm (no code) <br/> </td>
+      <td rowspan="2"> <a href="https://us.prairielearn.com/pl/course_instance/219932/assessment/2698231">Practice Midterm (no code)</a> <br/> </td>
       <td></td>
       <td><b>Proj 3: Due</b></td>
     </tr>
