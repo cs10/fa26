@@ -21,11 +21,11 @@ UC Berkeley, Fall 2026
 
 </div>
 
-## Announcements:  Friday, October 16
-- Read <a href="https://edstem.org/us/courses/102681/discussion/8382821">Weekly Blast 8</a> on Ed
-- Quest 3 scores have been released. Please come to OH if you would like to go over the solutions!
-- Project 3 is due on Monday, 10/19, at 11:59 PM
-- Midterm 1 will be released next Friday, 10/23 
+## Announcements:  Monday, October 19
+- Log in to iClicker
+- Project 3 is due today, 10/19, at 11:59 PM
+- This week's labs will go over the Practice Midterms. Attendance is still mandatory.
+- Midterm 1 will be released this Friday, 10/23, at 5 PM and will close on Sunday, 10/25, at 11:59 PM.
   
 **Instructor:** <a href="https://people.eecs.berkeley.edu/~ddgarcia/">Teaching Professor Dan Garcia</a>  
 **Instructor’s OH:** Monday @ 2-3 PM in Gateway B1040 Bear  
