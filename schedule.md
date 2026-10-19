@@ -609,7 +609,7 @@
       <th>Mon 10/19</th>
       <td>
         Lec 15. Kathy Yelick "Saving the World with Computing"<br/>
-        (Video) <a href="https://drive.google.com/file/d/1k3hl9mOVuNLAh9LzrZNGpzKaH69BwII2/view?usp=drive_link">(Slides)</a>
+        (Video) <a href="https://drive.google.com/file/d/1RzbSY7bLZSbDrXmXpPuD45J8gLqL61dG/view?usp=sharing">(Slides)</a>
       </td>
       <td rowspan="2"> Practice Midterm (no code) <br/> </td>
       <td></td>
