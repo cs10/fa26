@@ -629,7 +629,7 @@
       </td>
       <td rowspan="2"> Practice Midterm (fractal) <br/> </td>
       <td></td>
-      <td><b>Proj 4: Explore Released</b></td>
+      <td><b>Proj 4: Tech in Context Released</b></td>
     </tr>
     <tr>
       <th>Thu 10/22</th>

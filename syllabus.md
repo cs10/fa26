@@ -162,9 +162,9 @@ These assignments will be one of the best ways for you to apply what you have le
 | Project 1: Wordle™-lite                       | Wed 9/16  |
 | Project 2: Spelling-Bee                       | Fri 10/2  |
 | Project 3: 2048                               | Mon 10/19 |
-| Project 4: Explore Post                       | Wed 10/28 |
-| Project 4: Explore Post Presentations         | Fri 10/30 |
-| Project 4: Explore Post Feedback + Comments   | Fri 11/6  |
+| Project 4: Tech in Context                       | Wed 10/28 |
+| Project 4: Tech in Context Presentations         | Fri 10/30 |
+| Project 4: Tech in Context Feedback + Comments   | Fri 11/6  |
 | Project 5: Final Project Proposals            | Fri 11/6  |
 | Project 5: Final Project                      | Mon 12/7  |
 
@@ -256,7 +256,7 @@ This policy is effective immediately. If genuine extenuating circumstances (prol
 | Project 1: Wordle™-lite                       | 15       |
 | Project 2: Spelling-Bee                       | 25       |
 | Project 3: 2048                               | 35       |
-| Project 4: Explore Post                       | 20       |
+| Project 4: Tech in Context                       | 20       |
 | Final Project                                 | 60       |
 | Labs                                          | 80       |
 | Attendance / Participation                    | 15       |
