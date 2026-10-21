@@ -627,7 +627,7 @@
         Lec 16. Human Computer Interaction (HCI) - Mina Huh<br/>
         (Video) <!--<a href="">(Slides)</a>-->
       </td>
-      <td rowspan="2"> Practice Midterm (fractal) <br/> </td>
+      <td rowspan="2"> <a href="https://us.prairielearn.com/pl/course_instance/219932/assessment/2698232">Practice Midterm (fractal)</a><br/> </td>
       <td></td>
       <td><b>Proj 4: Tech in Context Released</b></td>
     </tr>

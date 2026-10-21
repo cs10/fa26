@@ -21,11 +21,12 @@ UC Berkeley, Fall 2026
 
 </div>
 
-## Announcements:  Monday, October 19
+## Announcements:  Wednesday, October 21
+- Log in to iClicker
 - Read <a href="https://edstem.org/us/courses/102681/discussion/8410723">Weekly Blast 9 🍁🍂</a> on Ed
 - If you are unable to log in or scan the QR code to mark your attendance, please take a photo of yourself with the screen during your lecture, lab, or discussion section.
   - Please read <a href="https://edstem.org/us/courses/102681/discussion/8410657">Ed #271</a> for attendance troubleshooting.
-- Project 3 is due today, 10/19, at 11:59 PM
+- An email with your attendance status will be sent out soon.
 - This week's labs will go over the Practice Midterms. Attendance is still mandatory.
 - Midterm 1 will be released this Friday, 10/23, at 5 PM and will close on Sunday, 10/25, at 11:59 PM.
   
