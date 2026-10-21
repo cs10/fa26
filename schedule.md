@@ -709,7 +709,7 @@
     <tr>
       <th>Fri 10/30</th>
       <td>
-        Talk 10. Midterm 2 Review<br/>
+        Talk 10. Midterm 1 Review<br/>
         (Video)<br/>
       </td>
       <td></td>
