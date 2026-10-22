@@ -226,32 +226,6 @@ Project 4 will be graded for coherence and content based on the following rubric
 | Facilitates and leads discussion/Q&A with peers                                      | +0.5       |
 | Provides thoughtful answers to at least 2 peer questions                             | +0.5       |
 | Asks a question (as an audience member) to each presenter in the group               | +1.0       |
-<!-- 
-| **Part**  | **Criteria** | **Points** |
-| :------------------------------: | :--------: | :-------------------: | 
-| Part 1: Research Document (4.5 pts) |  |  |
-|   | Documentation addresses at least two questions from “Define the Purpose” | +2.0 |
-|   | Documentation addresses at least two questions from “POSITIVE & NEGATIVE IMPACTS” | +2.0 |
-|   | Documentation addresses at least two questions from “TECHNICAL ELEMENTS” | +1.0 |
-|   | Documentation highlights intended message of Artifact        | +1.0   |
-|   | All references are properly cited and submission follows style guide | +0.5 |
-| Part 2: Artifact (3.5 pts) |  |  |
-|   | Artifact includes details that express technical topic of choice in a creative and novel way | +3.0 |
-|   | Artifact is an acceptable medium to explore a single, tech-related topic. | +0.5 |
-| Part 3: Presentation (8 pts) |  |  |
-|     | Signs up and is present at the allotted time. Presents for at least five minutes      | +1.0       |
-|     | Explains why you chose this artifact                                                 | +1.0       |
-|     | Explains artifact’s purpose                                                          | +1.0       |
-|     | Explains artifact’s positive imacts                                                  | +1.0       |
-|     | Explains artifact’s negative imacts                                                  | +1.0       |
-|     | Explains artifact’s technical elements                                               | +1.0       |
-|     | Facilitates and leads discussion/Q&A with peers                                      | +0.5       |
-|     | Provides thoughtful answers to at least 2 peer questions                             | +0.5       |
-|     | Asks a question (as an audience member) to each presenter in the group               | +1.0       |
-
-
-
- -->
 
  ## Submission
 - You’ll upload your Research Document and Artifact to Gradescope. 
