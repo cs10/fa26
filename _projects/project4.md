@@ -199,36 +199,35 @@ Project 4 will be graded for coherence and content based on the following rubric
 **Part 1: Research Document (4.5 pts)**
 
 | **Criteria** | **Points** |
-|  ---------- | -------- | 
+| ---------- | -------- |
 | Documentation addresses at least two questions from “Define the Purpose” | +2.0 |
 | Documentation addresses at least two questions from “POSITIVE & NEGATIVE IMPACTS” | +2.0 |
 | Documentation addresses at least two questions from “TECHNICAL ELEMENTS” | +1.0 |
-| Documentation highlights intended message of Artifact        | +1.0   |
+| Documentation highlights intended message of Artifact | +1.0 |
 | All references are properly cited and submission follows style guide | +0.5 |
 
-**Part 2: Artifact (3.5 pts)** 
+**Part 2: Artifact (3.5 pts)**
 
 | **Criteria** | **Points** |
-|  ---------- | -------- | 
+| ---------- | -------- |
 | Artifact includes details that express technical topic of choice in a creative and novel way | +3.0 |
 | Artifact is an acceptable medium to explore a single, tech-related topic. | +0.5 |
 
-**Part 3: Presentation (8 pts)** 
+**Part 3: Presentation (8 pts)**
 
 | **Criteria** | **Points** |
-|  ---------- | -------- | 
-| Signs up and is present at the allotted time. Presents for at least five minutes      | +1.0       |
-| Explains why you chose this artifact                                                 | +1.0       |
-| Explains artifact’s purpose                                                          | +1.0       |
-| Explains artifact’s positive imacts                                                  | +1.0       |
-| Explains artifact’s negative imacts                                                  | +1.0       |
-| Explains artifact’s technical elements                                               | +1.0       |
-| Facilitates and leads discussion/Q&A with peers                                      | +0.5       |
-| Provides thoughtful answers to at least 2 peer questions                             | +0.5       |
-| Asks a question (as an audience member) to each presenter in the group               | +1.0       |
+| ---------- | -------- |
+| Signs up and is present at the allotted time. Presents for at least five minutes | +1.0 |
+| Explains why you chose this artifact | +1.0 |
+| Explains artifact's purpose | +1.0 |
+| Explains artifact's positive impacts | +1.0 |
+| Explains artifact's negative impacts | +1.0 |
+| Explains artifact's technical elements | +1.0 |
+| Facilitates and leads discussion/Q&amp;A with peers | +0.5 |
+| Provides thoughtful answers to at least 2 peer questions | +0.5 |
+| Asks a question (as an audience member) to each presenter in the group | +1.0 |
 
- ## Submission
+## Submission
 - You’ll upload your Research Document and Artifact to Gradescope. 
 - The Artifact must be uploaded in a single upload. Multiple photo uploads will not be accepted. If necessary, they should be compressed into a single file (PDF)
 - For video submissions we encourage attaching an unlisted YouTube Link or a Google Drive link
-
