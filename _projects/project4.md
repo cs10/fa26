@@ -9,36 +9,34 @@ submission_files:
 
 *Version 2.0. Last Updated: 2026-10-21.*
 
-*We highly recommend reading through this spec in its entirety before you begin.*
-
-- Research Document Due: **Wednesday, 10/28 at 11:59 PM PT** on Gradescope
-- Artifact Submission: **Friday, 11/13 at 11:59 PM PT** on Gradescope
-- [Group Signup](https://docs.google.com/spreadsheets/d/1_rbvDbv2MwlEOg68M62D5we7KEgPL8Md_igqN2zgBCE/edit?usp=sharing) Due: **Friday, 11/13 at 11:59 PM PT** 
-- Presention on **Monday 11/16 or Tuesday 11/17** during your assigned Lab, in person.
+- **Research Document** Due: Wednesday, 10/28 on Gradescope
+- **Artifact** Due: Friday, 11/13 on Gradescope
+- [Group Signup](https://docs.google.com/spreadsheets/d/1_rbvDbv2MwlEOg68M62D5we7KEgPL8Md_igqN2zgBCE/edit?usp=sharing) Due: Friday, 11/13
+- **Presention** on Monday 11/16 or Tuesday 11/17 during your Lab, in person.
 
 <!-- - [Peer Comments](https://www.gradescope.com/courses/{{ site.gradescope_course_id }}) Due: **Friday, 10/30 at 11:59 PM PT** on Gradescope
     - Be sure to upload the comments to Ed Discussion (link TBD) -->
       
-> Any important updates or clarifications will be made here.
+<!-- > Any important updates or clarifications will be made here. -->
 
 ## Content
 
-I. Submission Guidelines
-II. Introduction
-III. Project 4 Timeline 
-IV. AI and Generative Tool Guidelines 
-V. Content Guidelines
-    a. Part 1: Research Document
-    b. Part 2: Artifact Submission + Group Signup
-    c. Part 3: Presentation
-VI. Feedback Form
-VII. Rubric & Grading
+<!-- - I. [Submission Guidelines]() -->
+- I. [Introduction](#Introduction)
+- II. [Project 4 Timeline](#project-4-timeline)
+- III. [Choosing your Topic Content](#choosing-your-topic-content) 
+- IV. [AI Guidelines](#ai-and-generative-tool-guidelines)
+- V. [Part 1: Research Document](#part-1-research-document)
+- VI. [Part 2: Artifact Submission + Group Signup](#part-2-artifact-submission)
+- VII. [Part 3: Presentation](#part-3-group-presentation)
+- VIII. [Feedback Form](#feedback-form)
+- IX. [Rubric & Grading](#rubric--grading)
 
 ## Introduction
 
-This semester, you have explored how computer science and technological innovations shape society, from individual experiences to global transformations. For this project, you’ll step away from coding to select a creative media format that allows you to critically examine an intersection between technology and society. The project will consist of three parts: research  documentat, artifact submission, and a live presentation. This approach offers an opportunity to engage with the actions and consequences of technology in a non-traditional format.
+This semester, you have explored how computer science and technological innovations shape society, from individual experiences to global transformations. For this project, you’ll step away from coding to select a creative media format that allows you to critically examine an intersection between technology and society. 
 
-You will select a creative medium to explore a tech-related topic of your choice. The medium you select should effectively convey the societal, economic, or cultural impact of your chosen topic—whether it’s a technology, theory, program, event (past or present), or object. 
+The project will consist of three parts: research  documentat, artifact submission, and a live presentation. This approach offers an opportunity to engage with the actions and consequences of technology in a non-traditional format. You will select a creative medium to explore a tech-related topic of your choice. The medium you select should effectively convey the societal, economic, or cultural impact of your chosen topic.
 
 We want this to be a fun and exciting project that allows you to pursue your interests. This project shouldn’t feel like a grind. The expected total time spent on this should not exceed five to ten hours. Ideally, most of the time spent on the project will be doing research on the topic.
 
@@ -48,55 +46,47 @@ This is a solo project! There are no partners for this project.
 
 | Part  | Submission Method | Due Date |
 | :------------------------------: | :--------: | :-------------------: | 
-| Part 1: Research Document | Gradescope | WED 10/28 AT 11:59 PM |
-| Part 2: Artifact Submission + Group Signup| Gradescope | FRI 11/13 AT 11:59 PM|
-| Part 3: Presentation | In Person in Lab | MON 11/16 or TUE 11/17 |
+| Part 1: Research Document | Gradescope | Wednesday 10/28 @11:59 PM |
+| Part 2: Artifact Submission + Group Signup| Gradescope | Friday 11/13 @11:59 PM|
+| Part 3: Presentation | In Person in Lab | Monday 11/16 or Tuesday 11/17 |
 
 ## Choosing your Topic Content
 
-- Focuses on a single topic/innovation and its impacts that are not too broad
-    - For example, the topic "LLMs" is too broad. A narrower topic, such as "the social impacts of LLMs on the loneliness epidemic" or "vector embeddings: how language models understand words," gives you much more to focus and analyze.
+
 - Consider a technological innovation that has significantly transformed the way we live, work, or interact. Be sure to focus on a specific topic that allows for in-depth analysis or creative expression within the scope of the project.
-- Previous topics have included AI (autonomous weapons, AI copyright of artists/deepfakes,) biometric surveillance, CRISPR, facebook, pagerank algorithm, smart farming, the internet, the TikTok algorithm, robotic teachers, and online security. 
+- Potential topics included: AI (autonomous weapons, AI copyright of artists/deepfakes), biometric surveillance, CRISPR, facebook, pagerank algorithm, smart farming, the internet, the TikTok algorithm, robotic teachers, and online security. Really, anything!
+- Focus on a single topic or innovation. Do not choose a topic that is too broad
+    - For example, "LLMs" is too broad. A narrower topic, such as "the social impacts of LLMs on the loneliness epidemic" or "vector embeddings: how language models understand words," gives you much more to focus and analyze.
 
 
-## AI and Generative Tool Guidelines 
+## AI Guidelines 
 
+- Do NOT create this project with AI. We will be checking.
 - You must create the artifact yourself. The artifact cannot be AI generated.
-- You may only use AI tools for miscellaneous research assistance (such as asking for relevant articles), feedback, video captioning, etc.
-- Plagiarism, including uncredited AI-generated work, will not be tolerated.
-- All work that you submit, including your documentation and presentation, should be your own creative work.
-- Any content generated by AI must be properly cited and referenced in your project.
-- Citations for AI-generated content should follow the MLA format, with clear acknowledgment of the tool and its contribution.
-- Be transparent about how AI tools influenced your process in the project documentation portion.
+- Plagiarism, including uncredited AI-generated work, will not be tolerated. All work that you submit should be your own creative work.
+<!-- - Be transparent about how AI tools influenced your process in the project documentation portion. -->
 
 ## Part 1: Research Document
 
-- 200-350 words research document explaining your tech-related topic of your choice and how you plan to create your artifact. You do **not** have to create the Artifact (yet! see Part 2) but outline the process.
-- This is a chance for staff to review your research and responses and make sure you are on the right path.
-- Describe your intended creative process, the research behind the project, and the message you aim to communicate
-- Format
+- 200-350 words research document explaining your topic of choice and how you plan to create your artifact. You do **not** have to create the Artifact (yet! see Part 2) but outline the process.
+- This is a chance for staff to review your research and make sure you are on the right path.
+- Describe your intended creative process, the research behind the project, and the message you aim to communicate.
+- **Format**
     - Use clear headings and subheadings.
     - Standard font (e.g., Times New Roman, Arial) at 12-point size.
-- Content Overview
-    - Introduction
+- **Content Overview**
+    - *Introduction*
         - Briefly introduce your project, including the topic and the medium used.
-    - Creative Process
+    - *Creative Process*
         - Explain the steps you took in creating your artifact.
         - Discuss how you generated and refined ideas, and any challenges you faced and overcame
-    - Research
+    - *Research*
         - Summarize the key research conducted that informed your project
         - Highlight significant findings and insights that shaped your understanding of the topic
         - Address at least two elements from "Postive & Negative Elements"
         - Address at least two elements from "Technical Elements"
-    - Intended Message
-        - Clearly articulate the main message you aimed to communicate through your artifact
-        - Explain how your chosen medium effectively conveys this message
-    - Citations
-        - Include proper in-text citations in MLA format for any sources used and a Works Cited page at the end
-        - The Works Cited page does not contribute to your final word count
-        - You must include at least two citations.
-        - The citations must be from reputable journals or news outlets, or academic publications, books, or articles.
+    - *Intended Message*
+        - Clearly articulate your main message and how your  medium effectively conveys this message
 - If applicable: include a Works Cited page using MLA format for citations (does not count towards the word count)
     - For in-text citations, reference the author and page number in parentheses, e.g., “Technology is cool” (AuthorLastName 40)
 - Credit any and all images used in your project
@@ -105,63 +95,58 @@ This is a solo project! There are no partners for this project.
 
 ## Part 2: Artifact Submission
 
-Your artifact should include details that express your technical topic in a creative and novel way.  To help you do so, your artifact should answer some (but need not answer all) of the following questions, but you must select two questions to answer from each category (define the purpose, positive and negative impacts, and technical elements):
-- DEFINE THE PURPOSE:
-    - What is the innovation you are focusing on? 
-    - What is the context for the innovation? 
-    - What social issue was this innovation meant to address? 
-    - Does it resolve problems of a certain kind in a particular community? 
-    - How does the innovation impact quality of life? 
-    - What motivated the creation or development of the innovation?
-- POSITIVE & NEGATIVE IMPACTS: 
-    - What has happened as a result of this innovation, intentional or unintentional? 
-    - Are there any long-term or short-term concerns for this innovation? 
-    - What major impact(s) has it contributed to in society, economics, or a particular culture or subculture?
-    - What kind of regulations are in place for the technology, and how do these regulations (or lack of regulations) affect the public and society?
-- TECHNICAL ELEMENTS: 
-    - How might we understand this innovation? 
-    - How does this innovation relate to other innovations? 
-    - What algorithms are involved in this innovation?
-    - How is the data used and analyzed for this technology? 
-- Examples of accepted artifacts could look like an Infographic on AI Bias in Decision-Making, a Handmade Collage on Social Media’s Impact on Youth, a Sculpture on Data Privacy, or Video debating a friend on a controversial tech topic
-
 The artifact should adhere to the following guidelines:
 - Use of creative medium to explore a tech-related topic of your choice.
     - Acceptable **creative** formats include: art/drawings, sculptures, physical posters or collages.
     - Acceptable **digital** formats include: video interviews/debate, stop motion, live action, short film. Please note that video submissions should be < 5 minutes in length
     - **Banned**: Essays, songs, other kinds of videos, poems, or single photographs
     - If you’d like to use a different medium, you must get approval from the TAs.
-- Projects should be created in a manner that maximizes accessibility to all audiences (e.g., captions for videos, clear visuals, minimum 12pt font).
-- Ability to be showcased (either through digital projection/download or physical presentation). You will present your artifact to your group in person, and we may hold a gallery walk.
+
+Your artifact should include details that express your technical topic in a creative and novel way.  Your artifact should answer at least two questions to answer from each of these 3 categories:
+- **DEFINE THE PURPOSE:**
+    - What is the innovation you are focusing on? 
+    - What is the context for the innovation? 
+    - What social issue was this innovation meant to address? 
+    - Does it resolve problems of a certain kind in a particular community? 
+    - How does the innovation impact quality of life? 
+    - What motivated the creation or development of the innovation?
+- **POSITIVE & NEGATIVE IMPACTS:**
+    - What has happened as a result of this innovation, intentional or unintentional? 
+    - Are there any long-term or short-term concerns for this innovation? 
+    - What major impact(s) has it contributed to in society, economics, or a particular culture or subculture?
+    - What kind of regulations are in place for the technology, and how do these regulations (or lack of regulations) affect the public and society?
+- **TECHNICAL ELEMENTS:**
+    - How might we understand this innovation? 
+    - How does this innovation relate to other innovations? 
+    - What algorithms are involved in this innovation?
+    - How is the data used and analyzed for this technology? 
+
+- Examples of accepted artifacts could look like a Handmade Collage on Social Media’s Impact on Youth, a Sculpture on Data Privacy, or Video Interviewing/Debating a peer or yourself on a Controversial Topic in Technology
+- Projects should be created in a manner that maximizes accessibility to all audiences (e.g., captions for videos, clear visuals).
+- You will present your artifact to your group in person. Your project should be able to be showcased (digital projection/download or physical presentation).
 
 > You can see [artifact examples here](https://drive.google.com/drive/folders/1qNRJTj1vgNi0Wi_rskWvkAXCvB15WWnD?usp=sharing)
 
 ### Submission
 
 - You’ll upload a digital archive of your finished artifact and documentation to Gradescope. 
-    - The archive must be uploaded in a single upload for each file submission section. Multiple photo uploads will not be accepted. 
+    - The archive must be uploaded in a single upload. Multiple photo uploads will not be accepted. 
     - Multiple images or papers should be compressed and attached to your Artifact Documentation into a single file (PDF)
     - For video submissions we encourage attaching an unlisted YouTube Link or a Google Drive link
 
 
 ## Part 3: Group Presentation
 
-For this assignment, you will present your Artifact in small, collaborative groups during Lab **Monday 11/16 and Tuesday 11/17**. This format is designed to foster a deeper exchange of ideas, encourage constructive feedback, and allow for a more intimate exploration of the societal, economic, or cultural impact of the tech-related topics we are studying.
-
-The small group setting is intended to create a supportive environment where you can confidently showcase your creative medium, whether it be an artwork, sculpture, video, infographic, collage, or diorama. The goal of the presentations is not only to exhibit your work but to engage with your peers, offering insights into how your chosen medium effectively communicates the implications of your topic.
-
-Presentations will be largely student led with AI/Tutor/TA supervision. You will be graded for your engagement and active participation. 
-
-You will sign-up for a time and group (rec: 3-4) that best works for you. Sign ups are filled on a first-come first-serve basis. 
-
+You will present your Artifact in small, collaborative groups during Lab **Monday 11/16 and Tuesday 11/17**. This format is designed to foster a deeper exchange of ideas, encourage constructive feedback, and allow for a more intimate exploration of the societal, economic, or cultural impact of the tech-related topics we are studying.
 
 ### Presentation Guidelines (5 minutes)
 
+- Presentations will be largely student led with AI/Tutor/TA supervision. You will be graded for your engagement and active participation. 
 - Signing up for a time
-    - You must sign up for a time slot. Please do so by adding your first and last name to the [Google Sheet](https://docs.google.com/spreadsheets/d/1_rbvDbv2MwlEOg68M62D5we7KEgPL8Md_igqN2zgBCE/edit?usp=sharing)
-    - Please note, you are expected to stay the full Lab duration
+    - Sign up by adding your first and last name to this [Google Sheet](https://docs.google.com/spreadsheets/d/1_rbvDbv2MwlEOg68M62D5we7KEgPL8Md_igqN2zgBCE/edit?usp=sharing). Sign ups are filled on a first-come first-serve basis. 
+    - You must stay the full Lab duration
 - Artifact/Visual Aids
-    - Present your physical project or digital archive
+    - Present your physical or digital project.
     - You may have supplementary notes and material, although not required.
 - Content Overview 
     - Provide a clear and engaging introduction to your artifact and its focus (e.g., the technology you explored and its societal implications)
@@ -174,6 +159,7 @@ You will sign-up for a time and group (rec: 3-4) that best works for you. Sign u
 - Clarity and Engagement
     - Speak clearly, make eye contact, and engage your audience. 
     - Focus on key insights from your project and why it’s important, leaving details for the Q&A.
+- Grading Rubric TBA
 <!-- - Grading
     - Points from peers’ feedback forms - You must collect each feedback form from the peers you presented in front of for credit. Failure to collect all responses will result in a 0.
     - Points from staff members - Staff members will be grading your participation to ensure that you adhered to the following:
@@ -188,11 +174,11 @@ You will sign-up for a time and group (rec: 3-4) that best works for you. Sign u
 
 After your presentation, there will be a 3-5 minute discussion period where peers are encouraged to ask questions, share thoughts, and provide constructive feedback. This dialogue is essential for refining your understanding of both your own work and that of your peers.
 
-Be ready to answer follow-up questions related to your project, process, and topic. This includes technical aspects, societal impacts, ethical considerations, and the use of AI tools. 
-
-Aim to facilitate dialogue by asking the audience or classmates for their thoughts or feedback on your topic. You are in charge of the Q&A, so do your best to guide the conversation.
+Be ready to answer follow-up questions related to your project, process, and topic. This includes technical aspects, societal impacts, ethical considerations, and the use of AI tools. Aim to facilitate dialogue by asking the audience or classmates for their thoughts or feedback on your topic. You are in charge of the Q&A, so do your best to guide the conversation.
 
 Conclude the Q&A with a brief summary of your project’s key points or takeaways based on the discussion. 
+- Q&A Rubric TBA
+
 <!-- 
 ## Part 3: Peer Reflection/Comments
 
