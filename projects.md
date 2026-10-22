@@ -50,28 +50,32 @@ nav_order: 6
     </tr>
     <tr>
       <td>Project 4: Tech in Context</td>
-      <!-- <td><a href="/sp26/projects/project4">Project 4 Intructions</a></td> -->
-      <td>Project 4 Intructions</td>
-      <!-- <td><a href="https://drive.google.com/drive/folders/1Rr0uR3vTD9ch5qs6IaLWrtEILqh_mCzk?usp=sharing">Example Projects</a></td> -->
-      <td>Example Projects</td>
+      <td><a href="/sp26/projects/project4">Project 4 Research Document Instructions</a></td>
+      <!-- <td>Project 4 Intructions</td> -->
+      <td><a href="https://drive.google.com/drive/folders/1qNRJTj1vgNi0Wi_rskWvkAXCvB15WWnD?usp=sharing">Example Projects</a></td>
+      <!-- <td>Example Projects</td> -->
       <td style="max-width:120px;">Wednesday, 10/21</td>
       <td>Wednesday, 10/28</td>
     </tr>
     <tr>
-      <td>Project 4: Presentations</td>
-      <td>Project 4 Intructions</td>
-      <!-- <td><a href="https://docs.google.com/document/d/1N2R6tw35zo9M3eLd_E64V0EzxRUKq08VZPGb9oN9w9k/edit?usp=sharing">Presenting Instructions</a></td> -->
-      <td>Presenting Instructions</td>
-      <td style="max-width:120px;">-</td>
-      <td>Friday, 10/30, in discussion section</td>
+      <td>Project 4: Tech in Context</td>
+      <!-- <td>Project 4 Artifact Instructions</td> -->
+      <!-- <td><a href="https://docs.google.com/document/d/1N2R6tw35zo9M3eLd_E64V0EzxRUKq08VZPGb9oN9w9k/edit?usp=sharing">Project 4 Artifact Instructions</a></td> -->
+      <td><a href="/sp26/projects/project4/#part-2-artifact-submission">Project 4 Artifact Instructions</a></td>
+      <!-- <td>Presenting Instructions</td> -->
+      <td>-</td>
+      <td style="max-width:120px;">Wednesday, 10/21</td>
+      <td>Friday, 11/13</td>
     </tr>
     <tr>
-      <td>Project 4: Feedback + Comments</td>
-      <td>Project 4 Intructions</td>
-      <!-- <td><a href="https://edstem.org/us/courses/83126/discussion/7236195?comment=16833339">Example Feedback + Comments</a></td> -->
-      <td>Example Feedback + Comments</td>
-      <td style="max-width:120px;">-</td>
-      <td>Friday, 11/6</td>
+      <td>Project 4: Tech in Context</td>
+      <!-- <td>Project 4 Presentation Instructions</td> -->
+      <!-- <td><a href="https://edstem.org/us/courses/83126/discussion/7236195?comment=16833339">Presentation Instructions</a></td> -->
+      <td><a href="/sp26/projects/project4/#part-3-group-presentation">Presentation Instructions</a></td>
+      <!-- <td>Example Feedback + Comments</td> -->
+      <td>-</td>
+      <td style="max-width:120px;">Wednesday, 10/21</td>
+      <td>Monday, 11/16 and Tuesday, 11/17 during Lab</td>
     </tr>
     <tr>
       <td>Project 5: Proposals</td>
