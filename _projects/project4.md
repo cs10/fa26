@@ -31,6 +31,7 @@ submission_files:
 - VII. [Part 3: Presentation](#part-3-group-presentation)
 - VIII. [Feedback Form](#feedback-form)
 - IX. [Rubric & Grading](#rubric--grading)
+- X. [Submission](#submission)
 
 ## Introduction
 
@@ -123,11 +124,6 @@ Your artifact should include details that express your technical topic in a crea
 
 > You can see [artifact examples here](https://drive.google.com/drive/folders/1qNRJTj1vgNi0Wi_rskWvkAXCvB15WWnD?usp=sharing)
 
-### Submission
-
-- You’ll upload your Research Document and Artifact to Gradescope. 
-- The Artifact must be uploaded in a single upload. Multiple photo uploads will not be accepted. If necessary, they should be compressed into a single file (PDF)
-- For video submissions we encourage attaching an unlisted YouTube Link or a Google Drive link
 
 
 ## Part 3: Group Presentation
@@ -256,3 +252,9 @@ Project 4 will be graded for coherence and content based on the following rubric
 
 
  -->
+
+ ## Submission
+- You’ll upload your Research Document and Artifact to Gradescope. 
+- The Artifact must be uploaded in a single upload. Multiple photo uploads will not be accepted. If necessary, they should be compressed into a single file (PDF)
+- For video submissions we encourage attaching an unlisted YouTube Link or a Google Drive link
+
