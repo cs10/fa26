@@ -50,7 +50,7 @@ nav_order: 6
     </tr>
     <tr>
       <td>Project 4: Tech in Context</td>
-      <td><a href="/sp26/projects/project4">Project 4 Research Document Instructions</a></td>
+      <td><a href="/fa26/projects/project4">Project 4 Research Document Instructions</a></td>
       <!-- <td>Project 4 Intructions</td> -->
       <td><a href="https://drive.google.com/drive/folders/1qNRJTj1vgNi0Wi_rskWvkAXCvB15WWnD?usp=sharing">Example Projects</a></td>
       <!-- <td>Example Projects</td> -->
@@ -61,7 +61,7 @@ nav_order: 6
       <td>Project 4: Tech in Context</td>
       <!-- <td>Project 4 Artifact Instructions</td> -->
       <!-- <td><a href="https://docs.google.com/document/d/1N2R6tw35zo9M3eLd_E64V0EzxRUKq08VZPGb9oN9w9k/edit?usp=sharing">Project 4 Artifact Instructions</a></td> -->
-      <td><a href="/sp26/projects/project4/#part-2-artifact-submission">Project 4 Artifact Instructions</a></td>
+      <td><a href="/fa26/projects/project4/#part-2-artifact-submission">Project 4 Artifact Instructions</a></td>
       <!-- <td>Presenting Instructions</td> -->
       <td>-</td>
       <td style="max-width:120px;">Wednesday, 10/21</td>
@@ -71,7 +71,7 @@ nav_order: 6
       <td>Project 4: Tech in Context</td>
       <!-- <td>Project 4 Presentation Instructions</td> -->
       <!-- <td><a href="https://edstem.org/us/courses/83126/discussion/7236195?comment=16833339">Presentation Instructions</a></td> -->
-      <td><a href="/sp26/projects/project4/#part-3-group-presentation">Presentation Instructions</a></td>
+      <td><a href="/fa26/projects/project4/#part-3-group-presentation">Project 4 Presentation Instructions</a></td>
       <!-- <td>Example Feedback + Comments</td> -->
       <td>-</td>
       <td style="max-width:120px;">Wednesday, 10/21</td>
@@ -79,7 +79,7 @@ nav_order: 6
     </tr>
     <tr>
       <td>Project 5: Proposals</td>
-      <!-- <td><a href="/sp26/projects/project6-proposals">Project 5 Proposal Intructions</a></td> -->
+      <!-- <td><a href="/fa26/projects/project6-proposals">Project 5 Proposal Intructions</a></td> -->
       <td>Project 5 Proposal Intructions</td>
       <!-- <td><a href="https://docs.google.com/document/d/1IBLwmPiIa9qJ3p1Jvg6o23CnJNGfK0Jr0xQbZg9nMNM/edit?usp=sharing">Example Projects Proposals</a></td> -->
       <td>Example Projects Proposals</td>
@@ -88,7 +88,7 @@ nav_order: 6
     </tr>
     <tr>
       <td>Project 5: Proposal Meetings</td>
-      <!-- <td><a href="/sp26/projects/project6-proposals">Project 5 Proposal Intructions</a></td> -->
+      <!-- <td><a href="/fa26/projects/project6-proposals">Project 5 Proposal Intructions</a></td> -->
       <td>Project 5 Proposal Intructions</td>
       <!-- <td><a href="https://calendar.app.google/FJ27SLDzbZMxAg3m9">Proposal Meeting Sign-up Link</a></td> -->
       <td>Proposal Meeting Sign-up Link</td>
@@ -97,7 +97,7 @@ nav_order: 6
     </tr>
     <tr>
       <td>Project 5: Final Project</td>
-      <!-- <td><a href="/sp26/projects/project6-project">Project 5 Intructions</a></td> -->
+      <!-- <td><a href="/fa26/projects/project6-project">Project 5 Intructions</a></td> -->
       <td>Project 5 Intructions</td>
       <td style="max-width:120px;">-</td>
       <td>Friday, 10/30<br/>(Only start once your project has been approved)</td>
