@@ -698,7 +698,7 @@
       </td>
       <td rowspan="2"> Lab 14. OOP in Snap! <br/> </td>
       <td></td>
-      <td><b>Proj 4 Due</b></td>
+      <td><b>Proj 4 Research Document Due</b></td>
     </tr>
     <tr>
       <th>Thu 10/29</th>
@@ -713,7 +713,7 @@
         (Video)<br/>
       </td>
       <td></td>
-      <td> Disc 10. Proj 4 Presentations </td>
+      <!-- <td> Disc 10. Proj 4 Presentations </td> -->
       <td><b>Final Projects Released</b><br/><b>MIDTERM 2</b></td>
     </tr>
   </tbody>
@@ -783,7 +783,9 @@
       </td>
       <td></td>
       <td> Disc 11: Welcome to Python </td>
-      <td><b>Proj 4 Comments Due</b><br/><b>Proj 4 Makeup Presentations Due</b><br/><b>Final Project Proposals Due</b><br/><b>MIDTERM 3</b></td>
+      <td><b>Final Project Proposals Due</b><br/><b>MIDTERM 3</b></td> 
+      <!-- <td><b>Proj 4 Comments Due</b><br/><b>Proj 4 Makeup Presentations Due</b><br/><b>Final Project Proposals Due</b><br/><b>MIDTERM 3</b></td> -->
+
     </tr>
   </tbody>
 </table>
@@ -847,7 +849,7 @@
       </td>
       <td></td>
       <td> Disc 12: Data Structures in Python + Concurrency </td>
-      <td><b>Final Project Meetings</b><br/><b>Project 4 Resubmissions Due</b></td>
+      <td><b>Final Project Meetings</b><br/><b>Proj 4 Artifact Due</b></td>
     </tr>
   </tbody>
 </table>
@@ -882,7 +884,8 @@
         Lec 22. Gen AI<br/>
         (Video) <a href="https://drive.google.com/file/d/1W5s73SjKPawZgR2nazuYorUp7tc_BUYs/view?usp=drive_link">(Slides)</a>
       </td>
-      <td rowspan="2"> Lab 19. Data Science <br/> </td>
+      <!-- <td rowspan="2"> Lab 19. Data Science <br/> </td> -->
+      <td rowspan="2"> Project 4 Presentations <br/> </td>
       <td></td>
       <td></td>
     </tr>
