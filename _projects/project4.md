@@ -1,7 +1,7 @@
 ---
 title: Project 4
 description: Tech in Context
-# due: "11:59 PM PDT on Wednesday, 10/28"
+due: "11:59 PM PDT on Wednesday, 10/28"
 gradescope_assignment_id: 
 submission_files:
     - N/A
