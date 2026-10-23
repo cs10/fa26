@@ -108,7 +108,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
       <td>Week 9</td>
       <td>Fri 10/23</td>
       <td>Disc 9. Midterm Preview</td>
-      <td>Worksheet 9</td>
+      <td><a href="https://docs.google.com/document/d/1r1yyGVTu_bYWKfDM2l-SbkckIKCYxOaAP9bXvkcW54Y/edit?usp=sharing">Worksheet 9</a></td>
       <td>Solutions 9</td>
       <td>Notes 9</td>
     </tr>
