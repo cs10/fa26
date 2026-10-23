@@ -680,7 +680,7 @@
         Lec 17. Concurrency<br/>
         (Video) <a href="https://drive.google.com/file/d/1nxDs9G9eijscPh4PW7Cmme7dQgMo3SUX/view?usp=drive_link">(Slides)</a>
       </td>
-      <td rowspan="2"> Lab 13. Concurrency <br/> </td>
+      <td rowspan="2"> Lab 13. Concurrency (Conceptual Only) + Proj 4 Work Session <br/> </td>
       <td></td>
       <td></td>
     </tr>
