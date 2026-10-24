@@ -45,7 +45,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
       <td>Fri 8/28</td>
       <td>Disc 1. Welcome to CS 10!</td>
       <td><a href="https://docs.google.com/document/d/1iorI7tkhWwZlTzgJp9XLK5NKPMB0xPveJgCCT3MwAJU/edit?usp=sharing">Worksheet 1</a></td>
-      <td>Solutions 1</td>
+      <td><a href="https://docs.google.com/document/d/1HrkROUBvpJcaYlAGtOnC1n9FTfSumWfw/edit?usp=sharing&ouid=108241901646567491558&rtpof=true&sd=true">Solutions 1</a></td>
       <td>Notes 1</td>
     </tr>
     <tr>
@@ -53,7 +53,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
       <td>Fri 9/4</td>
       <td>Disc 2. Number Rep & Control Structures</td>
       <td><a href="https://docs.google.com/document/d/1oWpqj-5SO3G9k5yJTNbZehXmxJkZ5I9z/edit?usp=sharing&ouid=108241901646567491558&rtpof=true&sd=true">Worksheet 2</a></td>
-      <td>Solutions 2</td>
+      <td><a href="https://docs.google.com/document/d/15XdxVm2SQGgL1mfEICHjM9_oHhVHAf6J/edit?usp=sharing&ouid=108241901646567491558&rtpof=true&sd=true">Solutions 2</a></td>
       <td>Notes 2</td>
     </tr>
     <tr>
@@ -61,7 +61,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
       <td>Fri 9/11</td>
       <td>Disc 3. Domain/Range, Scoping, Iteration, Lists</td>
       <td><a href="https://docs.google.com/document/d/1muIrWG-F-RFWoUClySRauTpGCcYJrJpZ/edit?usp=sharing&ouid=108241901646567491558&rtpof=true&sd=true">Worksheet 3</a></td>
-      <td>Solutions 3</td>
+      <td><a href="https://docs.google.com/document/d/1mv_wxGavXP1ahZjEyOxiydUhZ9H_Z6NW/edit?usp=sharing&ouid=108241901646567491558&rtpof=true&sd=true">Solutions 3</a></td>
       <td>Notes 3</td>
     </tr>
     <tr>
@@ -69,7 +69,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
       <td>Fri 9/18</td>
       <td>Disc 4. Iteration & Lists</td>
       <td><a href="https://docs.google.com/document/d/1Xg5Yhd2i9ORrRi2u15gv8OMKvYvaBHjR/edit?usp=sharing&ouid=108241901646567491558&rtpof=true&sd=true">Worksheet 4</a></td>
-      <td>Solutions 4</td>
+      <td><a href="https://docs.google.com/document/d/1Nlh_DROXzX-cS6kmevHDpo-gIZM1y8ke/edit?usp=sharing&ouid=108241901646567491558&rtpof=true&sd=true">Solutions 4</a></td>
       <td>Notes 4</td>
     </tr>
     <tr>
@@ -93,7 +93,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
       <td>Fri 10/9</td>
       <td>Disc 7. Linear Recursion + Fractals</td>
       <td><a href="https://docs.google.com/document/d/15-HQO5Z0MlZr5hsDJsEZInWOFGCz0pAE/edit?usp=sharing&ouid=108241901646567491558&rtpof=true&sd=true">Worksheet 7</a></td>
-      <td>Solutions 7</td>
+      <td><a href="https://docs.google.com/document/d/1jm7MlRb3Q6582S5V4uTUA-FfbMb1MUya/edit?usp=sharing&ouid=108241901646567491558&rtpof=true&sd=true">Solutions 7</a></td>
       <td><a href="https://drive.google.com/file/d/1gtP1pbjUJab9VcTWBuegVYVvOWat-aN1/view?usp=sharing">Notes 7</a></td>
     </tr>
     <tr>
@@ -101,7 +101,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
       <td>Fri 10/16</td>
       <td>Disc 8. Algorithmic Complexity + Tree Recursion</td>
       <td><a href="https://docs.google.com/document/d/1Ta2FJ1JEmuwicqBuf7znKGNuD-0gBMKr/edit?usp=sharing&ouid=108241901646567491558&rtpof=true&sd=true">Worksheet 8</a></td>
-      <td>Solutions 8</td>
+      <td><a href="https://docs.google.com/document/d/1dkW5JNMU52D2U7Xdb4S877buLxBiVGuF/edit?usp=sharing&ouid=108241901646567491558&rtpof=true&sd=true">Solutions 8</a></td>
       <td>Notes 8</td>
     </tr>
     <tr>
@@ -109,7 +109,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
       <td>Fri 10/23</td>
       <td>Disc 9. Midterm Preview</td>
       <td><a href="https://docs.google.com/document/d/1r1yyGVTu_bYWKfDM2l-SbkckIKCYxOaAP9bXvkcW54Y/edit?usp=sharing">Worksheet 9</a></td>
-      <td>Solutions 9</td>
+      <td><a href="https://docs.google.com/document/d/1UNEBL_MaojRbmRaeRd5vvYLOcgbI-KM5/edit?usp=sharing&ouid=108241901646567491558&rtpof=true&sd=true">Solutions 9</a></td>
       <td>Notes 9</td>
     </tr>
     <tr>
