@@ -713,7 +713,7 @@
         (Video)<br/>
       </td>
       <td></td>
-      <!-- <td> Disc 10. Proj 4 Presentations </td> -->
+      <td> No Discussion (Office Hour instead) </td>
       <td><b>Final Projects Released</b><br/><b>MIDTERM 2</b></td>
     </tr>
   </tbody>

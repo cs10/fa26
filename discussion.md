@@ -115,7 +115,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     <tr>
       <td>Week 10</td>
       <td>Fri 10/30</td>
-      <td>Proj 4 Presentations</td>
+      <td>No Discussion (Office Hour instead)</td>
       <td>-</td>
       <td>-</td>
       <td>-</td>
