@@ -21,14 +21,13 @@ UC Berkeley, Fall 2026
 
 </div>
 
-## Announcements:  Wednesday, October 21
-- Log in to iClicker
-- Read <a href="https://edstem.org/us/courses/102681/discussion/8410723">Weekly Blast 9 🍁🍂</a> on Ed
+## Announcements:  Monday, October 26
+- Congratulations on finishing Midterm 1! Scores will be released soon.
+- Friday's Talk will go over Midterm 1 solutions. It will **not** be recorded. 
 - If you are unable to log in or scan the QR code to mark your attendance, please take a photo of yourself with the screen during your lecture, lab, or discussion section.
   - Please read <a href="https://edstem.org/us/courses/102681/discussion/8410657">Ed #271</a> for attendance troubleshooting.
-- An email with your attendance status will be sent out soon.
-- This week's labs will go over the Practice Midterms. Attendance is still mandatory.
-- Midterm 1 will be released this Friday, 10/23, at 5 PM and will close on Sunday, 10/25, at 11:59 PM.
+- To see you can view your attendance status, read <a href="https://edstem.org/us/courses/102681/discussion/8429677">Ed #303</a>
+- <a href="https://cs10.org/fa26/projects/project4/">Project 4</a> is released! Research Document is due this Wednesday, 10/28, at 11:59 PM. 
   
 **Instructor:** <a href="https://people.eecs.berkeley.edu/~ddgarcia/">Teaching Professor Dan Garcia</a>  
 **Instructor’s OH:** Monday @ 2-3 PM in Gateway B1040 Bear  
