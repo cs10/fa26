@@ -25,7 +25,8 @@ UC Berkeley, Fall 2026
 - Midterm 1 scores have been released (<a href="https://edstem.org/us/courses/102681/discussion/8443998">Ed #357</a>)
 - Midterm 2 will be released this Friday, 10/30, at 5 PM and will close on Sunday, 11/1, at 11:59 PM
 - Friday's Talk will go over Midterm 1 solutions. It will **not** be recorded. 
-- <a href="https://cs10.org/fa26/projects/project4/">Project 4</a> is released! Research Document is due today, 10/28 at 11:59 PM. 
+- <a href="https://cs10.org/fa26/projects/project4/">Project 4</a> is released! Research Document is due today, 10/28 at 11:59 PM.
+  - If your artifact is a video, at least 50% of its content must be your own original work (e.g., a voiceover explaining the concept, an interview you conducted, or footage you filmed yourself)
   
 **Instructor:** <a href="https://people.eecs.berkeley.edu/~ddgarcia/">Teaching Professor Dan Garcia</a>  
 **Instructor’s OH:** Monday @ 2-3 PM in Gateway B1040 Bear  
