@@ -41,7 +41,7 @@ Lab Slides: <a href="https://drive.google.com/drive/folders/1QviClM8HHk_4ARff5us
 | Lab 16: Lists and Mutability | Wed 11/4 & Thu 11/5 |
 | Lab 17: Data Structures in Python | Mon 11/9 & Tue 11/10 |
 | Lab 18: Text Processing in Python | Thu 11/12 & TBD |
-| Lab 19: Data Science | Mon 11/16 & Tue 11/17 |
+| Project 4 Presentations | Mon 11/16 & Tue 11/17 |
 | Practice Postterm | Wed 11/18 & Thu 11/19 |
 | Lab 20: Linear Recursion in Python | Mon 11/23 & Tue 11/24 |
 | Lab 21: Snap + Python Libraries (Optional) | Mon 11/30 & Tue 12/1 |

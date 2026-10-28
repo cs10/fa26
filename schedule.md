@@ -919,7 +919,7 @@
       </td>
       <td></td>
       <td> Disc 13: Postterm Practice </td>
-      <td><b>POSTTERM 1</b></td>
+      <td><b>Proj 4 Peer Comments Due</b><br/><b>POSTTERM 1</b></td>
     </tr>
   </tbody>
 </table>

@@ -71,11 +71,18 @@ nav_order: 6
       <td>Project 4: Tech in Context</td>
       <!-- <td>Project 4 Presentation Instructions</td> -->
       <!-- <td><a href="https://edstem.org/us/courses/83126/discussion/7236195?comment=16833339">Presentation Instructions</a></td> -->
-      <td><a href="/fa26/projects/project4/#part-3-group-presentation">Project 4 Presentation Instructions</a></td>
+      <td><a href="/fa26/projects/project4/#part-3a-group-presentation">Project 4 Presentation Instructions</a></td>
       <!-- <td>Example Feedback + Comments</td> -->
       <td>-</td>
       <td style="max-width:120px;">Wednesday, 10/21</td>
       <td>Monday, 11/16 and Tuesday, 11/17 during Lab</td>
+    </tr>
+    <tr>
+      <td>Project 4: Tech in Context</td>
+      <td><a href="/fa26/projects/project4/#part-3b-peer-comments">Project 4 Peer Comments Instructions</a></td>
+      <td>-</td>
+      <td style="max-width:120px;">Monday, 11/16</td>
+      <td>Friday, 11/20</td>
     </tr>
     <tr>
       <td>Project 5: Proposals</td>

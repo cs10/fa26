@@ -162,9 +162,10 @@ These assignments will be one of the best ways for you to apply what you have le
 | Project 1: Wordle™-lite                       | Wed 9/16  |
 | Project 2: Spelling-Bee                       | Fri 10/2  |
 | Project 3: 2048                               | Mon 10/19 |
-| Project 4: Tech in Context                       | Wed 10/28 |
-| Project 4: Tech in Context Presentations         | Fri 10/30 |
-| Project 4: Tech in Context Feedback + Comments   | Fri 11/6  |
+| Project 4: Tech in Context (Part 1: Research Document) | Wed 10/28 |
+| Project 4: Tech in Context (Part 2: Artifact + Presentation Sign-Up) | Fri 11/13 |
+| Project 4: Tech in Context Presentations (Part 3a, in lab) | Mon 11/16 (801L) / Tue 11/17 (802L) |
+| Project 4: Tech in Context Peer Comments (Part 3b) | Fri 11/20 |
 | Project 5: Final Project Proposals            | Fri 11/6  |
 | Project 5: Final Project                      | Mon 12/7  |
 

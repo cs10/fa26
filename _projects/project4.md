@@ -7,37 +7,38 @@ submission_files:
     - N/A
 ---
 
-*Version 2.0. Last Updated: 2026-10-21.*
+*Version 2.1. Last Updated: 2026-10-28.*
 
-- **Research Document** Due: Wednesday, 10/28 on Gradescope
-- **Artifact** Due: Friday, 11/13 on Gradescope
-- [Group Signup](https://docs.google.com/spreadsheets/d/1_rbvDbv2MwlEOg68M62D5we7KEgPL8Md_igqN2zgBCE/edit?usp=sharing) Due: Friday, 11/13
-- **Presention** on Monday 11/16 or Tuesday 11/17 during your Lab, in person.
-
-<!-- - [Peer Comments](https://www.gradescope.com/courses/{{ site.gradescope_course_id }}) Due: **Friday, 10/30 at 11:59 PM PT** on Gradescope
-    - Be sure to upload the comments to Ed Discussion (link TBD) -->
+- **Part 1: Research Document** Due: Wednesday, 10/28 at 11:59 PM on Gradescope
+- **Part 2: Artifact** Due: Friday, 11/13 at 11:59 PM on Gradescope
+- [Presentation Sign-Up (Group Signup)](https://docs.google.com/spreadsheets/d/1_rbvDbv2MwlEOg68M62D5we7KEgPL8Md_igqN2zgBCE/edit?usp=sharing) Due: Friday, 11/13
+- **Part 3a: Presentation** on Monday 11/16 (801L) or Tuesday 11/17 (802L) during your Lab, in person.
+    - Missed or can't make your presentation? You can make it up by Friday, 11/20. See [Part 3a](#part-3a-group-presentation) below.
+- **Part 3b: Peer Comments** open Monday, 11/16 and are due Friday, 11/20 at 11:59 PM on EdStem (link TBD)
+    - If you made up your presentation at OH, see [Part 3b](#part-3b-peer-comments) for what to do instead.
       
 <!-- > Any important updates or clarifications will be made here. -->
 
 ## Content
 
 <!-- - I. [Submission Guidelines]() -->
-- I. [Introduction](#Introduction)
+- I. [Introduction](#introduction)
 - II. [Project 4 Timeline](#project-4-timeline)
 - III. [Choosing your Topic Content](#choosing-your-topic-content) 
-- IV. [AI Guidelines](#ai-and-generative-tool-guidelines)
+- IV. [AI Guidelines](#ai-guidelines)
 - V. [Part 1: Research Document](#part-1-research-document)
-- VI. [Part 2: Artifact Submission + Group Signup](#part-2-artifact-submission)
-- VII. [Part 3: Presentation](#part-3-group-presentation)
-- VIII. [Feedback Form](#feedback-form)
-- IX. [Rubric & Grading](#rubric--grading)
-- X. [Submission](#submission)
+- VI. [Part 2: Artifact Submission + Presentation Sign-Up](#part-2-artifact-submission)
+- VII. [Part 3a: Presentation](#part-3a-group-presentation)
+- VIII. [Part 3b: Peer Comments](#part-3b-peer-comments)
+- IX. [Feedback Form](#feedback-form)
+- X. [Rubric & Grading](#rubric--grading)
+- XI. [Submission](#submission)
 
 ## Introduction
 
 This semester, you have explored how computer science and technological innovations shape society, from individual experiences to global transformations. For this project, you’ll step away from coding to select a creative media format that allows you to critically examine an intersection between technology and society. 
 
-The project will consist of three parts: research  documentat, artifact submission, and a live presentation. This approach offers an opportunity to engage with the actions and consequences of technology in a non-traditional format. You will select a creative medium to explore a tech-related topic of your choice. The medium you select should effectively convey the societal, economic, or cultural impact of your chosen topic.
+The project will consist of three parts: research document, artifact submission, and a live presentation with short peer comments. This approach offers an opportunity to engage with the actions and consequences of technology in a non-traditional format. You will select a creative medium to explore a tech-related topic of your choice. The medium you select should effectively convey the societal, economic, or cultural impact of your chosen topic.
 
 We want this to be a fun and exciting project that allows you to pursue your interests. This project shouldn’t feel like a grind. The expected total time spent on this should not exceed five to ten hours. Ideally, most of the time spent on the project will be doing research on the topic.
 
@@ -48,8 +49,9 @@ This is a solo project! There are no partners for this project.
 | Part  | Submission Method | Due Date |
 | :------------------------------: | :--------: | :-------------------: | 
 | Part 1: Research Document | Gradescope | Wednesday 10/28 @11:59 PM |
-| Part 2: Artifact Submission + Group Signup| Gradescope | Friday 11/13 @11:59 PM|
-| Part 3: Presentation | In Person in Lab | Monday 11/16 or Tuesday 11/17 |
+| Part 2: Artifact Submission + Presentation Sign-Up | Gradescope + Google Sheet | Friday 11/13 @11:59 PM |
+| Part 3a: Presentation | In Person in Lab | Monday 11/16 (801L) or Tuesday 11/17 (802L) |
+| Part 3b: Peer Comments | EdStem (link TBD) | Opens Monday 11/16, due Friday 11/20 @11:59 PM |
 
 ## Choosing your Topic Content
 
@@ -77,12 +79,12 @@ This is a solo project! There are no partners for this project.
     - *Introduction*
         - Briefly introduce your project, including the topic and the medium used.
     - *Creative Process*
-        - Explain the steps you took in creating your artifact.
-        - Discuss how you generated and refined ideas, and any challenges you faced and overcame
+        - Explain the steps you plan to take in creating your artifact.
+        - Discuss how you are generating and refining ideas, and any challenges you anticipate
     - *Research*
         - Summarize the key research conducted that informed your project
         - Highlight significant findings and insights that shaped your understanding of the topic
-        - Address at least two elements from "Postive & Negative Elements"
+        - Address at least two elements from "Positive & Negative Impacts"
         - Address at least two elements from "Technical Elements"
     - *Intended Message*
         - Clearly articulate your main message and how your  medium effectively conveys this message
@@ -100,7 +102,7 @@ The artifact should adhere to the following guidelines:
 -  **Banned**: Essays, songs, other kinds of videos, poems, or single photographs
 - If you’d like to use a different medium, you must get approval from the TAs.
 
-Your artifact should include details that express your technical topic in a creative and novel way.  Your artifact should answer at least two questions to answer from each of these 3 categories:
+Your artifact should include details that express your technical topic in a creative and novel way.  Your artifact should answer at least two questions from each of these 3 categories:
 - **DEFINE THE PURPOSE:**
     - What is the innovation you are focusing on? 
     - What is the context for the innovation? 
@@ -124,16 +126,21 @@ Your artifact should include details that express your technical topic in a crea
 
 > You can see [artifact examples here](https://drive.google.com/drive/folders/1qNRJTj1vgNi0Wi_rskWvkAXCvB15WWnD?usp=sharing)
 
+### Presentation Sign-Up (Group Signup)
+
+The "Group Signup" due with your artifact is the sign-up for your Part 3a presentation. By **Friday, 11/13**, add your first and last name to the [Google Sheet](https://docs.google.com/spreadsheets/d/1_rbvDbv2MwlEOg68M62D5we7KEgPL8Md_igqN2zgBCE/edit?usp=sharing) to reserve a presentation slot. See [Part 3a](#part-3a-group-presentation) for details.
 
 
-## Part 3: Group Presentation
+
+## Part 3a: Group Presentation
 
 You will present your Artifact in small, collaborative groups during Lab **Monday 11/16 and Tuesday 11/17**. This format is to foster a deeper exchange of ideas, encourage constructive feedback, and allow for a more intimate exploration of the societal, economic, or cultural impact of the tech-related topics we are studying.
 
 ### Presentation Guidelines (5 minutes)
 
 - Presentations will be student led with AI/Tutor/TA supervision. You will be graded for your engagement and active participation. 
-- **Sign up** by adding your first and last name to this [Google Sheet](https://docs.google.com/spreadsheets/d/1_rbvDbv2MwlEOg68M62D5we7KEgPL8Md_igqN2zgBCE/edit?usp=sharing). Sign ups are filled on a first-come first-serve basis. You must stay the full Lab duration
+- **Sign up** by Friday, 11/13 by adding your first and last name to this [Google Sheet](https://docs.google.com/spreadsheets/d/1_rbvDbv2MwlEOg68M62D5we7KEgPL8Md_igqN2zgBCE/edit?usp=sharing). Sign ups are filled on a first-come first-serve basis. You must stay the full Lab duration
+    - You may attend either presentation date (Monday 11/16 or Tuesday 11/17), even if it is not your usual lab.
 - **Artifact/Visual Aids:** Present your physical or digital project. You may have supplementary notes and material, although not required.
 - **Content Overview:** Provide a clear and engaging description of your artifact and summarize your creative process, including your chosen medium conveys your topic.
     - Highlight key points such as:
@@ -149,41 +156,40 @@ After your presentation, there will be a 3-5 minute discussion period where peer
 
 Be ready to answer follow-up questions related to your project, process, and topic. Aim to facilitate dialogue by asking the audience or classmates for their thoughts or feedback on your topic. You are in charge of the Q&A, so do your best to guide the conversation. Conclude the Q&A with a brief summary of your project’s key points or takeaways based on the discussion. 
 - Grading: Staff members will be grading your participation to ensure that you adhered to the following:
-    - Presents for 5 minutes.
-    - Facilitates and leads discussion/Q&A with peers
-    - Explains the artifact’s purpose and impact   
+    - Signs up and is present at the allotted time, and presents for at least 5 minutes
+    - Explains why you chose this artifact
+    - Explains the artifact’s purpose, positive impacts, negative impacts, and technical elements
     - Provides thoughtful answers to at least 2 peer questions
-    - Asks a question (as an audience member) to each presenter in the group
+    - Asks a question (as an audience member) to at least 2 presenters in the group
 
+### Missed or Can't Make Your Presentation?
 
-<!-- 
-## Part 3: Peer Reflection/Comments
+- If you miss your presentation, you can make it up by coming to any general OH during the week of 11/16 and presenting to a staff member. Staff members and other students at OH count as your audience for the Q&A and peer-question parts of the rubric. The last day to make up your presentation is Friday, 11/20.
+- If you make up your presentation, your Part 3b comments work differently. See [Part 3b](#part-3b-peer-comments).
 
-You will be writing comments for two members of your group. These comments will be posted in the EdStem Thread(Link TBD). To submit, you will need to take screenshots of your comments from EdStem, and upload the screenshots to Gradescope.
+## Part 3b: Peer Comments
+
+You will write comments on two members of your group after the presentations. Comments open on **Monday, 11/16** and are due **Friday, 11/20 at 11:59 PM** on EdStem (link TBD).
 
 ### Comments
 - Guidelines & Submission
-    - Reflect on 2 of your classmates’ essays on Gradescope (Due: TBD).
-        - Your response should be a short reflection based on two presentations you participated in. 
-        - You can write about something new you learned, something that stood out to you or you found surprising, or how the project relates to your prior knowledge about the subject, how the topic of the essay connects with your topic, etc.
-        - Your comments should include at least one question about the topic.
-        - The expected length of each response is around 3-6 sentences.
+    - Post your comments on the EdStem thread (link TBD).
+    - Your response should be a short reflection based on two presentations you participated in.
+    - You can write about something new you learned, something that stood out to you or you found surprising, or how the project relates to your prior knowledge about the subject, how the topic of the project connects with your topic, etc.
+    - Your comments should include at least one question about the topic.
+    - Aim for roughly 2-6 sentences per comment. There is no hard limit, as long as your comment is thoughtful.
     - The 2 students you should respond to are: any two students in your group (you pick)
-    - Your feedback will not be shared with the students and will be used for the purpose of evaluating your peers and your own work
 
+### If You Made Up Your Presentation at OH
+- Since you won't have a group to comment on, you will earn your Part 3b credit by watching two separate [TED Talks on technology](https://www.ted.com/topics/technology) of your choice and writing a meaningful comment on each.
+- Include a link to each talk when you post your comments on EdStem (link TBD) by Friday, 11/20 at 11:59 PM.
+
+<!--
 ### Peer Feeback Slips
 - The peer feedback slips should be filled out during the presentations.
 - You will need to collect the feedback from your peers of your presentation
 - You will upload a photo of the feedback to Gradescope
-  -->
-
-<!-- ### Make-up Presentations + Logistics
-- We will offer make-up presentations during the following times, but you must sign up using this [Google Sheet](https://docs.google.com/spreadsheets/d/1_rbvDbv2MwlEOg68M62D5we7KEgPL8Md_igqN2zgBCE/edit?usp=sharing):
-    - TBD
-- Please note, you will need at least one other person to sign up for a presentation time.
-    - If you only have one other person to do the presentation with, you will still need to gain points for the "Comments / Feedback" section.
-- To gain credit for the "Comments / Feedback" portion, you will watch any [TED Talk - Technology (click here)](https://www.ted.com/topics/technology), and upload meaningful comments onto EdStem while also providing a link to that TED Talk. You can pick the TED Talk you find the most interesting as long as it is technology-related.
-    - If you need credit for two comments, you must watch and comment on two separate TED Talks. -->
+-->
 
 
 ## Feedback Form
@@ -196,24 +202,24 @@ Please spend some time completing this [feedback form](https://forms.gle/WaWNwnR
 
 Project 4 will be graded for coherence and content based on the following rubric.
 
-**Part 1: Research Document (4.5 pts)**
+**Part 1: Research Document (6.5 pts)**
 
 | **Criteria** | **Points** |
 | ---------- | -------- |
-| Documentation addresses at least two questions from “Define the Purpose” | +2.0 |
-| Documentation addresses at least two questions from “POSITIVE & NEGATIVE IMPACTS” | +2.0 |
-| Documentation addresses at least two questions from “TECHNICAL ELEMENTS” | +1.0 |
-| Documentation highlights intended message of Artifact | +1.0 |
-| All references are properly cited and submission follows style guide | +0.5 |
+| Introduction clearly defines the research topic and gives a thoughtful overview of it | +1.0 |
+| Documentation addresses at least two elements from “Positive & Negative Impacts” | +2.5 |
+| Documentation addresses at least two elements from “Technical Elements” | +1.5 |
+| Documentation clearly states the medium of the artifact and the intended message it conveys | +1.0 |
+| References are properly cited (MLA) and the document follows the format guidelines (headings, 12-point font, 200-350 words) | +0.5 |
 
 **Part 2: Artifact (3.5 pts)**
 
 | **Criteria** | **Points** |
 | ---------- | -------- |
-| Artifact includes details that express technical topic of choice in a creative and novel way | +3.0 |
+| Artifact includes details that express technical topic of choice in a creative and novel way, and answers at least two questions from each of the 3 categories | +3.0 |
 | Artifact is an acceptable medium to explore a single, tech-related topic. | +0.5 |
 
-**Part 3: Presentation (8 pts)**
+**Part 3a: Presentation (8 pts)**
 
 | **Criteria** | **Points** |
 | ---------- | -------- |
@@ -223,11 +229,19 @@ Project 4 will be graded for coherence and content based on the following rubric
 | Explains artifact's positive impacts | +1.0 |
 | Explains artifact's negative impacts | +1.0 |
 | Explains artifact's technical elements | +1.0 |
-| Facilitates and leads discussion/Q&amp;A with peers | +0.5 |
-| Provides thoughtful answers to at least 2 peer questions | +0.5 |
-| Asks a question (as an audience member) to each presenter in the group | +1.0 |
+| Provides thoughtful answers to at least 2 peer questions | +1.0 |
+| Asks a question (as an audience member) to at least 2 presenters in the group | +1.0 |
+
+**Part 3b: Peer Comments (1 pt)**
+
+| **Criteria** | **Points** |
+| ---------- | -------- |
+| First comment is thoughtful and includes at least one question about the topic | +0.5 |
+| Second comment is thoughtful and includes at least one question about the topic | +0.5 |
 
 ## Submission
-- You’ll upload your Research Document and Artifact to Gradescope. 
+- You’ll upload your Research Document (Part 1) and Artifact (Part 2) to Gradescope.
+- Sign up for your presentation slot on the Google Sheet by Friday, 11/13 (see Part 3a).
+- Post your Part 3b peer comments on EdStem (link TBD) by Friday, 11/20 at 11:59 PM.
 - The Artifact must be uploaded in a single upload. Multiple photo uploads will not be accepted. If necessary, they should be compressed into a single file (PDF)
 - For video submissions we encourage attaching an unlisted YouTube Link or a Google Drive link
