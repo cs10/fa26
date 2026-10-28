@@ -696,7 +696,7 @@
         Lec 18. OOP in Snap!<br/>
         (Video) <a href="https://drive.google.com/file/d/1tIn-P8b1ZADGqX7yZ-VzrslA-dnOzlgF/view?usp=drive_link">(Slides)</a>
       </td>
-      <td rowspan="2"> Lab 14. OOP in Snap! <br/> </td>
+      <td rowspan="2"> <a href="https://cs10.org/fa26/labs/lab14/">Lab 14. OOP in Snap!</a> <br/> </td>
       <td></td>
       <td><b>Proj 4 Research Document Due</b></td>
     </tr>
