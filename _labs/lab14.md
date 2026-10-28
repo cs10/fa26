@@ -1,19 +1,23 @@
 ---
 title: "Lab 14"
 description: "OOP in Snap!"
-due:
+due: "Tuesday, November 3rd, 23:59"
 gradescope_assignment_id:
 submission_files:
 ---
 
-# Lab 14: OOP in Snap! (Optional)
+# Lab 14: OOP in Snap!
 
 ## Instructions
 - There is no workbook for this lab.
-- [Here is an optional starter file](https://snap.berkeley.edu/snap/snap.html#present:Username=jedi_force&ProjectName=Lab%2013%3a%20Starter%20%28OOP%20in%20Snap%21%29&editMode&noRun). You are not required to use it, but you can!
+- [Here is the starter file](https://snap.berkeley.edu/snap/snap.html#present:Username=jedi_force&ProjectName=Lab%2013%3a%20Starter%20%28OOP%20in%20Snap%21%29&editMode&noRun). You are not required to use it, but you can!
 
 ## Submitting
-There is no submission required for this lab.
+You will need to fill in the blocks under the starter file and submit this to Gradescope. 
+- To receive full credit for the coding portion, you will need to complete the required blocks, and the required blocks must pass all tests from the autograder in Gradescope.
+- For instructions on how to submit to labs to Gradescope, please see [this page](https://docs.google.com/document/d/1zh-3Mz-4mrfv0lqqI0JHfi31PBUze6QhxFuG4AQUL9s/edit).
+  
+Please note: you must use the **starter file** above, and you must **NOT** edit the name of any of the required blocks. Failing to do either will result in autograder failure.
 
 ## Objectives
 In this lab, you will practice Object-Oriented Programming (OOP) concepts through Snap! By the end of the lab, you will:
