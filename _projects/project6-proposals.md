@@ -1,26 +1,18 @@
 ---
 title: Project 5
 description: Final Project Proposals
-due: "11:59 PM PST on Monday, 4/6"
+due: "11:59 PM PST on Friday, 11/6"
 gradescope_assignment_id: 6577061
 submission_files:
     - N/A
 ---
 
-*Version 1.1. Last Updated: 2026-04-03.*
+*Version 1.1. Last Updated: 2026-10-29.*
 
 *We highly recommend reading through this spec in its entirety before you begin.*
 
-**[Sign up for a 10-minute Project 5 Proposal Meeting HERE](https://calendar.app.google/wB8NA3KBW1jGhodq9)**
 
-- Meeting with a Staff Member
-    - Before meeting with a staff member, you must submit your proposal.
-    - You must sign up for a 10-minute slot with a staff member to get your project approved. For the Spring 2026 semester, you may attend the meeting either in person or via Zoom. Only one member of your group needs to attend. Failure to be on time will mean you will need to sign up for a new time slot; otherwise, you will get a '0' score. 
-        - Click here for the [link to sign up](https://calendar.app.google/wB8NA3KBW1jGhodq9)
-    - Meetings will run at specific times during Week 12 (April 6th through April 10th)
-    - 1 or more attendees required (not all group members need to be present)
-- Sign-up is due by 11:59 PM PST on Monday, 4/6, but you may continue to revise and resubmit your proposal until the time of your meeting. Your proposal will be graded based on the content discussed during the meeting.
-- If you cannot attend any of the available sign-up slots or if all slots are full, please post on Ed as soon as possible so we can make further arrangements.
+
 
 
 ## Content
@@ -29,11 +21,11 @@ submission_files:
 
 [II. Introduction](#introduction)
 
-[III. Complexity Guidelines](#complexity-guidelines)
+[III. Required Features](#required-features)
 
-[IV. Required Features](#required-features)
+[IV. Proposal Contents](#proposal-contents)
 
-[V. Proposal Contents](#proposal-contents)
+[V. Complexity Guidelines](#complexity-guidelines)
 
 [VI. Submission Guidelines](#submission-guidelines)
 
@@ -41,54 +33,31 @@ submission_files:
 
 ## Important logistics
 
-- The Project Proposal Meeting is worth 10 points of your final grade. 10 minute Meetings will be held in person Mon-Fri during Week 12 in Soda 341B or online (will be specified in sign-up). To schedule a booking, click here for the booking page: [Proposal Meeting Sign-ups](https://calendar.app.google/wB8NA3KBW1jGhodq9).
-- You must work in groups of 2. Groups of 3 are sometimes permitted with approval from a TA, and we increase their project-complexity requirements accordingly. If you want to work alone you must get explicit permission from your lab TA. You will still be graded as if you were in a group of 2.   
-- The deadline for this proposal part of the project is Monday, 11/10 at 11:59pm PST. Please ensure that you submit your proposal before the deadline and before your meeting. There will be NO extensions available for the proposal and it is your responsibility to reach out on EdStem if your group can not make any of the meeting times. 
-- Please sign up for a time slot to meet up with a staff member for a proposal review before you submit the assignment on gradescope. You should sign up for an appointment on Google Calendar. You can choose whichever time works best for your group. Meetings will take place in-person, during designated lab times.  
-- If none of the times work for you, please make a private post on Ed ASAP. If you do not notify us by 11/10, you will not be able to meet with a staff member and will receive a 0 on this part of the project.
+**Project Groups**
+- You must work in groups of 2. Groups of 3 require TA approval and we will increase their project-complexity requirements. 
+- If you want to work alone you must get explicit permission from your lab TA and you will still be graded as a group of 2. This is a complicated project and we very rarely permit students to work solo. 
+**Proposal Submission Due Friday 11/6**
+- Submit your proposal on Gradescope *before* your meeting.
+- The proposal should come to about 1-2 pages, single-spaced. 
+- There will be NO extensions available for the proposal
+- You can revise and resubmit until your meeting time. Your proposal will be graded based on the content discussed during the meeting.
+**Meeting Sign Up Due Friday 11/6**
+- Book a 10-minute slot on Google Calendar by Friday, 11/6 at 11:59 PM PST (released soon)
+<!-- - To schedule a booking, click here for the booking page: [Proposal Meeting Sign-ups](https://calendar.app.google/wB8NA3KBW1jGhodq9). -->
+- If all slots are full or you cannot attend, make a private Ed post by the 11/6 deadline to avoid a 0 score.
+**Projetc Proposal Meeting Details (Week 12: Nov 9 -13)**
+- Meetings will run during Week 12 (Monday November 9th through Friday November 13th). No meetings on Wednesday November 11 holiday
+- You may attend the either in person (location TBD)or via Zoom.
+-  The Project Proposal Meeting is worth 10 points of your final grade.
+- Only one member of your group needs to attend. Late arrivals receive a '0' score and must sign up for a new time slot.
+
 
 ## Introduction
 
-For the final project, you’ll be building a project that you envision in either Snap! or Python, completely from scratch (how cool is that!) First, however, you’ll need to submit a project proposal that will be reviewed by a staff member to ensure that your project won’t be too easy or too complex. The proposal should come to about 1-2 pages, single-spaced (before you transfer the information to Gradescope). An example is provided below. 
-This proposal is meant to be just an ideas-focused starting point — the spec for the technical requirements of the final project can be found here, and you should reference that as you work with a staff member to ensure that your project idea will meet all requirements.
+For the final project, you’ll be building a project that you envision in either Snap! or Python, completely from scratch (how cool is that!) First, you’ll need to submit a project proposal that will be reviewed by a staff member to ensure that your project won’t be too easy or complex. 
+This proposal is meant to be just an ideas-focused starting point — the spec for the technical requirements of the final project can be found [here](https://cs10.org/fa26/projects/project6-project/)
 
-Please read through this entire spec before writing your proposal. Keep in mind that the project proposal is a REQUIRED element of the final project, and you will receive a 0 on this part of the project if you do not submit your proposal and meet with a staff member for feedback. 
-
-## Complexity Guidelines
-
-Complexity, for your project, basically means “how difficult is it to implement?” and is used as a measurement to ensure that final projects fit a happy medium of not too hard and not too simple, when taking into account both how much you’ve learned and how much time you have. 
-If your project idea relies heavily on the following, we recommend you consider alternate projects, or try a suggested workaround:
-- Using any primitive block in Snap! Will not count as a feature
-- Mainly being a guess-and-check game: This is generally considered too easy since it consists primarily of a - series of if-then-else statements. A number guessing game, for example, would not be complex enough. This might be a good mini-game in a bigger project.
-- Data entry: Alone, this might be considered too simple. Often, projects that rely on data entry get ‘bigger’ by having a bigger database. A fix for this would be having the data component be just one part of a bigger project. 
-- Robot/AI player: Depending on the game, this could be a good fit, or too complex. An AI player for chess or Go would be too complex. 
-- Games like Pong, Tic-Tac-Toe, Guess the word, Hangman, dress-up games, point and click games would not be complex enough and are NOT ALLOWED.
-- Games like Angry Birds, Balloons Tower Defense, or Need for Speed would likely be too complex. 
-- Games previously implemented in Projects are not allowed (because you’ve already done them).
-- Use of generative AI is NOT allowed.
-
-Don’t be worried if you really like a project idea but think it may be too complex, or not complex enough — that’s the purpose of having a proposal and proposal review process, so you can work with a TA to get your project complexity into the right range! 
-
-When considering what your project is, and how you plan to implement it, see if you can figure out a solution or a structure for a solution first, before defaulting to what you’ve seen done before! A few gauges for the complexity of the kinds of solutions we’re looking for are: coming up with logic to check for four-in-a-row in Connect 4 or recreating Flappy Bird in Snap!
-
-Of course, there’s a range of project complexity that falls into the “accepted proposal” range. Here are a few examples.
-
-- [The Chrome Dinosaur Game:](https://chromedino.com/)
-    - Feature 1: TWO DIFFERENT OBSTACLES 
-        - Randomly generated shrubs and pterodactyls appear on the screen as obstacles.
-        - Obstacles NEED to be traveling at different speeds (otherwise project will not be complex enough)
-    - Feature 2: The game ends when the dinosaur runs into an object.
-- [Mancala:](https://www.mathplayground.com/mancala.html)
-    - Feature 1: When a player chooses a group of marbles, those marbles get distributed around the board, picking up more marbles when the last one falls on a non-empty hole
-    - Feature 2: Game over when all marbles are in the two goals, winner is the one with more marbles
-- [Doodle Jump:](http://poki.com/en/g/doodle-jump)
-    - Feature 1: Doodle jumps continuously, moving higher up in the sky as he lands on bouncing platforms that continuously move downwards
-    - Feature 2: Game ends when Doodle falls off the screen
-- [Bubble Shooter (Difficult):](http://www.shooter-bubble.com/)
-    - Feature 1: Computer will generate randomly colored bubbles that players can shoot
-    - Feature 2: If the program detects groups of the same color, it will delete them.
-
-Other projects that fit complexity requirements that students have done in the past include: Frogger, Checkers, Flappy Bird, Snake, Chutes & Ladders, various puzzle games, various board games, data science analysis, Battleship, and chatbots.
+You will receive a 0 for Project 5 if you do not submit your proposal and meet with a staff member.
 
 ## Technical Requirements
 
@@ -137,11 +106,48 @@ On top of the technical requirement your project must have required features. He
     - Broadcasting messages
     - Pointing and clicking
 
+
+## Complexity Guidelines
+
+Complexity means “how difficult is it to implement?” and is used as a measurement to ensure that final projects fit a happy medium of not too hard and not too simple.
+If your project idea relies heavily on the following, we recommend you consider alternate projects:
+- Using any primitive block in Snap! Will not count as a feature
+- Mainly being a guess-and-check game: This is considered too easy since it consists primarily of a series of if-then-else statements (ex: number guessing game). This might be a good mini-game in a bigger project.
+- Data entry: Projects that rely on data entry get ‘bigger’ by having a bigger database. A fix for this would be having the data component be just one part of a bigger project. 
+- Games like Pong, Tic-Tac-Toe, Guess the word, Hangman, dress-up games, point and click games would not be complex enough and are NOT ALLOWED.
+- Games like Angry Birds, Balloons Tower Defense, or Need for Speed would likely be too complex. 
+- Games previously implemented in Projects are not allowed.
+- Use of AI is NOT allowed.
+
+Don’t be worried if you really like a project idea but think it may be too complex, or not complex enough — that’s the purpose of the project proposal, so you can work with a TA to get your project complexity into the right range! 
+
+When considering what your project is, see if you can figure out a solution or a structure for a solution first! A few gauges for complexity are: coming up with logic to check for four-in-a-row in Connect 4 or recreating Flappy Bird in Snap!
+
+Here are some examples of projects in the "accepted proposal" range
+
+- [The Chrome Dinosaur Game:](https://chromedino.com/)
+    - Feature 1: TWO DIFFERENT OBSTACLES 
+        - Randomly generated shrubs and pterodactyls appear on the screen as obstacles.
+        - Obstacles NEED to be traveling at different speeds (otherwise project will not be complex enough)
+    - Feature 2: The game ends when the dinosaur runs into an object.
+- [Mancala:](https://www.mathplayground.com/mancala.html)
+    - Feature 1: When a player chooses a group of marbles, those marbles get distributed around the board, picking up more marbles when the last one falls on a non-empty hole
+    - Feature 2: Game over when all marbles are in the two goals, winner is the one with more marbles
+- [Doodle Jump:](http://poki.com/en/g/doodle-jump)
+    - Feature 1: Doodle jumps continuously, moving higher up in the sky as he lands on bouncing platforms that continuously move downwards
+    - Feature 2: Game ends when Doodle falls off the screen
+- [Bubble Shooter (Difficult):](http://www.shooter-bubble.com/)
+    - Feature 1: Computer will generate randomly colored bubbles that players can shoot
+    - Feature 2: If the program detects groups of the same color, it will delete them.
+
+Other projects that fit complexity requirements that students have done in the past include: Frogger, Checkers, Flappy Bird, Snake, Chutes & Ladders, various puzzle games, various board games, data science analysis, Battleship, and chatbots.
+
+
 ## Proposal Contents 
 
-So now that you’ve got a project idea in mind, it’s time to write about it! The questions you should answer in your project proposal are below. We recommend you draft your answers out on a Google Doc or Word document before submitting them into Gradescope.
+So now that you’ve got a project idea in mind, it’s time to write about it! We recommend you draft your answers out on a Doc before submitting them into Gradescope.
 
-- Who are the members of the group? List each group member’s name and SID. You should work in pairs of 2, but if you want to work alone (or in groups of 3) you’ll need to get explicit permission from your TA during the meeting. This is a complicated project, so we very rarely permit students to work solo. 
+- Who are the group members (name and SID)?
 - What language will your project be in? Python or Snap? If you’re doing a graphics-heavy project, we recommend Snap!, as staff will have limited capacity to assist with debugging Python libraries. If you’re not sure, pick whichever you and your group feels more comfortable coding in, and you can check in with your TA/tutor about it later. 
 - What is your vision for the project? Describe the specific project and the major 2-3 features (listed above) you’d like to accomplish. Groups of 2 should list 2 features, groups of 3 should list 3. Please go into detail on this one, even if you think your project is well-known! The clearer you are, the better your TA/tutor will be able to help you adjust the project if it falls outside the optimal range of complexity. 
 - How will someone interact with your project? Describe the controls that will be used. For Projects 1-2, the answer to this question would be text input via keyboard. For Project 3, the answer would be keyboard controls/arrow keys. 
@@ -152,19 +158,15 @@ Here is an [example proposal](https://docs.google.com/document/d/1IBLwmPiIa9qJ3p
 
 ## Submission Guidelines
 
-By Monday, April 6th 11:59pm PST deadline, you and your partner(s) will submit your project proposal as a group on Gradescope. There is 1 assignment, and you should mention the date and time of the slot you signed up for in Question 2 of the assignment.
-
-The assignment has the proposal format in it, so your group will need to fill out all of the boxes with your answers to the questions listed in the previous section! Only one person from the group needs to submit. After you submit, please don’t forget to add your partner(s) to the submissions!
+By Friday, November 6th 11:59pm, you and your partner will submit your project proposal as a group on Gradescope. Only one person needs to submit, don’t forget to add your partner(s) to the submissions!
 
 ![How to add partner to Gradescope](/fa25/assets/images/p6/p6-1.png)
 
-Your project proposal review will take place during the time slot your group signs up for. These slots are during the lab. You need to ensure that you can show up for the time slot you signed up for. 
 
 ## Proposal Review: What to Expect
 
-You will explain your project and a staff member will review your project proposal, and either approve or disapprove it. Keep in mind that even if your initial proposal is disapproved, that’s only an indication that that specific version of the project might have been too complex or not complex enough! Your TA/tutor will work with you during the proposal review session to figure out a fix or adjustment to your project idea or suggest other ideas if necessary. 
+You will explain your project and a staff member will review your project proposal, and either approve or disapprove it. Regardless of the status of your project proposal, you must attend the project proposal review meeting with a TA/tutor. 
 
-Regardless of the status of your project proposal (whether it’s unfinished or you’ve changed your mind), you must attend the project proposal review meeting with a TA/tutor. If you are able, please try to attend the lab/OH of the TA/tutor you have your proposal reviewed for the duration of the final project. 
 
 If your initial project proposal is not approved: 
 
