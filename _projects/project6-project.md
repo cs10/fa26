@@ -137,7 +137,7 @@ You should submit two things to the Gradescope final project assignment:
 **If you run into any issues submitting, go to a lab or office hours or make a private post on Ed**
 
 ## Oral Exams
-Staff will be conducting **15-20 minute in-person oral exams about your project during RRR Week (12/7-12/11)** for each project group. These exams are an opportunity for you to demonstrate your understanding of your project and the code you implemented. The exam will consist of 4 questions (2 general and 2 technical). 
+Staff will be conducting **15-20 minute in-person oral exams about your project during RRR Week (12/7-12/11)** for each project group. These exams are an opportunity for you to demonstrate your understanding of your project and the code you implemented.
 
 **All group members are required to attend the oral exam on time (NOT Berkeley Time)**. We will announce sign-up details and available time slots on Ed. During the exam, you may have your code and project open for reference, but you may not bring any additional notes. 
 
