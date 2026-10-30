@@ -17,9 +17,9 @@ submission_files:
 
 ## Content
 
-[I. Important logistics](#important-logistics)
+[I. Introduction](#introduction)
 
-[II. Introduction](#introduction)
+[II. Important logistics](#important-logistics)
 
 <!-- [III. Required Features](#required-features) -->
 
@@ -31,36 +31,33 @@ submission_files:
 
 [VI. Proposal Review: What to Expect](#proposal-review-what-to-expect)
 
+## Introduction
+
+You will be building a project in Snap! or Python, completely from scratch (how cool is that!) First, you’ll need to submit a project proposal that will be reviewed by a staff member to ensure that your project won’t be too easy or complex. 
+
+This proposal is meant to be just an ideas-focused starting point — the spec for the technical requirements and features of the final project can be found [here](https://cs10.org/fa26/projects/project6-project/)
+
 ## Important logistics
 
 **Project Groups**
-- You must work in groups of 2. Groups of 3 require TA approval and we will increase their project-complexity requirements. 
-- If you want to work alone you must get explicit permission from your lab TA and you will still be graded as a group of 2. This is a complicated project and we very rarely permit students to work solo. 
+- You must work in groups of 2. Groups of 3 require TA approval and we will increase the project-complexity requirements. 
+- If you want to work alone you must get explicit permission from your TA and you will be graded as a group of 2. We very rarely permit students to work solo. 
 
 **Proposal Submission Due Friday 11/6**
-- Submit your proposal on Gradescope *before* your meeting.
-- The proposal should come to about 1-2 pages, single-spaced. 
-- There will be NO extensions available for the proposal
-- You can revise and resubmit until your meeting time. Your proposal will be graded based on the content discussed during the meeting.
+- Submit your proposal on Gradescope *before* your meeting. There will be NO extensions available.
+- The proposal be 1-2 pages, single-spaced. 
+- You can revise and resubmit until your meeting time. 
 
 **Meeting Sign Up Due Friday 11/6**
 - Book a 10-minute slot on Google Calendar by Friday, 11/6 at 11:59 PM PST (released soon)
 <!-- - To schedule a booking, click here for the booking page: [Proposal Meeting Sign-ups](https://calendar.app.google/wB8NA3KBW1jGhodq9). -->
-- If all slots are full or you cannot attend, make a private Ed post by the 11/6 deadline to avoid a 0 score.
+- If all slots are full or you cannot attend, make a private Ed post by 11/6 to avoid a 0 score.
 
 **Project Proposal Meeting Details (Week 12: Nov 9 -13)**
-- Meetings will run during Week 12 (Monday November 9th through Friday November 13th). No meetings on Wednesday November 11 holiday
-- You may attend the either in person (location TBD)or via Zoom.
--  The Project Proposal Meeting is worth 5 points of your final grade.
-- Only one member of your group needs to attend. Late arrivals receive a '0' score and must sign up for a new time slot.
-
-
-## Introduction
-
-You will be building a project in Snap! or Python, completely from scratch (how cool is that!) First, you’ll need to submit a project proposal that will be reviewed by a staff member to ensure that your project won’t be too easy or complex. 
-This proposal is meant to be just an ideas-focused starting point — the spec for the technical requirements and features of the final project can be found [here](https://cs10.org/fa26/projects/project6-project/)
-
-You will receive a 0 for Project 5 if you do not submit your proposal and meet with a staff member.
+- Meetings will run during Week 12 (11/9 to 11/13). No meetings on Wednesday November 11th due to the holiday.
+- You may attend the either in person (location TBD) or via Zoom.
+- This is worth 5 points of your final grade.
+- Only one member of your group needs to attend. Late arrivals receive a 0 score and must sign up for a new time slot.
 
 <!-- ## Technical Requirements
 
@@ -73,8 +70,7 @@ Here is a list of some of the technical requirements you must be able to demonst
 
 ## Complexity Guidelines
 
-Complexity means “how difficult is it to implement?” and is used as a measurement to ensure that final projects fit a happy medium of not too hard and not too simple. Please read through the [technical and feature requirements](https://cs10.org/fa26/projects/project6-project/#technical-requirements)  first.
-If your project idea relies heavily on the following, we recommend you consider alternate projects:
+Complexity means “how difficult is it to implement?” and is used as a measurement to ensure that final projects fit a happy medium of not too hard and not too simple. Please read through the [technical and feature requirements](https://cs10.org/fa26/projects/project6-project/#technical-requirements). If your project idea relies heavily on the following, we recommend you consider alternate projects:
 - Using any primitive block in Snap! Will not count as a feature
 - A guess-and-check game: considered too easy since it consists primarily of a series of if-then-else statements.
 - Data entry: Projects that rely on data entry get ‘bigger’ by having a bigger database. A fix for this would be having the data component be just one part of a bigger project. 
@@ -85,14 +81,14 @@ If your project idea relies heavily on the following, we recommend you consider 
 
 Don’t be worried if you really like a project idea but think it may be too complex, or not complex enough — that’s the purpose of the project proposal, so you can work with a TA to get your project complexity into the right range! 
 
-When considering what your project is, see if you can figure out a solution or a structure for a solution first! A few gauges for complexity are: coming up with logic to check for four-in-a-row in Connect 4 or recreating Flappy Bird in Snap!
+When considering your project, see if you can figure out a solution or a structure for a solution first! A few gauges for complexity are: coming up with logic to check for four-in-a-row in Connect 4 or recreating Flappy Bird in Snap!
 
 Here are some examples of projects in the "accepted proposal" range
 
 - [The Chrome Dinosaur Game:](https://chromedino.com/)
     - Feature 1: TWO DIFFERENT OBSTACLES 
-        - Randomly generated shrubs and pterodactyls appear on the screen as obstacles.
-        - Obstacles NEED to be traveling at different speeds (otherwise project will not be complex enough)
+        - Randomly generated shrubs and pterodactyls appear on the screen.
+        - Obstacles NEED to be traveling at different speeds
     - Feature 2: The game ends when the dinosaur runs into an object.
 - [Mancala:](https://www.mathplayground.com/mancala.html)
     - Feature 1: When a player chooses a group of marbles, those marbles get distributed around the board, picking up more marbles when the last one falls on a non-empty hole
@@ -109,7 +105,7 @@ Other projects that fit complexity requirements that students have done in the p
 
 ## Proposal Contents 
 
-So now that you’ve got a project idea in mind, it’s time to write about it! We recommend you draft your answers out on a Doc before submitting them into Gradescope.
+So now that you’ve got a project idea, it’s time to write about it! Draft your answers on a Doc before submitting to Gradescope.
 
 - Who are the group members (name and SID)?
 - What language will your project be in? Python or Snap? If you’re doing a graphics-heavy project, we recommend Snap!, as staff will have limited capacity to assist with debugging Python libraries.
@@ -131,7 +127,6 @@ By Friday, November 6th 11:59pm, you and your partner will submit your project p
 
 You will explain your project and a staff member will review and approve/disapprove your project proposal.
 
-
 If your initial project proposal is not approved: 
 
 - It’s okay! This happens to lots of students every semester. If you decide you’d rather pursue a different project idea, please note that you’ll need to write up another project proposal, and have that approved before you can start working. 
@@ -142,8 +137,3 @@ If your initial project proposal is approved:
 - Congrats! You can start working on your project. Note any questions (for resources, clarifications, or suggestions/advice on implementation) that you might have for your project TA/tutor, and bring them up during your proposal review session!
 
 As you begin to code, you may feel the need to make adjustments to your project and features (often because of time constraints or unexpected complexity). This is perfectly okay! You don’t have to run the changes by your project TA/tutor to start implementing them, but we do recommend that you check in with any adjustments to ensure that you are still within complexity guidelines.
-
-
-
-
-
