@@ -14,15 +14,14 @@ submission_files:
 - You are required to attend the final project proposal meetings in person. Failure to do so will result in no points awarded for your approved features and meeting attendance, leading to a 50% deduction in your final project score.
 - **Oral exams will occur in person during RRR Week (12/7-12/11) and are worth half of your overall Project 5 grade**. All project group members must be present and all students must complete the oral exam. If you do not complete the oral exam, you will receive a 0 on this part of the project. Time slots for the oral exams will be announced on Ed soon. Please refer to the [Oral Exams](#oral-exams) section of this spec for more details.
 
-> There are five required components for the project:
->>Approved Project Proposal
->>The project / code itself
->>README / documentation on your project
->>Video of your group interacting with your project
->>Oral Exam
+> There are 5 components of the project:
+1. Approved Project Proposal
+2. The project / code itself
+3. README / documentation on your project
+4. Video of your group interacting with your project
+5. Oral Exam
 
->Project 5 Parties (TBD)
->>TBD
+>Project 5 Party TBD
 
 ## Content
 
@@ -32,25 +31,25 @@ submission_files:
 
 [III. Technical Requirements](#technical-requirements)
 
-[IV. Style Requirements](#style-requirements)
+[IV. Required Features](#required-features)
 
-[V. README Requirements](#readme-requirements)
+[V. Style Requirements](#style-requirements)
 
-[VI. Video Requirements](#video-requirements)
+[VI. README Requirements](#readme-requirements)
 
-[VII. Submission Guidelines](#submission-guidelines)
+[VII. Video Requirements](#video-requirements)
 
-[VIII. Oral Exams](#oral-exams)
+[VIII. Submission Guidelines](#submission-guidelines)
 
-[IX. Rubric & Grading](#rubric--grading)
+[IX. Oral Exams](#oral-exams)
 
-[X: Additional Resources](#appendix-i-additional-resources)
+[X. Rubric & Grading](#rubric--grading)
+
+[XI: Additional Resources](#appendix-i-additional-resources)
 
 
 ## Recommended Timeline
-- The dates listed below are the suggest timeline for completion of each component of the final project.
--  This timeline asumes that you have completed the proposal review
-    - It is recommended that you start working on your project as soon as your proposal is approved. 
+- The dates listed below are the suggest timeline for completion of each component of the final project, assuming you have completed the proposal review
 
 | Group w/ 2 Features | Group w/ 3 Features |
 | :--------: | :-------: |
@@ -63,40 +62,76 @@ submission_files:
 
 ## Introduction
 
-For your final project, you'll be turning in both code and a README. The README, which is a document that describes your project and its features, is meant to be an assignment where you'll write up documentation to practice explaining your work to someone else. This project is a chance for you to implement an idea driven by your own interest!
-
+For your final project, you'll be turning in both code and a README. The README is a document that describes your project and its features. This project is a chance for you to implement an idea driven by your own interest!
 
 ## Technical Requirements
+
+Here is a list of some of the technical requirements you must be able to demonstrate in the implementation of your final project:
+
+- **Non-trivial list**: Your project should include at least one non-trivial list, meaning a list whose function could not be simply replaced with another implementation. This can be a tracker of high scores or part of a game board.
+- **Custom block/function**: Your project should include at least TWO functions that you define yourself. 
+- **Script/local variable**: Your project should include at least one <em>non-global</em> variable. 
+
+## Required Features
+
+On top of the technical requirement, you must have 2-3 required features from the following list. If you want a feature that does not fit within the guidelines below, you will need to discuss it with your TA, but it is unlikely to be approved. If you use two of the same features they must be distinct properties. 
+
+- 2D, Nested lists (representation of the game board, highscores, positions...)
+- Extensive, dynamic visual display
+    - Must include at least: 1 background, 2 sprite costumes, 1 sound, and a help screen or guide to interact with program / instructions
+- Organized Text UI in Python
+    - Must include:
+        - A visual print statement of current state of program
+        - A list of functions the user can (such as help, place move, restart, etc.)
+- Extensive use of OOP in Python (not Snap!)
+    - Most likely, all final projects completed in Snap! will need to use extensive OOP in Snap!, so we are not counting OOP in Snap! as a feature.
+- API calls (calls to other programs or websites) - Don’t worry about doing this one; but it’s an option if you’re interested!
+- Structures keeping track of important data (ex: Dictionaries, Lists, Trees, Sets)
+- Complex Algorithm
+    - Examples:
+        - Merge sort
+        - Determining whether a game is over
+        - Determining whether a move is valid
+        - Determining and displaying the top three high scores
+- Extensive use of libraries (in either Python or Snap!)
+    - Must use at least three different functions for the library imported
+    - Or three different libraries imported, and one function each is used. 
+- An AI that runs the program/plays game and tries to optimize for winning moves
+- Features that DON’T COUNT:
+    - Randomization (okay to have randomization but doesn’t count as a feature)
+    - Helper functions
+    - Inputs/Outputs and Response/Prompt (i.e games that simply ask a user for a response/prompt to input)
+    - Broadcasting messages
+    - Pointing and clicking
+<!-- ## Technical Requirements
 
 There are certain technical and style requirements that we want you to be able to demonstrate in the implementation of your final project, regardless of what kind of project you're doing, which are listed below. For some of the rubric items, you can also mix and match (see rubric for more details). Here is a list of some of the technical requirements you must include:
 
 - Non-trivial list: Your project should include at least one non-trivial list, meaning a list whose function could not be simply replaced with another implementation. Often this can be a tracker of high scores, or part of a game board.
 - Custom block/function: Your project should include at least TWO functions that you define yourself. There is no restriction on what type of function this should be, whatever suits your project is what you should do!
-- Script/local variable: Your project should include at least one non-global variable. 
+- Script/local variable: Your project should include at least one non-global variable.  -->
 
 
 ## Style Requirements
 
-It’s best to keep up good style (commenting, specific variable names, non-repetitive code) as you work your way through implementing a project, but that doesn’t always happen. This is a list of what style markers you should aim for as you’re coding, but we also recommend that you do a final sweep for these before you submit!
-- **Commenting** -- At minimum, we’re looking for clear and coherent comments for the following purposes:
-    - Describing how to start/run the program: Often, this is the green flag for Snap!, and typing a command into the terminal for Python. Make sure to specify what to do, even if it seems obvious! The tutors are not as familiar with your project as you are. Make sure this is in both your code as a comment and in your README file. 
-    - For each function or block you’ve written: An explanation of its inputs + its outputs or what data it changes if it’s a command block or does not return anything.
-    - Here’s a [guide](https://docs.google.com/document/u/1/d/e/2PACX-1vSrtiqOPprVJ327uvCj9aRGXJYGP9hjOMJyz_vSxK237PNnTCYumvE24QYcbmA_Xy8voUPOqHzXtZOO/pub?embedded=true) to commenting for reference!
+It’s always best to keep up good style (commenting, specific variable names, non-repetitive code). This is a list of what style markers you should aim for:
+- **Commenting** -- We require clear and coherent comments for the following purposes:
+    - Describing how to start/run the program: Often, this is the green flag for Snap!, and typing a command into the terminal for Python. Make sure to specify what to do, even if it seems obvious! Make sure this is in both your code as a comment and in your README file. 
+    - For each function or block you’ve written: An explanation of its inputs + outputs or what data it changes if applicable.
+    - Here’s a [guide](https://docs.google.com/document/u/1/d/e/2PACX-1vSrtiqOPprVJ327uvCj9aRGXJYGP9hjOMJyz_vSxK237PNnTCYumvE24QYcbmA_Xy8voUPOqHzXtZOO/pub?embedded=true) for reference!
 - **Variables & functions**
     - Variable scope: Make sure you’re only using global variables when absolutely necessary (i.e., when they need to be referenced at multiple points in the program, or by multiple functions). Try to use script/local variables where possible. 
     - Naming convention: Keep function and variable names clear, by specifying what they do or represent. A good rule of thumb is to give things names in a way that would still make sense to you if you needed to explain this project to someone else in a year. For example, a variable could be called “highScore” if it keeps track of the highest score so far. 
-- **Abstraction & generalization** — These are key computing ideas for a reason! Do your best to apply these principles as you code. Often, this will look like one of the following:
+- **Abstraction & generalization** — These are key computing ideas for a reason! Do your best to apply these principles as you code. This will look like:
     - Generalizing code: If you can use a for-loop or a HOF or a helper function to prevent copy-pasting similar code, do it!
-    - Levels of abstraction: Do your best to break down functions or features into smaller, concise pieces, so that each function can be focused on achieving a specific task or subtask. 
+    - Abstraction: Break down functions/features into smaller, concise pieces. Each function/feature should focus on achieving a specific task. 
         - If you find yourself with repetitive code, consider how you can abstract the part that is repeated. 
 
 
 
 ## README Requirements
 
-Your README is meant to serve as a guide to your project, and will be used by the readers as a reference for grading to ensure that you’ve achieved all of the requirements. Instructions for the general sections of the README are included in the template. An additional optional section, the Bug Writeup, is explained in detail below.
-
-The template (including instructions) for the final project README can be found [here](https://docs.google.com/document/d/1GiZ6tE-mnezyiry7p_gmEswNRfx7ntNjT3Z-wcfZToA/edit?tab=t.0). Please make a copy of the Google Doc to work on, and make sure to submit it as a **PDF**. 
+Your README is a project guide and will be used by staff as a reference for grading. The template and instructions can be found [here](https://docs.google.com/document/d/1GiZ6tE-mnezyiry7p_gmEswNRfx7ntNjT3Z-wcfZToA/edit?tab=t.0). Please make a copy of the Google Doc to work on, and make sure to submit it as a **PDF**. 
 
 **[Optional] Bug Writeup**: Sometimes, despite your best efforts, the project deadline rolls around and you’ve still got a bug big enough that one or more of your features isn’t working correctly. This happens in industry as well — think about app updates you’ve downloaded! 
 
@@ -106,9 +141,9 @@ Here’s an [example](https://docs.google.com/document/d/1A6Tzm0UZte8gMnnmE2PV1J
 
 
 ## Video Requirements
-Your video is meant to be a supplement to your README, and will be used to make sure that your submission is graded fairly. Please demonstrate exactly how to run your project (especially if you are using Python), the controls, and each of the features. If you are completing a Bug write-up, please demonstrate the bug(s) that you are explaining in your README in order to receive points back. Your video must be under 3 minutes in order to receive full credit.
+Your video is meant to be a supplement to your README. Please demonstrate exactly how to run your project, the controls, and each of the features. If you are completing a Bug write-up, please demonstrate the bug(s) in order to receive points back. Your video must be under 3 minutes for full credit.
 
-You may either submit your video via Google Drive or YouTube. If you are submitting through YouTube please create an unlisted video. The Teaching Assistants will not be grading the projects. If you are submitting through Google Drive please make sure to share your video with the Tutors from the course website. 
+You may either submit your video via Google Drive or YouTube (unlisted video). If you are submitting through Google Drive please make sure to share your video with the Tutors from the course website. 
 
 *Additionally, include the link to your shared video in your README. If we do not have access to your video you may not get credit for this portion of the assignment.* 
 
@@ -121,32 +156,31 @@ Final Project Demo Examples:
 ## Submission Guidelines
 
 You should submit two things to the Gradescope final project assignment:
-- **README**: This should be written on a copy of the template above with an embedded link to your video, and be submitted as a PDF. We will not accept READMEs submitted as .docx files or Drive links, etc.
-- **Project code**: This will be either a .xml file or a .zip folder. Your instructions will vary depending on what language your project is in.
+1. **README**: Using the template above and an embedded link to your video. Submitted as a PDF, we will not accept .docx files or Drive links, etc.
+2. **Project code**:
 
 *Snap! projects*: 
-- Download the .xml file from Snap!, using File > Export Project.
-- Rename the file to FirstPartner_SecondPartner_FinalProject.xml and upload directly to Gradescope. (Adjust accordingly if you are working solo or in a group of three.)
-- Upload the README PDF and the .xml file to the Final Project assignment on Gradescope.
+- Download the .xml file using File > Export Project.
+- Rename the file to FirstPartner_SecondPartner_FinalProject.xml and upload directly to Gradescope. (Adjust accordingly if you are solo or in a group of 3)
 
 *Python projects*:
-- Put the .py file(s) containing your project code along with any other media (images, sounds, etc.) that are used in the project into a ZIP folder.
+- Put the .py file(s) containing your project code along with other media (images, sounds, etc.) into a ZIP folder.
 - Rename the ZIP folder FirstPartner_SecondPartner_FinalProject.zip and upload the ZIP file to Gradescope. 
-- Upload the README PDF and the .zip file to the Final Project assignment on Gradescope.  (Feel free to Google "How to make a .zip file" / ask for help on Ed.)
+- Feel free to Google "How to make a .zip file" / ask for help on Ed.
 
 **If you run into any issues submitting, go to a lab or office hours or make a private post on Ed**
 
 ## Oral Exams
-Staff will be conducting **15-20 minute in-person oral exams about your project during RRR Week (12/7-12/11)** for each project group. These exams are an opportunity for you to demonstrate your understanding of your project and the code you implemented.
+Staff will be conducting **15-20 minute in-person oral exams during RRR Week (12/7-12/11)** for each project group. These exams are an opportunity for you to demonstrate your understanding of your project code.
 
-**All group members are required to attend the oral exam on time (NOT Berkeley Time)**. We will announce sign-up details and available time slots on Ed. During the exam, you may have your code and project open for reference, but you may not bring any additional notes. 
+**All group members are required to attend the oral exam on time (NOT Berkeley Time)**. We will announce sign-up details and available time slots on Ed. You may have your code open for reference, but you may not bring any additional notes. 
 
-The oral exam is worth **30 points (half of your Project 5 grade)**, so please make sure that all group members are familiar with the entire project, even if you divided up the implementation work. As a reminder, all submitted code and work must be completed by your group members alone and must follow the course’s [Generative AI and academic honesty policies](https://cs10.org/fa26/syllabus/#academic-integrity). Failure to follow these policies will result in point deductions and serious consequences, even if the violation involves a portion of the project completed by another group member. 
+The oral exam is worth **30 points (half of your Project 5 grade)**. Make sure that all group members are familiar with the entire project, even if you divided up the work. All code must be completed by your group members alone and must follow the course’s [Generative AI and academic honesty policies](https://cs10.org/fa26/syllabus/#academic-integrity). Failure to follow these policies will result in serious consequences, even if the violation involves a portion of the project completed by another group member. 
 
  
 ## Rubric & Grading
 
-Project 5 is worth 60 points. Your project will be graded for style and technical correctness according to the following rubric. After you get your grades back, you can submit regrade requests via Gradescope (if you feel we missed something in your original file submission).  
+Project 5 is worth 60 points, graded for style and technical correctness. After you get your grades, you may submit regrade requests via Gradescope.
 
 Please don't forget to add your partner(s) to the submissions! [How to add a partner to Gradescope.](/fa25/assets/images/p6/p6-1.png)
 
@@ -204,7 +238,3 @@ Please don't forget to add your partner(s) to the submissions! [How to add a par
 - [Bug Writeup](https://docs.google.com/document/d/1A6Tzm0UZte8gMnnmE2PV1J9xO__z6SaLkDVA6j3-I5s/edit?usp=sharing)
 - [Project Proposal Spec](https://cs10.org/fa25/projects/project6-proposals/) 
 - [Commenting Guide](https://docs.google.com/document/u/1/d/e/2PACX-1vSrtiqOPprVJ327uvCj9aRGXJYGP9hjOMJyz_vSxK237PNnTCYumvE24QYcbmA_Xy8voUPOqHzXtZOO/pub?embedded=true)
-
-
-
-

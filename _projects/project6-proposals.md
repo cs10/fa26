@@ -21,15 +21,15 @@ submission_files:
 
 [II. Introduction](#introduction)
 
-[III. Required Features](#required-features)
+<!-- [III. Required Features](#required-features) -->
 
-[IV. Proposal Contents](#proposal-contents)
+[III. Proposal Contents](#proposal-contents)
 
-[V. Complexity Guidelines](#complexity-guidelines)
+[IV. Complexity Guidelines](#complexity-guidelines)
 
-[VI. Submission Guidelines](#submission-guidelines)
+[V. Submission Guidelines](#submission-guidelines)
 
-[VII. Proposal Review: What to Expect](#proposal-review-what-to-expect)
+[VI. Proposal Review: What to Expect](#proposal-review-what-to-expect)
 
 ## Important logistics
 
@@ -58,54 +58,22 @@ submission_files:
 ## Introduction
 
 You will be building a project in Snap! or Python, completely from scratch (how cool is that!) First, you’ll need to submit a project proposal that will be reviewed by a staff member to ensure that your project won’t be too easy or complex. 
-This proposal is meant to be just an ideas-focused starting point — the spec for the technical requirements of the final project can be found [here](https://cs10.org/fa26/projects/project6-project/)
+This proposal is meant to be just an ideas-focused starting point — the spec for the technical requirements and features of the final project can be found [here](https://cs10.org/fa26/projects/project6-project/)
 
 You will receive a 0 for Project 5 if you do not submit your proposal and meet with a staff member.
 
-## Technical Requirements
+<!-- ## Technical Requirements
 
 Here is a list of some of the technical requirements you must be able to demonstrate in the implementation of your final project:
 
 - Non-trivial list: Your project should include at least one non-trivial list, meaning a list whose function could not be simply replaced with another implementation. This can be a tracker of high scores or part of a game board.
 - Custom block/function: Your project should include at least TWO functions that you define yourself. 
-- Script/local variable: Your project should include at least one <em>non-global</em> variable. 
-
-## Required Features
-
-On top of the technical requirement, yo umust have 2-3 required features from the following list. If you want a feature that does not fit within the guidelines below, you will need to discuss it with your TA, but it is unlikely to be approved. If you use two of the same features they must be distinct properties. 
-
-- 2D, Nested lists (representation of the game board, highscores, positions...)
-- Extensive, dynamic visual display
-    - Must include at least: 1 background, 2 sprite costumes, 1 sound, and a help screen or guide to interact with program / instructions
-- Organized Text UI in Python
-    - Must include:
-        - A visual print statement of current state of program
-        - A list of functions the user can (such as help, place move, restart, etc.)
-- Extensive use of OOP in Python (not Snap!)
-    - Most likely, all final projects completed in Snap! will need to use extensive OOP in Snap!, so we are not counting OOP in Snap! as a feature.
-- API calls (calls to other programs or websites) - Don’t worry about doing this one; but it’s an option if you’re interested!
-- Structures keeping track of important data (ex: Dictionaries, Lists, Trees, Sets)
-- Complex Algorithm
-    - Examples:
-        - Merge sort
-        - Determining whether a game is over
-        - Determining whether a move is valid
-        - Determining and displaying the top three high scores
-- Extensive use of libraries (in either Python or Snap!)
-    - Must use at least three different functions for the library imported
-    - Or three different libraries imported, and one function each is used. 
-- An AI that runs the program/plays game and tries to optimize for winning moves
-- Features that DON’T COUNT:
-    - Randomization (okay to have randomization but doesn’t count as a feature)
-    - Helper functions
-    - Inputs/Outputs and Response/Prompt (i.e games that simply ask a user for a response/prompt to input)
-    - Broadcasting messages
-    - Pointing and clicking
+- Script/local variable: Your project should include at least one <em>non-global</em> variable.  -->
 
 
 ## Complexity Guidelines
 
-Complexity means “how difficult is it to implement?” and is used as a measurement to ensure that final projects fit a happy medium of not too hard and not too simple.
+Complexity means “how difficult is it to implement?” and is used as a measurement to ensure that final projects fit a happy medium of not too hard and not too simple. Please read through the [technical and feature requirements](https://cs10.org/fa26/projects/project6-project/#technical-requirements)  first.
 If your project idea relies heavily on the following, we recommend you consider alternate projects:
 - Using any primitive block in Snap! Will not count as a feature
 - A guess-and-check game: considered too easy since it consists primarily of a series of if-then-else statements.
@@ -145,7 +113,7 @@ So now that you’ve got a project idea in mind, it’s time to write about it! 
 
 - Who are the group members (name and SID)?
 - What language will your project be in? Python or Snap? If you’re doing a graphics-heavy project, we recommend Snap!, as staff will have limited capacity to assist with debugging Python libraries.
-- What is your vision for the project? Describe the specific project and the major 2-3 features (listed above) you’d like to accomplish. Groups of 2 should list 2 features, groups of 3 should list 3. Please go into detail, the clearer you are, the better your TA/tutor will be able to help you adjust the project if necessary.
+- What is your vision for the project? Describe the specific project and the major [2 - 3 features](https://cs10.org/fa26/projects/project6-project/#technical-requirements) you’d like to accomplish. Groups of 2 should list 2 features, groups of 3 should list 3. Please go into detail, the clearer you are, the better your TA/tutor will be able to help you adjust the project if necessary.
 - How will someone interact with your project? Describe the controls that will be used. 
 - What are the technical elements behind your features? How will you make the 2-3 features happen? What you write doesn’t have to be exactly what you end up doing, but it should convey how you plan on implementing the project in terms of blocks/functions or computing ideas.
 
