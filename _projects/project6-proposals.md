@@ -7,7 +7,7 @@ submission_files:
     - N/A
 ---
 
-*Version 1.1. Last Updated: 2026-10-29.*
+*Version 2.0. Last Updated: 2026-10-29.*
 
 *We highly recommend reading through this spec in its entirety before you begin.*
 
@@ -48,7 +48,7 @@ submission_files:
 **Projetc Proposal Meeting Details (Week 12: Nov 9 -13)**
 - Meetings will run during Week 12 (Monday November 9th through Friday November 13th). No meetings on Wednesday November 11 holiday
 - You may attend the either in person (location TBD)or via Zoom.
--  The Project Proposal Meeting is worth 10 points of your final grade.
+-  The Project Proposal Meeting is worth 5 points of your final grade.
 - Only one member of your group needs to attend. Late arrivals receive a '0' score and must sign up for a new time slot.
 
 
