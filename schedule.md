@@ -695,6 +695,9 @@
       <td>
         Lec 18. OOP in Snap!<br/>
         (Video) <a href="https://drive.google.com/file/d/1tIn-P8b1ZADGqX7yZ-VzrslA-dnOzlgF/view?usp=drive_link">(Slides)</a>
+        <br/> <a href="https://snap.berkeley.edu/snap/snap.html#present:Username=dan%20garcia&ProjectName=Fall%202026%20sprite%20specific%20variables%20and%20blocks">Sprite-specific variables and blocks, and Sprite communication</a>
+      <br/><a href="https://snap.berkeley.edu/snap/snap.html#present:Username=dan%20garcia&ProjectName=Fall%202026%20Sprite%20Linking">Sprite Linking</a>
+      <br/><a href="https://snap.berkeley.edu/snap/snap.html#present:Username=dan%20garcia&ProjectName=Fall%202026%20Clones">Clones</a></td>
       </td>
       <td rowspan="2"> <a href="https://cs10.org/fa26/labs/lab14/">Lab 14. OOP in Snap!</a> <br/> </td>
       <td></td>
