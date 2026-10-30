@@ -7,12 +7,9 @@ submission_files:
     - N/A
 ---
 
-*Version 2.0. Last Updated: 2026-10-29.*
+*Version 2.0. Last Updated: 2026-10-30.*
 
 *We highly recommend reading through this spec in its entirety before you begin.*
-
-
-
 
 
 ## Content
@@ -49,8 +46,7 @@ This proposal is meant to be just an ideas-focused starting point — the spec f
 - You can revise and resubmit until your meeting time. 
 
 **Meeting Sign Up Due Friday 11/6**
-- Book a 10-minute slot on Google Calendar by Friday, 11/6 at 11:59 PM PST (released soon)
-<!-- - To schedule a booking, click here for the booking page: [Proposal Meeting Sign-ups](https://calendar.app.google/wB8NA3KBW1jGhodq9). -->
+- Book a 10-minute slot [here](https://calendar.app.google/xAcb7tS14C9x6ZWM7) by Friday, 11/6 at 11:59 PM PST. In person meetings are at the OH / Lab location of that time (see Calendar)
 - If all slots are full or you cannot attend, make a private Ed post by 11/6 to avoid a 0 score.
 
 **Project Proposal Meeting Details (Week 12: Nov 9 -13)**

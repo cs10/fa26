@@ -85,9 +85,9 @@ nav_order: 6
       <td>Friday, 11/20</td>
     </tr>
     <tr>
-      <!-- <td>Project 5: Proposals</td> -->
+      <td>Project 5: Proposals</td>
       <td><a href="/fa26/projects/project6-proposals">Project 5 Proposal Intructions</a></td>
-      <td>Project 5 Proposal Intructions</td>
+      <!-- <td>Project 5 Proposal Intructions</td> -->
       <td><a href="https://docs.google.com/document/d/1IBLwmPiIa9qJ3p1Jvg6o23CnJNGfK0Jr0xQbZg9nMNM/edit?usp=sharing">Example Projects Proposals</a></td>
       <!-- <td>Example Projects Proposals</td> -->
       <td style="max-width:120px;">Friday, 10/30</td>
@@ -97,8 +97,8 @@ nav_order: 6
       <td>Project 5: Proposal Meetings</td>
       <td><a href="/fa26/projects/project6-proposals">Project 5 Proposal Intructions</a></td>
       <!-- <td>Project 5 Proposal Intructions</td> -->
-      <!-- <td><a href="https://calendar.app.google/FJ27SLDzbZMxAg3m9">Proposal Meeting Sign-up Link</a></td> -->
-      <td>Proposal Meeting Sign-up Link</td>
+      <td><a href="https://calendar.app.google/xAcb7tS14C9x6ZWM7">Proposal Meeting Sign-up Link</a></td>
+      <!-- <td>Proposal Meeting Sign-up Link</td> -->
       <td style="max-width:120px;">Mon, Tue, Thu, Fri, 11/9–11/13 (no meetings Wed 11/11, holiday)</td>
       <td>Friday, 11/13</td>
     </tr>
