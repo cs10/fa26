@@ -1,22 +1,25 @@
 ---
 title: Project 5
 description: Final Project - The Project 
-due: "11:59 PM PST on Monday, 5/4"
-gradescope_assignment_id: 5617938
+due: "11:59 PM PST on Monday, 12/7"
+gradescope_assignment_id: 
 submission_files:
     - N/A
 ---
 
-*Version 1.0. Last Updated: 2025-11-03.*
+*Version 2.0. Last Updated: 2026-10-30.*
 
 *We highly recommend reading through this spec in its entirety before you begin.*
 
 - You are required to attend the final project proposal meetings in person. Failure to do so will result in no points awarded for your approved features and meeting attendance, leading to a 50% deduction in your final project score.
+- **Oral exams will occur in person during RRR Week (12/7-12/11) and are worth half of your overall Project 5 grade**. All project group members must be present and all students must complete the oral exam. If you do not complete the oral exam, you will receive a 0 on this part of the project. Time slots for the oral exams will be announced on Ed soon. Please refer to the [Oral Exams](#oral-exams) section of this spec for more details.
 
-> There are three required components for the project:
+> There are five required components for the project:
+>>Approved Project Proposal
 >>The project / code itself
 >>README / documentation on your project
 >>Video of your group interacting with your project
+>>Oral Exam
 
 >Project 5 Parties (TBD)
 >>TBD
@@ -37,9 +40,11 @@ submission_files:
 
 [VII. Submission Guidelines](#submission-guidelines)
 
-[VIII. Rubric & Grading](#rubric--grading)
+[VIII. Oral Exams](#oral-exams)
 
-[IX: Additional Resources](#appendix-i-additional-resources)
+[IX. Rubric & Grading](#rubric--grading)
+
+[X: Additional Resources](#appendix-i-additional-resources)
 
 
 ## Recommended Timeline
@@ -49,11 +54,11 @@ submission_files:
 
 | Group w/ 2 Features | Group w/ 3 Features |
 | :--------: | :-------: |
-| Feature 1: 4/20  |Feature 1: 4/17   |
-| Feature 2: 4/27  | Feature 2: 4/23  |
-| Full Project Submission Ready: 4/30  | Feature 3: 4/29  |
-| README and Submission: By 5/4  | Full Project Submission Ready: 5/1   |
-|   | README and Submission: By 5/4   |
+| Feature 1: 11/20  |Feature 1: 11/17   |
+| Feature 2: 11/30  | Feature 2: 11/26  |
+| Full Project Submission Ready: 12/3  | Feature 3: 12/2  |
+| README and Submission: By 12/7  | Full Project Submission Ready: 12/4   |
+|   | README and Submission: By 12/7   |
 
 
 ## Introduction
@@ -130,52 +135,67 @@ You should submit two things to the Gradescope final project assignment:
 - Upload the README PDF and the .zip file to the Final Project assignment on Gradescope.  (Feel free to Google "How to make a .zip file" / ask for help on Ed.)
 
 **If you run into any issues submitting, go to a lab or office hours or make a private post on Ed**
+
+## Oral Exams
+Staff will be conducting **15-20 minute in-person oral exams about your project during RRR Week (12/7-12/11)** for each project group. These exams are an opportunity for you to demonstrate your understanding of your project and the code you implemented.
+
+**All group members are required to attend the oral exam on time (NOT Berkeley Time)**. We will announce sign-up details and available time slots on Ed. During the exam, you may have your code and project open for reference, but you may not bring any additional notes. 
+
+The oral exam is worth **30 points (half of your Project 5 grade)**, so please make sure that all group members are familiar with the entire project, even if you divided up the implementation work. As a reminder, all submitted code and work must be completed by your group members alone and must follow the course’s [Generative AI and academic honesty policies](https://cs10.org/fa26/syllabus/#academic-integrity). Failure to follow these policies will result in point deductions and serious consequences, even if the violation involves a portion of the project completed by another group member. 
+
  
 ## Rubric & Grading
 
-Your project will be graded for style and technical correctness according to the following rubric. After you get your grades back, you can submit regrade requests via Gradescope (if you feel we missed something in your original file submission).  
+Project 5 is worth 60 points. Your project will be graded for style and technical correctness according to the following rubric. After you get your grades back, you can submit regrade requests via Gradescope (if you feel we missed something in your original file submission).  
 
 Please don't forget to add your partner(s) to the submissions! [How to add a partner to Gradescope.](/fa25/assets/images/p6/p6-1.png)
 
-| README | (10 pts) |
+| Project Proposal | (5 pts) |
 | -------- | ------- |
-| +2 | README contains features description |
-| +2  | README contains complexity justification |
-| +2  | README contains variable justification |
-| +2  | README contains blocks/functions table |
-| +2  | README or code comments describe program controls  |
+| +5 | Project Proposal is approved |
 
-| Features  | (15 pts) |
+| Oral Exam | (30 pts) |
 | -------- | ------- |
-| +7.5 / feature | Groups of 1-2, who implemented two (2) features |
-| -7.5 / feature | If the feature implemented was not approved by TA (for groups implementing 2 features). |
-| +5 / feature  | Groups of 2-3, who implemented three (3) features |
-| -5 / feature| If the feature implemented was not approved by TA (for groups implementing 3 features). |
-| -3 / bug | For each major bug (project-breaking/crashing)|
-| -1 / bug | For each minor bug (errors only on specific input or subpart of feature)|
-| +2 / bug | *Optional* Bug writeup for a major bug (see README)|
-| +1 / bug | *Optional* Bug writeup for a minor bug (see README)|
 
-| Technical Requirements | (15 pts) |
+| README | (5 pts) |
 | -------- | ------- |
-| +4 | Req 1: Custom function |
-| +4  | Req 2: Custom function |
-| +3.5  | Req 3: Non-trivial list |
-| +3.5  | Req 4: 1 or more script or local variable(s) |
+| +1 | README contains features description |
+| +1  | README contains complexity justification |
+| +1  | README contains variable justification |
+| +1  | README contains blocks/functions table |
+| +1  | README or code comments describe program controls  |
 
-| Style Requirements | (5 pts) |
+| Features  | (7.5 pts) |
 | -------- | ------- |
-| +2 | Useful and coherent comments |
-| -1  | Comments are disorganized / incoherent but present |
-| +2  | No repetitive code / good use of helper blocks or functions |
-| +1  | Clear and useful variable and block names |
+| +3.25 / feature | Groups of 1-2, who implemented two (2) features |
+| -3.25 / feature | If the feature implemented was not approved by TA (for groups implementing 2 features). |
+| +2.5 / feature  | Groups of 2-3, who implemented three (3) features |
+| -2.5 / feature| If the feature implemented was not approved by TA (for groups implementing 3 features). |
+| -1.5 / bug | For each major bug (project-breaking/crashing)|
+| -0.5 / bug | For each minor bug (errors only on specific input or subpart of feature)|
+| +1 / bug | *Optional* Bug writeup for a major bug (see README)|
+| +0.5 / bug | *Optional* Bug writeup for a minor bug (see README)|
 
-| Project Demo Video | (5 pts) |
+| Technical Requirements | (7.5 pts) |
 | -------- | ------- |
-| +2 | Video contains how to run the project |
-| +1.5  | Video contains how to use program controls |
-| +1.5  | Video contains demonstration for each feature  |
-| -1  | Video is longer than 3 minutes |
+| +2 | Req 1: Custom function |
+| +2  | Req 2: Custom function |
+| +1.75  | Req 3: Non-trivial list |
+| +1.75  | Req 4: 1 or more script or local variable(s) |
+
+| Style Requirements | (2.5 pts) |
+| -------- | ------- |
+| +1 | Useful and coherent comments |
+| -0.5  | Comments are disorganized / incoherent but present |
+| +1  | No repetitive code / good use of helper blocks or functions |
+| +0.5  | Clear and useful variable and block names |
+
+| Project Demo Video | (2.5 pts) |
+| -------- | ------- |
+| +1 | Video contains how to run the project |
+| +0.75  | Video contains how to use program controls |
+| +0.75  | Video contains demonstration for each feature  |
+| -0.5  | Video is longer than 3 minutes |
 
 
 ## Appendix I: Additional Resources
