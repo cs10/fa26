@@ -110,6 +110,14 @@ nav_order: 6
       <td>Friday, 10/30<br/>(Only start once your project has been approved)</td>
       <td>Monday, 12/7</td>
     </tr>
+        <tr>
+      <td>Project 5: Oral Exams</td>
+      <!-- <td><a href="/fa26/projects/project6-project">Project 5 Intructions</a></td> -->
+      <td>Oral Exam Sign-Ups</td>
+      <td style="max-width:120px;">-</td>
+      <td>RRR Week 12/7–12/11</td>
+      <td>Friday, 12/11</td>
+    </tr>
   </tbody>
 </table>
 
