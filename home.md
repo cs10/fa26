@@ -29,6 +29,7 @@ UC Berkeley, Fall 2026
   - If you are not sure if your artifact is an acceptable medium, please reach out to a TA or make an Ed post
   - Sign-up (<a href="https://docs.google.com/spreadsheets/d/1_rbvDbv2MwlEOg68M62D5we7KEgPL8Md_igqN2zgBCE/edit?usp=sharing">link</a>) for a presentation time-slot by **11/13**
 - <a href="https://cs10.org/fa26/projects/project6-project">**Project 5**</a> has been released! Partners are required for this project.
+  - If you would like to be paired up with a partner by staff for Project 5, please fill out <a href="https://docs.google.com/forms/d/17tXqu0MI3pwGW42nh095Bw5sSSVmOjMAZC9eNBUckes/edit">this form</a>.
   - Sign up (<a href="https://calendar.app.google/xAcb7tS14C9x6ZWM7">link</a>) for a <a href="https://cs10.org/fa26/projects/project6-proposals">Project 5 Proposal</a> by **11/6**. There will be no extensions for the proposal.
   - Project 5 Proposals will be occurring throughout next week.
   - You may not begin your project until your proposal is approved!
