@@ -756,7 +756,7 @@ Snap! Demos:
         Lec 19. Python I - Intro<br/>
         (Video) <a href="https://drive.google.com/file/d/1k4g6eWTP0WoWxxgpx9fsBooxRhTpSoMM/view?usp=drive_link">(Slides)</a>
       </td>
-      <td rowspan="2"> Lab 15. Welcome to Python <br/> </td>
+      <td rowspan="2"> <a href="https://cs10.org/fa26/labs/lab15/">Lab 15. Welcome to Python</a> <br/> </td>
       <td></td>
       <td></td>
     </tr>
