@@ -21,10 +21,15 @@ UC Berkeley, Fall 2026
 
 </div>
 
-## Announcements:  Friday, October 30
-- Midterm 2 will be released today, 10/30, at 5 PM and will close on Sunday, 11/1, at 11:59 PM
-- Project 4: Artifact will be due on 11/13
-- Project 5 will be released today!
+## Announcements:  Monday, November 2
+- Congratulations on finishing Midterm 2! Scores will be released soon.
+- Friday's Talk will go over Midterm 2 Solutions and will **not** be recorded.
+- **Project 4: Artifact** is due **11/13**.
+  - If you are not sure if your artifact is an acceptable medium, please reach out to a TA or make an Ed post
+- <a href="https://cs10.org/fa26/projects/project6-project">**Project 5**</a> has been released! Partners are required for this project.
+  - Sign up for a <a href="https://cs10.org/fa26/projects/project6-proposals">Project 5 Proposal</a> <a href="https://calendar.app.google/xAcb7tS14C9x6ZWM7">here</a> by **11/6**. There will be no extensions for the proposal.
+  - Project 5 Proposals will be occurring throughout next week.
+  - You may not begin your project until your proposal is approved!
   
 **Instructor:** <a href="https://people.eecs.berkeley.edu/~ddgarcia/">Teaching Professor Dan Garcia</a>  
 **Instructor’s OH:** Monday @ 2-3 PM in Gateway B1040 Bear  
