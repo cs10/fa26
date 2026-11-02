@@ -25,6 +25,7 @@ UC Berkeley, Fall 2026
 - Congratulations on finishing Midterm 2! Scores will be released soon.
 - Friday's Talk will go over Midterm 2 Solutions and will **not** be recorded.
 - **Midterm 3** will be released this Friday, 11/6, at 5 P.M. and will remain open until Sunday, 11/8, at 11:59 P.M.
+- If you did not get your **Lab 14: OOP in Snap!** checked off, please come to lab or OH to get it graded.
 - **Project 4: Artifact** is due **11/13**.
   - If you are not sure if your artifact is an acceptable medium, please reach out to a TA or make an Ed post
   - Sign-up (<a href="https://docs.google.com/spreadsheets/d/1_rbvDbv2MwlEOg68M62D5we7KEgPL8Md_igqN2zgBCE/edit?usp=sharing">link</a>) for a presentation time-slot by **11/13**
