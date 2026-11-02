@@ -27,7 +27,7 @@ UC Berkeley, Fall 2026
 - **Project 4: Artifact** is due **11/13**.
   - If you are not sure if your artifact is an acceptable medium, please reach out to a TA or make an Ed post
 - <a href="https://cs10.org/fa26/projects/project6-project">**Project 5**</a> has been released! Partners are required for this project.
-  - Sign up for a <a href="https://cs10.org/fa26/projects/project6-proposals">Project 5 Proposal</a> <a href="https://calendar.app.google/xAcb7tS14C9x6ZWM7">here</a> by **11/6**. There will be no extensions for the proposal.
+  - Sign up (<a href="<a href="https://calendar.app.google/xAcb7tS14C9x6ZWM7">">link</a>) for a <a href="https://cs10.org/fa26/projects/project6-proposals">Project 5 Proposal</a> by **11/6**. There will be no extensions for the proposal.
   - Project 5 Proposals will be occurring throughout next week.
   - You may not begin your project until your proposal is approved!
   
