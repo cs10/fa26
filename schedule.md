@@ -827,7 +827,7 @@ Snap! Demos:
         Lec 21. Programming Paradigms<br/>
         (Video) <a href="https://drive.google.com/file/d/1YvQDjtZSyw2tiN8uBqwxTgbZ3MIGRC_H/view?usp=drive_link">(Slides)</a>
       </td>
-      <td rowspan="2"> Lab 17. Data Structures in Python <br/> </td>
+      <td rowspan="2"> Lab 17. Data Structures and Text Processing in Python <br/> </td>
       <td></td>
       <td><b>Final Project Meetings</b></td>
     </tr>
@@ -844,7 +844,7 @@ Snap! Demos:
     <tr>
       <th>Thu 11/12</th>
       <td></td>
-      <td> Lab 18. Text Processing in Python <br/> </td>
+      <td> Optional Project Party / OH <br/> </td>
       <td></td>
       <td><b>Final Project Meetings</b></td>
     </tr>
