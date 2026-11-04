@@ -11,7 +11,7 @@ submission_files:
 
 *We highly recommend reading through this spec in its entirety before you begin.*
 
-- You are required to attend the final project proposal meetings in person. Failure to do so will result in no points awarded for your approved features and meeting attendance, leading to a 50% deduction in your final project score.
+- You are required to attend the final project proposal meetings, either in person or via Google Meet. Missing your proposal meeting will result in losing 30 points, which is 50% of your Project 5 grade.
 - **Oral exams will occur in person during RRR Week (12/7-12/11) and are worth half of your overall Project 5 grade**. All project group members must be present. Time slots for the oral exams will be announced on Ed soon. Please refer to the [Oral Exams](#oral-exams) for more details.
 
 > There are 5 components of the project:
@@ -171,7 +171,7 @@ This is worth **30 points (half of your Project 5 grade)**. Make sure that all g
 Project 5 is worth 60 points, graded for style and technical correctness. 
 <!-- After you get your grades, you may submit regrade requests via Gradescope. -->
 
-Please don't forget to add your partner(s) to the submissions! [How to add a partner to Gradescope.](/fa25/assets/images/p6/p6-1.png)
+Please don't forget to add your partner(s) to the submissions! [How to add a partner to Gradescope.](/fa26/assets/images/p6/p6-1.png)
 
 | Project Proposal | (5 pts) |
 | -------- | ------- |
@@ -190,10 +190,10 @@ Please don't forget to add your partner(s) to the submissions! [How to add a par
 
 | Features  | (7.5 pts) |
 | -------- | ------- |
-| +3.25 / feature | Groups of 1-2, who implemented two (2) features |
-| -3.25 / feature | If the feature implemented was not approved by TA (for groups implementing 2 features). |
-| +2.5 / feature  | Groups of 2-3, who implemented three (3) features |
-| -2.5 / feature| If the feature implemented was not approved by TA (for groups implementing 3 features). |
+| +3.75 / feature | Projects that implemented two (2) features |
+| -3.75 / feature | If the feature implemented was not approved by TA (for projects implementing 2 features). |
+| +2.5 / feature  | Projects that implemented three (3) features |
+| -2.5 / feature| If the feature implemented was not approved by TA (for projects implementing 3 features). |
 | -1.5 / bug | For each major bug (project-breaking/crashing)|
 | -0.5 / bug | For each minor bug (errors only on specific input or subpart of feature)|
 | +1 / bug | *Optional* Bug writeup for a major bug (see README)|
@@ -225,5 +225,5 @@ Please don't forget to add your partner(s) to the submissions! [How to add a par
 - Please Attend OH or Final Project Parties 
 - [README Template](https://docs.google.com/document/d/1GiZ6tE-mnezyiry7p_gmEswNRfx7ntNjT3Z-wcfZToA/edit?tab=t.0)
 - [Bug Writeup](https://docs.google.com/document/d/1A6Tzm0UZte8gMnnmE2PV1J9xO__z6SaLkDVA6j3-I5s/edit?usp=sharing)
-- [Project Proposal Spec](https://cs10.org/fa25/projects/project6-proposals/) 
+- [Project Proposal Spec](https://cs10.org/fa26/projects/project6-proposals/) 
 - [Commenting Guide](https://docs.google.com/document/u/1/d/e/2PACX-1vSrtiqOPprVJ327uvCj9aRGXJYGP9hjOMJyz_vSxK237PNnTCYumvE24QYcbmA_Xy8voUPOqHzXtZOO/pub?embedded=true)

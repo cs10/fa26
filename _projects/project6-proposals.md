@@ -51,7 +51,7 @@ This proposal is meant to be just an ideas-focused starting point — the spec f
 
 **Project Proposal Meeting Details (Week 12: Nov 9 -13)**
 - Meetings will run during Week 12 (11/9 to 11/13). No meetings on Wednesday November 11th due to the holiday.
-- You may attend the either in person (location TBD) or via Zoom.
+- You may attend either in person (at the regular OH / Lab location of that time) or via Google Meet. All locations and Meet links can be found on the course calendar.
 - This is worth 5 points of your final grade.
 - Only one member of your group needs to attend. Late arrivals receive a 0 score and must sign up for a new time slot.
 
@@ -116,7 +116,7 @@ Here is an [example proposal](https://docs.google.com/document/d/1IBLwmPiIa9qJ3p
 
 By Friday, November 6th 11:59pm, you and your partner will submit your project proposal as a group on Gradescope. Only one person needs to submit, don’t forget to add your partner(s) to the submissions!
 
-![How to add partner to Gradescope](/fa25/assets/images/p6/p6-1.png)
+![How to add partner to Gradescope](/fa26/assets/images/p6/p6-1.png)
 
 
 ## Proposal Review: What to Expect
