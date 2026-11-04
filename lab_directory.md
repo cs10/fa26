@@ -38,7 +38,7 @@ Lab Slides: <a href="https://drive.google.com/drive/folders/1QviClM8HHk_4ARff5us
 | [Lab 13: Concurrency (Conceptual Only)](https://www.gradescope.com/courses/1371156/assignments/8487802) | Mon 10/26 & Tue 10/27 |
 | [Lab 14: OOP in Snap!](/fa26/labs/lab14) | Wed 10/28 & Thu 10/29 |
 | [Lab 15: Welcome to Python](/fa26/labs/lab15) | Mon 11/2 & Tue 11/3 |
-| [Lab 16: Lists and Mutability](fa26/labs/lab16) | Wed 11/4 & Thu 11/5 |
+| [Lab 16: Lists and Mutability](/fa26/labs/lab16) | Wed 11/4 & Thu 11/5 |
 | Lab 17: Data Structures in Python | Mon 11/9 & Tue 11/10 |
 | Lab 18: Text Processing in Python | Thu 11/12 & TBD |
 | Project 4 Presentations | Mon 11/16 & Tue 11/17 |
