@@ -772,7 +772,7 @@ Snap! Demos:
         Lec 20. Python II - Data Types & Structures<br/>
         (Video) <a href="https://drive.google.com/file/d/1Yd5uJC6QNdYuhprWArCrVqRLbqDmtopK/view?usp=drive_link">(Slides)</a>
       </td>
-      <td rowspan="2"> Lab 16. Lists and Mutability <br/> </td>
+      <td rowspan="2"> <a href="https://cs10.org/fa26/labs/lab16/">Lab 16. Lists and Mutability</a> <br/> </td>
       <td></td>
       <td></td>
     </tr>
