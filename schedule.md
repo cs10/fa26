@@ -778,7 +778,7 @@
     <tr>
       <th>Fri 11/6</th>
       <td>
-        Talk 11. Midterm 3 Review<br/>
+        Talk 11. Midterm 2 Review<br/>
         (Video)<br/>
       </td>
       <td></td>
