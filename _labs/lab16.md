@@ -1,7 +1,7 @@
 ---
 title: "Lab 16"
 description: "Lists + Mutability in Python"
-due: "Friday, November 7th, 11:59PM"
+due: "Tuesday, November 10, 11:59PM"
 gradescope_assignment_id:
 submission_files:
 ---

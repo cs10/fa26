@@ -695,8 +695,15 @@
       <td>
         Lec 18. OOP in Snap!<br/>
         (Video) <a href="https://drive.google.com/file/d/1tIn-P8b1ZADGqX7yZ-VzrslA-dnOzlgF/view?usp=drive_link">(Slides)</a>
+        <br/>
+Snap! Demos:
+<div style="text-align: left; margin-top: 4px;">
+  1. <a href="https://snap.berkeley.edu/snap/snap.html#present:Username=dan%20garcia&ProjectName=Fall%202026%20sprite%20specific%20variables%20and%20blocks">Sprite-specific variables and blocks, and Sprite communication</a><br/>
+  2. <a href="https://snap.berkeley.edu/snap/snap.html#present:Username=dan%20garcia&ProjectName=Fall%202026%20Sprite%20Linking">Sprite Linking</a><br/>
+  3. <a href="https://snap.berkeley.edu/snap/snap.html#present:Username=dan%20garcia&ProjectName=Fall%202026%20Clones">Clones</a>
+</div>
       </td>
-      <td rowspan="2"> Lab 14. OOP in Snap! <br/> </td>
+      <td rowspan="2"> <a href="https://cs10.org/fa26/labs/lab14/">Lab 14. OOP in Snap!</a> <br/> </td>
       <td></td>
       <td><b>Proj 4 Research Document Due</b></td>
     </tr>
@@ -749,7 +756,7 @@
         Lec 19. Python I - Intro<br/>
         (Video) <a href="https://drive.google.com/file/d/1k4g6eWTP0WoWxxgpx9fsBooxRhTpSoMM/view?usp=drive_link">(Slides)</a>
       </td>
-      <td rowspan="2"> Lab 15. Welcome to Python <br/> </td>
+      <td rowspan="2"> <a href="https://cs10.org/fa26/labs/lab15/">Lab 15. Welcome to Python</a> <br/> </td>
       <td></td>
       <td></td>
     </tr>
@@ -765,7 +772,7 @@
         Lec 20. Python II - Data Types & Structures<br/>
         (Video) <a href="https://drive.google.com/file/d/1Yd5uJC6QNdYuhprWArCrVqRLbqDmtopK/view?usp=drive_link">(Slides)</a>
       </td>
-      <td rowspan="2"> Lab 16. Lists and Mutability <br/> </td>
+      <td rowspan="2"> <a href="https://cs10.org/fa26/labs/lab16/">Lab 16. Lists and Mutability</a> <br/> </td>
       <td></td>
       <td></td>
     </tr>

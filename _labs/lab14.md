@@ -1,186 +1,99 @@
 ---
 title: "Lab 14"
-description: "Welcome To Python"
-due: "Thursday, April 2nd, 11:59PM"
+description: "OOP in Snap!"
+due: "Tuesday, November 3rd, 23:59"
 gradescope_assignment_id:
 submission_files:
 ---
 
-# Lab 14: Welcome To Python
+# Lab 14: OOP in Snap!
 
 ## Instructions
-This worksheet serves as a guide and set of instructions to complete the lab.
-
-- You must use the [starter file, found here](https://cs10.org/bjc-r/prog/python/lab12-starter-code.py), to get credit for the lab.
-- Additionally, [here is the workbook](https://cs10.org/bjc-r/llab/html/topic.html?topic=berkeley_bjc%2Fpython%2Fbesides-blocks-welcome-parsons.topic&course&novideo&noreading&noassignment) that you can read through for further context and additional (non-required) material.
-- All material was sourced from the CS10 version of The Beauty and Joy of Computing course.
-
-## Notes
-As we begin working with Python, it's totally normal to have questions about getting your code up and running. We know it can take some time to get comfortable, and you might get stuck or need help. Before asking a logistical question, PLEASE check the workbook first. It includes step-by-step instructions on using the terminal, opening a shell, running Python, and defining functions. You can find guidance in the link below for setting up Python on your computer.
-- [How to set up Python3 & Text Editor](https://docs.google.com/document/d/14xz0EMdIDLtjIYJAxSeM01bd7GhqZfWfKioDhGM04_c/edit?tab=t.0) 
+- There is no workbook for this lab.
+- [Here is the starter file](https://snap.berkeley.edu/snap/snap.html#present:Username=jedi_force&ProjectName=Lab%2013%3a%20Starter%20%28OOP%20in%20Snap%21%29&editMode&noRun). You are not required to use it, but you can!
 
 ## Submitting
-You will need to complete Exercises 1-4 and submit the file to Gradescope.
-
-- To receive full credit, you will need to complete the required functions, and the required functions must pass all tests from the autograder in Gradescope.
-
-Please note, you must use the [starter file](https://cs10.org/bjc-r/prog/python/lab12-starter-code.py), and you must NOT edit the name of any of the required blocks. Failing to do either for these will result in the autograder failing.
+You will need to fill in the blocks under the starter file and submit this to Gradescope. 
+- To receive full credit for the coding portion, you will need to complete the required blocks, and the required blocks must pass all tests from the autograder in Gradescope.
+- For instructions on how to submit to labs to Gradescope, please see [this page](https://docs.google.com/document/d/1zh-3Mz-4mrfv0lqqI0JHfi31PBUze6QhxFuG4AQUL9s/edit).
+  
+Please note: you must use the **starter file** above, and you must **NOT** edit the name of any of the required blocks. Failing to do either will result in autograder failure.
 
 ## Objectives
-We have learned many topics during our weeks together such as iteration, algorithms, recursion, conditionals, and more. We have practiced and implemented these ideas primarily through Snap. In this lab, you will apply the more simple topics you have learned so far in the course in another programming language, Python. By the end of lab you will:
+In this lab, you will practice Object-Oriented Programming (OOP) concepts through Snap! By the end of the lab, you will:
 
-- Know how to start/open a file in a text editor
-- Know how to run your python file through terminal
-- Apply pre-existing knowledge of topics in Python
-- Create working functions in Python
-- Understand the basic syntax of Python
+- Learn to use clones to create interactive objects.
+- Use message broadcasting to trigger actions between sprites.
+- Create sprite-specific functions and variables.
+- Develop your own interactive balloon shooting game.
 
-## Required Functions
-- Function 1: sum_all_numbers(x, y)
-- Function 2: exponent(num, power)
-- Function 3: palindrome(string)
-- Function 4: reverse_string(string)
+## Demo Video
+[Here's a video demo](https://drive.google.com/file/d/1pnuT4K6nq0uLBIoWTEpNUgrj-OqKie12/view?usp=sharing) of how it should work.
+
+- Feel free to customize it in whatever way you like though!
 
 ---
 
-## Important Topics (Workbook)
-For better understanding of the lab we highly recommend going through these workbook pages!
+## Sections
 
-- [Introduction to the Terminal](https://cs10.org/bjc-r/cur/programming/python/introduction-to-the-terminal.html?topic=berkeley_bjc%2Fpython%2Fbesides-blocks-welcome-parsons.topic&course&novideo&noreading&noassignment)
-- [Variables and Primitive Expressions](https://cs10.org/bjc-r/cur/programming/python/python_syntax_and_operators.html?topic=berkeley_bjc%2Fpython%2Fbesides-blocks-welcome-parsons.topic&course&novideo&noreading&noassignment)
-- [**Run a Python Script**](https://cs10.org/bjc-r/cur/programming/python/run_a_python_script.html?topic=berkeley_bjc%2Fpython%2Fbesides-blocks-welcome-parsons.topic&course&novideo&noreading&noassignment)
-- [Defining A Simple Python Function](https://cs10.org/bjc-r/cur/programming/python/parsons/define_simple_function.html?topic=berkeley_bjc%2Fpython%2Fbesides-blocks-welcome-parsons.topic&course&novideo&noreading&noassignment)
-- [Print vs Return](https://cs10.org/bjc-r/cur/programming/python/parsons/print_vs_return.html?topic=berkeley_bjc%2Fpython%2Fbesides-blocks-welcome-parsons.topic&course&novideo&noreading&noassignment)
-- [While Loops](https://cs10.org/bjc-r/cur/programming/python/parsons/while_loops.html?topic=berkeley_bjc%2Fpython%2Fbesides-blocks-welcome-parsons.topic&course&novideo&noreading&noassignment)
-- [Basic String Manipulation](https://cs10.org/bjc-r/cur/programming/python/parsons/basic_string_manipulation.html?topic=berkeley_bjc%2Fpython%2Fbesides-blocks-welcome-parsons.topic&course&novideo&noreading&noassignment)
-- [Conditionals](https://cs10.org/bjc-r/cur/programming/python/parsons/conditionals.html?topic=berkeley_bjc%2Fpython%2Fbesides-blocks-welcome-parsons.topic&course&novideo&noreading&noassignment)
-
----
-
-## Function 1: sum_all_numbers(x, y)
+### 1. Create Clones to shoot Balloons at the Target
 
 **Objective**  
-Create a function that adds all the numbers between (and including) the two inputs, x and y.
+Create clones of your sprite to shoot balloons at targets. Each clone should be able to independently shoot balloons.
 
-**Important Note**  
-For this exercise, IT IS REQUIRED that you create the correct function on the [Workbook](https://cs10.org/bjc-r/cur/programming/python/parsons/sum_all_numbers.html?topic=berkeley_bjc%2Fpython%2Fbesides-blocks-welcome-parsons.topic&course&novideo&noreading&noassignment) and either export/copy/retype the exact solution into your file!
+**Steps**
+- Create a sprite called "Balloon Shooter."
+- Create a sprite called "Balloon"
+- Create a script that will generate clones of your Balloon. You can do this by using the "create clone of myself" block.
+- When each clone is created, it will shoot balloons toward a target.
+- To make the clone move or interact, you will need the "When I start as a clone" block
 
-![sum all numbers workbook]({{ site.baseurl }}/assets/images/lab_images/lab15_1.png)
+**Helpful Tips**
+- You may find it helpful to check how many clones you're creating and only create more if your sprite has less than a certain number. It's very easy to make a thousand clones in 1 second!
+- You may find the following two blocks helpful to get a list of your clones, or ask what the x, y positions are of the clones:
+  - ![clone helper blocks]({{ site.baseurl }}/assets/images/lab_images/lab14_1.png)
+  - ![clone helper blocks 2]({{ site.baseurl }}/assets/images/lab_images/lab14_2.png)
+- Here's an example:
+  - ![clone example]({{ site.baseurl }}/assets/images/lab_images/lab14_3.png)
 
-*Please refresh the page if you can not see these blocks/instructions*
-
-**Notes**
-- Use of sum() function is prohibited
-
-**Inputs**
-- x = any number
-- y = any number
-  - y > x
-
-**Output**
-- a number
-- Reports the sum of all numbers between (and including) x and y.
-
-**Examples**
-- Included in starter file
-  - We call these "doctests"
+**Fun Tip**  
+You can make your clones "laugh" or say funny things like "Take that!" every time they shoot a balloon! You can also delete clones if you have to many or if they reach their "target"
 
 ---
 
-## Function 2: exponent(num, power)
+### 2. Use Message Broadcasting to Trigger Actions
 
 **Objective**  
-Create a function that calculates the input num with an exponent of the input power
+Use message broadcasting to trigger actions between sprites. When a balloon hits the target, the target should react.
 
-- Calculate num^power
-- The following method has to be used as above. Click, drag, and rearrange the code in the [workbook](https://cs10.org/bjc-r/cur/programming/python/parsons/exponent.html?topic=berkeley_bjc%2Fpython%2Fbesides-blocks-welcome-parsons.topic&course&novideo&noreading&noassignment)
+**Steps**
+- Create a new sprite called "Target."
+- In the Balloon Shooter sprite, broadcast a message when the balloon hits the target.
+- In the Target sprite, add a script to react when it receives the message. For example, change size or play a sound.
 
-**Notes**
-- Use of pow() or ** function is *prohibited*
-
-**Inputs**
-- Num = any number
-- Power = any positive number
-  - Power >= 0
-
-**Output**
-- a number
-- Reports Num to the power of Power
-  - num^power
-
-**Examples**
-- Included in starter file
-  - We call these "doctests"
-- ![exponent example]({{ site.baseurl }}/assets/images/lab_images/lab15_2.png)
+**Fun Tip**  
+You can add an additional broadcast message so that when the Target sprite receives the message, it then broadcasts a message of its own back to the Balloon Shooter sprite.
 
 ---
 
-## Function 3: palindrome(string)
+### 3. Create 1 Function and 1 Global Variable for One Sprite
 
 **Objective**  
-Create a function that confirms or denies if a string is a palindrome
+Create a custom function and a global variable that is specific to one sprite. For example, you could create a function to check the number of balloons thrown, and a variable to keep track of how many times the sprite has been hit.
 
-- The same code blocks can be found on the [workbook](https://cs10.org/bjc-r/cur/programming/python/parsons/palindrome.html?topic=berkeley_bjc%2Fpython%2Fbesides-blocks-welcome-parsons.topic&course&novideo&noreading&noassignment)
+**Steps**
+- Create a global variable "hit count" to keep track of how many times the sprite has been hit by a balloon.
+- Create a custom function "check hits" to check if the sprite has been hit more than three times. If so, make it react in some way (e.g., say something or change size).
 
-![palindrome workbook]({{ site.baseurl }}/assets/images/lab_images/lab15_3.png)
-
-**Notes**
-- A palindrome is a word, phrase, or sequence that reads the same backward as forward
-  - E.g. tacocat, racecar, noon
-- *You must use recursion to write this block. Loops and list comprehension are not allowed.*
-
-**Inputs**
-- String = any string
-  - Usually a word
-
-**Output**
-- boolean
-- Reports whether the string is a palindrome
-
-**Examples**
-- Included in starter file
-  - We call these "doctests"
+**Fun Tip**  
+Make the sprite "faint" or make a funny sound after it's been hit too many times!
 
 ---
 
-## Function 4: reverse_string(string)
+## Additional Challenges (Optional)
 
-**Objective**  
-Create a function that reverses the string you input
-
-- For this problem, instead of dragging and dropping code in the browser, you will write code free form using a text editor.
-  - *To do so, open up the starter code and proceed to exercise 4 def reverse_string(string). If you need help, refer to this page or ask a staff member for help!*
-
-**Inputs**
-- String = any string
-  - Usually a word
-
-**Output**
-- a string
-- Reports the reversed version of your input string
-
-**Examples**
-- Included in starter file
-  - We call these "doctests"
+- **Add a score system**: Track how many successful hits you have made on the target and display the score on the screen.
+- **Add movement**: Make the Water Balloon Shooter sprite move around the screen by adding keyboard controls.
+- **Add special effects**: Use sounds, colors, or animations when shooting water balloons or when the target is hit.
 
 ---
-
-## Using the Autograder
-
-To use the autograder type: `python3 -m doctest lab12-starter-code.py` in your terminal
-
--alternatively- **python3 -m doctest <labfilename>.py**
-
-![autograder command]({{ site.baseurl }}/assets/images/lab_images/lab15_4.png)
-
-Note you must be in the correct parent file! + You must save.
-
-Failing tests like this:
-
-![failing tests]({{ site.baseurl }}/assets/images/lab_images/lab15_5.png)
-
-With specific doctests showing where your error lies. If the code runs and enters a new line with no failures, then you have passed the autograder.
-
----
-
-**Remember to submit on Gradescope!**
