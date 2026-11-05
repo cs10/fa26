@@ -202,22 +202,22 @@ Please spend some time completing this [feedback form](https://forms.gle/WaWNwnR
 
 Project 4 will be graded for coherence and content based on the following rubric.
 
-**Part 1: Research Document (6.5 pts)**
+**Part 1: Research Document (4.5 pts)**
 
 | **Criteria** | **Points** |
 | ---------- | -------- |
 | Introduction clearly defines the research topic and gives a thoughtful overview of it | +1.0 |
-| Documentation addresses at least two elements from “Positive & Negative Impacts” | +2.5 |
-| Documentation addresses at least two elements from “Technical Elements” | +1.5 |
-| Documentation clearly states the medium of the artifact and the intended message it conveys | +1.0 |
+| Documentation addresses at least two elements from “Positive & Negative Impacts” | +1.25 |
+| Documentation addresses at least two elements from “Technical Elements” | +1.25 |
+| Documentation clearly states the medium of the artifact and the intended message it conveys | +0.5 |
 | References are properly cited (MLA) and the document follows the format guidelines (headings, 12-point font, 200-350 words) | +0.5 |
 
-**Part 2: Artifact (3.5 pts)**
+**Part 2: Artifact (4.5 pts)**
 
 | **Criteria** | **Points** |
 | ---------- | -------- |
-| Artifact includes details that express technical topic of choice in a creative and novel way, and answers at least two questions from each of the 3 categories | +3.0 |
-| Artifact is an acceptable medium to explore a single, tech-related topic. | +0.5 |
+| Artifact includes details that express technical topic of choice in a creative and novel way | +3.5 |
+| Artifact is an acceptable medium to explore a single, tech-related topic. | +1.0 |
 
 **Part 3a: Presentation (8 pts)**
 
@@ -232,12 +232,12 @@ Project 4 will be graded for coherence and content based on the following rubric
 | Provides thoughtful answers to at least 2 peer questions | +1.0 |
 | Asks a question (as an audience member) to at least 2 presenters in the group | +1.0 |
 
-**Part 3b: Peer Comments (1 pt)**
+**Part 3b: Peer Comments (2 pts)**
 
 | **Criteria** | **Points** |
 | ---------- | -------- |
-| First comment is thoughtful and includes at least one question about the topic | +0.5 |
-| Second comment is thoughtful and includes at least one question about the topic | +0.5 |
+| First comment is thoughtful and includes at least one question about the topic | +1.0 |
+| Second comment is thoughtful and includes at least one question about the topic | +1.0 |
 
 ## Submission
 - You’ll upload your Research Document (Part 1) and Artifact (Part 2) to Gradescope.
