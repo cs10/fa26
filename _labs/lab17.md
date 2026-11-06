@@ -8,6 +8,8 @@ submission_files:
 
 # Lab 17: Data Structures and Text Processing in Python
 
+> **Heads up: this lab is longer than usual!** Lab 17 combines what used to be two separate labs into one, since there is only one lab this week due to the holiday. To give you enough time to finish both parts, it is due **in one week, Tuesday, November 17th, 11:59PM**. We recommend starting early and pacing yourself.
+
 ## Instructions
 This worksheet serves as a guide and set of instructions to complete the lab. This lab has two parts: **Part 1** covers data structures (lists and dictionaries) and **Part 2** covers text processing. Both parts live in the same starter file and are submitted together.
 
@@ -68,9 +70,12 @@ In today's lab you will:
 
 ## Required Functions
 
+Functions marked **(OPTIONAL)** are included in the starter file for extra practice but are **not required** and do not count toward credit.
+
 **Part 1: Data Structures**
 - Function 1: push_first_odd_back(lst)
 - Function 2: flatten(lst)
+- (OPTIONAL) Function: flatten_ND(lst)
 - Function 3.1: squares_of_evens(lst)
 - Function 3.2: nth_power_of_evens(lst, n)
 - Function 4: substitute_base(string, old, new)
@@ -78,6 +83,9 @@ In today's lab you will:
 - Function 6: base_freq(sequence)
 - Function 7.1: substitute_chars(string, replacements)
 - Function 7.2: invert_dict(original)
+- (OPTIONAL) Function: sum_columns(board)
+- (OPTIONAL) Function: binary_search(numbers, target)
+- (OPTIONAL) Function: count_paths(level)
 
 **Part 2: Text Processing**
 - read_file(filename) [required but code is [given](https://cs10.org/bjc-r/cur/programming/python/hug_text_processing/python_basic_files.html?topic=berkeley_bjc%2Fpython%2Fbesides-blocks-text-processing.topic&course&novideo&noreading&noassignment)]
@@ -87,7 +95,12 @@ In today's lab you will:
 - Function 11: count_words(text)
 - Function 12: top_n_words(counts, n)
 - Function 13: print_top_n_words(counts, n)
+- (OPTIONAL) Function: top_n_words_except(counts, n, boring)
 - Function 14: average_word_length(counts)
+- (OPTIONAL) Function: word_diversity(counts)
+- (OPTIONAL) Function: get_kgram(text, ptr, k)
+- (OPTIONAL) Function: process_character(m, text, ptr, k)
+- (OPTIONAL) Function: build_markov_model(text, k)
 
 ---
 
