@@ -11,7 +11,7 @@ nav_order: 7
 
 This page will be updated with discussion Worksheets and Solutions throughout the semester. Discussions will not be recorded.
 
-> Discussion attendance is mandatory and tracked using iClicker. If you attend discussion in person and do the iClicker, no further action or submission is required to receive attendance credit. If you do not attend, one of your 10 attendance passes is used automatically; no submission or notification is needed.
+> Discussion attendance is mandatory and tracked by scanning an Ed QR code during section. If you attend discussion in person and scan the QR code, no further action or submission is required to receive attendance credit. If you do not attend, one of your 10 attendance passes is used automatically; no submission or notification is needed.
 >
 > The discussion worksheets will be posted on the course website, and your discussion TA will often print and hand them out during section. The worksheets are neither submitted nor graded. Discussion sections are not recorded, and we may not go over every problem on the worksheet during section, but you're welcome to visit General OH to discuss worksheet content.
 
@@ -126,7 +126,11 @@ This page will be updated with discussion Worksheets and Solutions throughout th
       <td>Disc 11. Welcome to Python!</td>
       <td><a href="https://docs.google.com/document/d/1DEFM-Q8FUHDjMywfyRbuNjlYQ-L9gMTL/edit?usp=sharing&ouid=108241901646567491558&rtpof=true&sd=true">Worksheet 11</a></td>
       <td>Solutions 11</td>
-      <td><a href="https://realpython.com/cheatsheets/python/">Python Cheat Sheet</a> / <a href="https://www.online-python.com/">Online Python</a> / <a href="https://pythontutor.com/visualize.html#mode=edit">Python Tutor</a></td>
+      <td>
+        <a href="https://realpython.com/cheatsheets/python/">Python Cheat Sheet</a> /
+        <a href="https://www.online-python.com/">Online Python</a> /
+        <a href="https://pythontutor.com/visualize.html#mode=edit">Python Tutor</a>
+      </td>
     </tr>
     <tr>
       <td>Week 12</td>
