@@ -36,7 +36,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
       <th>Title</th>
       <th>Worksheet</th>
       <th>Solutions</th>
-      <th>Notes</th>
+      <th>Resources</th>
     </tr>
   </thead>
   <tbody>
@@ -46,7 +46,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
       <td>Disc 1. Welcome to CS 10!</td>
       <td><a href="https://docs.google.com/document/d/1iorI7tkhWwZlTzgJp9XLK5NKPMB0xPveJgCCT3MwAJU/edit?usp=sharing">Worksheet 1</a></td>
       <td><a href="https://docs.google.com/document/d/1HrkROUBvpJcaYlAGtOnC1n9FTfSumWfw/edit?usp=sharing&ouid=108241901646567491558&rtpof=true&sd=true">Solutions 1</a></td>
-      <td>Notes 1</td>
+      <td>-</td>
     </tr>
     <tr>
       <td>Week 2</td>
@@ -54,7 +54,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
       <td>Disc 2. Number Rep & Control Structures</td>
       <td><a href="https://docs.google.com/document/d/1oWpqj-5SO3G9k5yJTNbZehXmxJkZ5I9z/edit?usp=sharing&ouid=108241901646567491558&rtpof=true&sd=true">Worksheet 2</a></td>
       <td><a href="https://docs.google.com/document/d/15XdxVm2SQGgL1mfEICHjM9_oHhVHAf6J/edit?usp=sharing&ouid=108241901646567491558&rtpof=true&sd=true">Solutions 2</a></td>
-      <td>Notes 2</td>
+      <td>-</td>
     </tr>
     <tr>
       <td>Week 3</td>
@@ -62,7 +62,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
       <td>Disc 3. Domain/Range, Scoping, Iteration, Lists</td>
       <td><a href="https://docs.google.com/document/d/1muIrWG-F-RFWoUClySRauTpGCcYJrJpZ/edit?usp=sharing&ouid=108241901646567491558&rtpof=true&sd=true">Worksheet 3</a></td>
       <td><a href="https://docs.google.com/document/d/1mv_wxGavXP1ahZjEyOxiydUhZ9H_Z6NW/edit?usp=sharing&ouid=108241901646567491558&rtpof=true&sd=true">Solutions 3</a></td>
-      <td>Notes 3</td>
+      <td>-</td>
     </tr>
     <tr>
       <td>Week 4</td>
@@ -70,7 +70,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
       <td>Disc 4. Iteration & Lists</td>
       <td><a href="https://docs.google.com/document/d/1Xg5Yhd2i9ORrRi2u15gv8OMKvYvaBHjR/edit?usp=sharing&ouid=108241901646567491558&rtpof=true&sd=true">Worksheet 4</a></td>
       <td><a href="https://docs.google.com/document/d/1Nlh_DROXzX-cS6kmevHDpo-gIZM1y8ke/edit?usp=sharing&ouid=108241901646567491558&rtpof=true&sd=true">Solutions 4</a></td>
-      <td>Notes 4</td>
+      <td>-</td>
     </tr>
     <tr>
       <td>Week 5</td>
@@ -78,7 +78,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
       <td>Disc 5. HOFs + Quest Practice</td>
       <td><a href="https://docs.google.com/document/d/1m8BOaJD6NaF_b1LEJzSMn5LtpC7O3wxa/edit?usp=sharing&ouid=108241901646567491558&rtpof=true&sd=true">Worksheet 5</a></td>
       <td><a href="https://docs.google.com/document/d/1HL_DsqLnEO31BCE2lSwM0E1tVXAEXiMQ/edit?usp=sharing&ouid=108241901646567491558&rtpof=true&sd=true">Solutions 5</a></td>
-      <td>Notes 5</td>
+      <td>-</td>
     </tr>
     <tr>
       <td>Week 6</td>
@@ -102,7 +102,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
       <td>Disc 8. Algorithmic Complexity + Tree Recursion</td>
       <td><a href="https://docs.google.com/document/d/1Ta2FJ1JEmuwicqBuf7znKGNuD-0gBMKr/edit?usp=sharing&ouid=108241901646567491558&rtpof=true&sd=true">Worksheet 8</a></td>
       <td><a href="https://docs.google.com/document/d/1dkW5JNMU52D2U7Xdb4S877buLxBiVGuF/edit?usp=sharing&ouid=108241901646567491558&rtpof=true&sd=true">Solutions 8</a></td>
-      <td>Notes 8</td>
+      <td>-</td>
     </tr>
     <tr>
       <td>Week 9</td>
@@ -110,7 +110,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
       <td>Disc 9. Midterm Preview</td>
       <td><a href="https://docs.google.com/document/d/1r1yyGVTu_bYWKfDM2l-SbkckIKCYxOaAP9bXvkcW54Y/edit?usp=sharing">Worksheet 9</a></td>
       <td><a href="https://docs.google.com/document/d/1UNEBL_MaojRbmRaeRd5vvYLOcgbI-KM5/edit?usp=sharing&ouid=108241901646567491558&rtpof=true&sd=true">Solutions 9</a></td>
-      <td>Notes 9</td>
+      <td>-</td>
     </tr>
     <tr>
       <td>Week 10</td>
@@ -126,7 +126,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
       <td>Disc 11. Welcome to Python</td>
       <td>Worksheet 11</td>
       <td>Solutions 11</td>
-      <td>Notes 11</td>
+      <td><a href="https://realpython.com/cheatsheets/python/">Python Cheat Sheet</a><br/><a href="https://www.online-python.com/">Online Python</a><br/><a href="https://pythontutor.com/visualize.html#mode=edit">Python Tutor</a></td>
     </tr>
     <tr>
       <td>Week 12</td>
@@ -134,7 +134,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
       <td>Disc 12. Data Structures in Python + Concurrency</td>
       <td>Worksheet 12</td>
       <td>Solutions 12</td>
-      <td>Notes 12</td>
+      <td>-</td>
     </tr>
     <tr>
       <td>Week 13</td>
@@ -142,7 +142,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
       <td>Disc 13. Postterm Preview</td>
       <td>Worksheet 13</td>
       <td>Solutions 13</td>
-      <td>Notes 13</td>
+      <td>-</td>
     </tr>
     <tr>
       <td>Week 14</td>
@@ -158,7 +158,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
       <td>Disc 15. Postterm 1 Review</td>
       <td>Worksheet 14</td>
       <td>Solutions 14</td>
-      <td>Notes 14</td>
+      <td>-</td>
     </tr>
   </tbody>
 </table>
