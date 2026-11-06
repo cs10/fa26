@@ -123,10 +123,10 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     <tr>
       <td>Week 11</td>
       <td>Fri 11/6</td>
-      <td>Disc 11. Welcome to Python</td>
-      <td>Worksheet 11</td>
+      <td>Disc 11. Welcome to Python!</td>
+      <td><a href="https://docs.google.com/document/d/1DEFM-Q8FUHDjMywfyRbuNjlYQ-L9gMTL/edit?usp=sharing&ouid=108241901646567491558&rtpof=true&sd=true">Worksheet 11</a></td>
       <td>Solutions 11</td>
-      <td><a href="https://realpython.com/cheatsheets/python/">Python Cheat Sheet</a><br/><a href="https://www.online-python.com/">Online Python</a><br/><a href="https://pythontutor.com/visualize.html#mode=edit">Python Tutor</a></td>
+      <td><a href="https://realpython.com/cheatsheets/python/">Python Cheat Sheet</a> / <a href="https://www.online-python.com/">Online Python</a> / <a href="https://pythontutor.com/visualize.html#mode=edit">Python Tutor</a></td>
     </tr>
     <tr>
       <td>Week 12</td>
