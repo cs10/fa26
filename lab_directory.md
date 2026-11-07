@@ -40,7 +40,7 @@ Lab Slides: <a href="https://drive.google.com/drive/folders/1QviClM8HHk_4ARff5us
 | [Lab 15: Welcome to Python](/fa26/labs/lab15) | Mon 11/2 & Tue 11/3 |
 | [Lab 16: Lists and Mutability](/fa26/labs/lab16) | Wed 11/4 & Thu 11/5 |
 | Lab 17: Data Structures and Text Processing in Python | Mon 11/9 & Tue 11/10 |
-| Optional Project Party / OH | Thu 11/12 |
+| Project Party / OH (Optional) | Thu 11/12 |
 | Project 4 Presentations | Mon 11/16 & Tue 11/17 |
 | Practice Postterm | Wed 11/18 & Thu 11/19 |
 | Lab 20: Linear Recursion in Python | Mon 11/23 & Tue 11/24 |

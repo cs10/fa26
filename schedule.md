@@ -844,7 +844,7 @@ Snap! Demos:
     <tr>
       <th>Thu 11/12</th>
       <td></td>
-      <td> Optional Project Party / OH <br/> </td>
+      <td> Project Party / OH (Optional) <br/> </td>
       <td></td>
       <td><b>Final Project Meetings</b></td>
     </tr>
