@@ -555,7 +555,7 @@
     <tr>
       <th>Wed 10/14</th>
       <td>
-        Lec 14. Special Topics Lecture (IEOR)<br/>
+        Lec 14. Special Topics Lecture (IEOR) - Elise Vambenepe<br/>
         <a href="https://bcourses.berkeley.edu/courses/1558076/external_tools/90481">(Video)</a> <a href="https://docs.google.com/presentation/d/1iPP6UiomVGkPOpkMjRvKSWGPQLthXVD5BhUeUObXqtg/edit?usp=sharing">(Slides)</a>
       </td>
       <td rowspan="2"> <a href="https://www.gradescope.com/courses/1371156/assignments/8487791">Lab 12. Algorithmic Complexity</a> + Project 3 Party <br/> </td>
@@ -608,7 +608,7 @@
       <td class="schedule-week-num" rowspan="5">Week 9</td>
       <th>Mon 10/19</th>
       <td>
-        Lec 15. Kathy Yelick "Saving the World with Computing"<br/>
+        Lec 15. Saving the World with Computing - Kathy Yelick<br/>
         (Video) <a href="https://drive.google.com/file/d/1RzbSY7bLZSbDrXmXpPuD45J8gLqL61dG/view?usp=sharing">(Slides)</a>
       </td>
       <td rowspan="2"> <a href="https://us.prairielearn.com/pl/course_instance/219932/assessment/2698231">Practice Midterm (no code)</a> <br/> </td>
