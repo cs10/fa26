@@ -21,14 +21,14 @@ UC Berkeley, Fall 2026
 
 </div>
 
-## Announcements:  Friday, November 5
-- **Midterm 3** will be released today, 11/6, at 5 P.M. and will remain open until Sunday, 11/8, at 11:59 P.M.
-- Project 4: Research Document grades are released! If you did not receive full credit, please review the comments on your original submission and submit a revised version to the resubmission assignment by **11/8**.
+## Announcements:  Monday, November 9
+- There will be no class on Wednesday, 11/11.
+- This Thursday's lab will be an optional Project Party/OH.
+- Congratulations on finishing Midterm 3! Grades will be released soon.
+  - Friday's Talk will not go over the solutions, so please come to OH!
 - Sign-up (<a href="https://docs.google.com/spreadsheets/d/1_rbvDbv2MwlEOg68M62D5we7KEgPL8Md_igqN2zgBCE/edit?usp=sharing">link</a>) for a Project 4 Presentation time-slot by **11/13**
-- <a href="https://cs10.org/fa26/projects/project6-project">**Project 5**</a> has been released! Partners are required for this project.
-  - Sign up (<a href="https://calendar.app.google/xAcb7tS14C9x6ZWM7">link</a>) for a <a href="https://cs10.org/fa26/projects/project6-proposals">Project 5 Proposal</a> by **11/6**. There will be no extensions for the proposal.
-  - Project 5 Proposals will be occurring throughout next week.
-  - You may not begin your project until your proposal is approved!
+- Project 4: Artifacts are due on 11/13
+- Project 5 Proposals will be occurring throughout this week. Please <a href="https://calendar.app.google/xAcb7tS14C9x6ZWM7">sign up</a> for a proposal time slot if you have not already. 
   
 **Instructor:** <a href="https://people.eecs.berkeley.edu/~ddgarcia/">Teaching Professor Dan Garcia</a>  
 **Instructor’s OH:** Monday @ 2-3 PM in Gateway B1040 Bear  

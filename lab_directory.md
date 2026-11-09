@@ -39,7 +39,7 @@ Lab Slides: <a href="https://drive.google.com/drive/folders/1QviClM8HHk_4ARff5us
 | [Lab 14: OOP in Snap!](/fa26/labs/lab14) | Wed 10/28 & Thu 10/29 |
 | [Lab 15: Welcome to Python](/fa26/labs/lab15) | Mon 11/2 & Tue 11/3 |
 | [Lab 16: Lists and Mutability](/fa26/labs/lab16) | Wed 11/4 & Thu 11/5 |
-| Lab 17: Data Structures and Text Processing in Python | Mon 11/9 & Tue 11/10 |
+| [Lab 17: Data Structures and Text Processing in Python](/fa26/labs/lab17) | Mon 11/9 & Tue 11/10 |
 | Project Party / OH (Optional) | Thu 11/12 |
 | Project 4 Presentations | Mon 11/16 & Tue 11/17 |
 | Practice Postterm | Wed 11/18 & Thu 11/19 |
