@@ -13,28 +13,18 @@ submission_files:
 ## Instructions
 This worksheet serves as a guide and set of instructions to complete the lab. This lab has two parts: **Part 1** covers dictionaries (building on the lists you practiced in Lab 16) and **Part 2** covers text processing. Both parts live in the same starter file and are submitted together.
 
-- You must use the [starter file](https://cs10.org/bjc-r/prog/python/lab17starter.zip), found here, to get credit for the lab. It contains a single file, `lab17starter.py`, with the functions for both parts, plus the text files you need for Part 2.
+- You must use the [starter file, found here](https://cs10.org/bjc-r/prog/python/lab17starter.py), to get credit for the lab. The starter file, `lab17starter.py`, contains the functions for both parts.
 - Additionally, here are the workbooks that you can read through for further context and additional (non-required) material:
   - [Data Structures workbook: Dictionaries](https://cs10.org/bjc-r/cur/programming/python/comparing_dicts_lists.html?topic=berkeley_bjc%2Fpython%2Fbesides-blocks-data-struct.topic&course&novideo&noreading&noassignment) (Part 1)
   - [Text Processing workbook](https://cs10.org/bjc-r/cur/programming/python/hug_text_processing/python_text_processing_intro.html?topic=berkeley_bjc%2Fpython%2Fbesides-blocks-text-processing.topic&course&novideo&noreading&noassignment) (Part 2)
 - All material was sourced from the CS10 version of The Beauty and Joy of Computing course.
-
-## Getting Started
-
-Create a new folder called "datalab" on your computer (the name doesn't actually matter, but these instructions assume that's the name you use).
-
-Download the [starter files](https://cs10.org/bjc-r/prog/python/lab17starter.zip) for this lab and unzip the file into the datalab folder. DO NOT modify/delete comments found in the starter code. You can unzip this file through the command line by using the unzip command. Remember if you're working on a Windows machine use dir instead of ls.
-
-![terminal unzip example]({{ site.baseurl }}/assets/images/lab_images/lab18_1.png)
-
-Part 2 reads text files (such as `gettysburg.txt`), so **run your code and doctests from inside the datalab folder**, where the text files and `lab17starter.py` live together.
 
 ## Submitting
 You will need to complete **Exercises 1-9** plus the `read_file` setup function (listed below) and submit `lab17starter.py` to Gradescope.
 
 - To receive full credit, you will need to complete the required functions, and the required functions must pass all tests from the autograder in Gradescope.
 
-Please note, you must use the [starter file](https://cs10.org/bjc-r/prog/python/lab17starter.zip), and you must NOT edit the name of any of the required functions. Failing to do either for these will result in the autograder failing.
+Please note, you must use the [starter file](https://cs10.org/bjc-r/prog/python/lab17starter.py), and you must NOT edit the name of any of the required functions. Failing to do either for these will result in the autograder failing.
 
 ## Running Doctests
 To run doctests embedded within the docstring of a function, you can use the command:
@@ -192,7 +182,7 @@ For better understanding of Part 2 we highly recommend going through all of the 
 
 ## Setup: read_file(filename)
 
-The code for `read_file` is given in the [Basic File Input in Python](https://cs10.org/bjc-r/cur/programming/python/hug_text_processing/python_basic_files.html?topic=berkeley_bjc%2Fpython%2Fbesides-blocks-text-processing.topic&course&novideo&noreading&noassignment) workbook page. Copy it into `read_file` in the starter file before starting Exercise 3, since later doctests (such as Exercise 5) depend on it.
+The code for `read_file` is given in the [Basic File Input in Python](https://cs10.org/bjc-r/cur/programming/python/hug_text_processing/python_basic_files.html?topic=berkeley_bjc%2Fpython%2Fbesides-blocks-text-processing.topic&course&novideo&noreading&noassignment) workbook page. Copy it into `read_file` in the starter file. The Gradescope autograder tests `read_file` by reading its own text files, so you don't need to download any text files for this lab.
 
 ---
 
@@ -266,7 +256,7 @@ Create a function that applies the language game function to each word in the te
 - Doctests available
   - `python3 -m doctest <labfilename>.py` to run autograder
   - Must be in correct parent file
-- **Requires read_file and pig_latin to pass local doctests!**
+- **Requires pig_latin to pass local doctests!**
 
 ---
 
