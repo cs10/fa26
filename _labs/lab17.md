@@ -13,18 +13,18 @@ submission_files:
 ## Instructions
 This worksheet serves as a guide and set of instructions to complete the lab. This lab has two parts: **Part 1** covers dictionaries (building on the lists you practiced in Lab 16) and **Part 2** covers text processing. Both parts live in the same starter file and are submitted together.
 
-- You must use the [starter file, found here](https://cs10.org/bjc-r/prog/python/lab17starter.py), to get credit for the lab. The starter file, `lab17starter.py`, contains the functions for both parts.
+- You must use the [starter file, found here](https://cs10.org/bjc-r/prog/python/cs10-fa26-lab17-starter.py), to get credit for the lab. The starter file, `cs10-fa26-lab17-starter.py`, contains the functions for both parts.
 - Additionally, here are the workbooks that you can read through for further context and additional (non-required) material:
   - [Data Structures workbook: Dictionaries](https://cs10.org/bjc-r/cur/programming/python/comparing_dicts_lists.html?topic=berkeley_bjc%2Fpython%2Fbesides-blocks-data-struct.topic&course&novideo&noreading&noassignment) (Part 1)
   - [Text Processing workbook](https://cs10.org/bjc-r/cur/programming/python/hug_text_processing/python_text_processing_intro.html?topic=berkeley_bjc%2Fpython%2Fbesides-blocks-text-processing.topic&course&novideo&noreading&noassignment) (Part 2)
 - All material was sourced from the CS10 version of The Beauty and Joy of Computing course.
 
 ## Submitting
-You will need to complete **Exercises 1-9** plus the `read_file` setup function (listed below) and submit `lab17starter.py` to Gradescope.
+You will need to complete **Exercises 1-9** plus the `read_file` setup function (listed below) and submit `cs10-fa26-lab17-starter.py` to Gradescope.
 
 - To receive full credit, you will need to complete the required functions, and the required functions must pass all tests from the autograder in Gradescope.
 
-Please note, you must use the [starter file](https://cs10.org/bjc-r/prog/python/lab17starter.py), and you must NOT edit the name of any of the required functions. Failing to do either for these will result in the autograder failing.
+Please note, you must use the [starter file](https://cs10.org/bjc-r/prog/python/cs10-fa26-lab17-starter.py), and you must NOT edit the name of any of the required functions. Failing to do either for these will result in the autograder failing.
 
 ## Running Doctests
 To run doctests embedded within the docstring of a function, you can use the command:
@@ -39,7 +39,7 @@ To run all doctests you can run:
 python3 -m doctest <filename>.py
 ```
 
-To run the sanity tests on all functions in this lab, navigate to the directory that contains your starter code file and type `python3 -m doctest lab17starter.py` in terminal. (Functions you haven't written yet will fail their tests until you complete them, and the optional functions in the starter file are not required.)
+To run the sanity tests on all functions in this lab, navigate to the directory that contains your starter code file and type `python3 -m doctest cs10-fa26-lab17-starter.py` in terminal. (Functions you haven't written yet will fail their tests until you complete them, and the optional functions in the starter file are not required.)
 
 ## Objectives
 In this lab, we'll explore data structures in Python and then use them to process real-world text. While Snap! mainly uses lists as its only data structure, Python offers more options. You practiced Python lists in Lab 16; in this lab you'll learn dictionaries, which you can think of as more powerful lists.
