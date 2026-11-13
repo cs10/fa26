@@ -280,7 +280,7 @@
       <th>Wed 9/16</th>
       <td>
         Lec 6. Lists, Scoping, & HOFs<br/>
-        <a href="https://www.askademia.org/compsci10/fa26/compsci10-fa26-cc-1_0h9q9wiy">(Video)</a> <a href="https://drive.google.com/file/d/1pHeJkMcS4hex5l5hfZ0DxoWpl0zwGybx/view?usp=drive_link">(Slides)</a>
+        <a href="https://www.askademia.org/compsci10/fa26/compsci10-fa26-cc-1_0h9q9wiy">(Video)</a> <a href="https://drive.google.com/file/d/1pHeJkMcS4hex5l5hfZ0DxoWpl0zwGybx/view?usp=drive_link">(Slides)</a> <a href="https://drive.google.com/drive/folders/1elEhT4ydEb3UmtbqHlgu54Ntfx-SqqfZ?usp=sharing">(Code)</a>
       </td>
       <td rowspan="2"> <a href="https://cs10.org/fa26/labs/lab05/">Lab 5. Lists & HOFs</a> <br/> </td>
       <td></td>
@@ -333,7 +333,7 @@
       <th>Mon 9/21</th>
       <td>
         Lec 7. Higher-Order Functions<br/>
-        <a href="https://www.askademia.org/compsci10/fa26/compsci10-fa26-cc-1_0h9q9wiy">(Video)</a> <a href="https://drive.google.com/file/d/1pohZVsm_LXNdiQscTqqWox3Hv8Wd6e0J/view?usp=drive_link">(Slides)</a>
+        <a href="https://www.askademia.org/compsci10/fa26/compsci10-fa26-cc-1_0h9q9wiy">(Video)</a> <a href="https://drive.google.com/file/d/1pohZVsm_LXNdiQscTqqWox3Hv8Wd6e0J/view?usp=drive_link">(Slides)</a> <a href="https://drive.google.com/drive/folders/1XaIFjHrzHyawpN2zLmfZxiuBPFvTSTaV?usp=sharing">(Code)</a>
       </td>
       <td rowspan="2"> <a href="https://cs10.org/fa26/labs/lab06/">Lab 6. Functions as Data, HOFs </a><br/> </td>
       <td></td>
@@ -471,7 +471,7 @@
       <th>Mon 10/5</th>
       <td>
         Lec 11. Recursion I (Functional)<br/>
-        <a href="https://www.askademia.org/compsci10/fa26/compsci10-fa26-cc-1_0h9q9wiy">(Video)</a> <a href="https://drive.google.com/file/d/1rhyfIfPyb5HsSB9N8dOA_Pn58sr0yvvU/view?usp=drive_link">(Slides)</a>
+        <a href="https://www.askademia.org/compsci10/fa26/compsci10-fa26-cc-1_0h9q9wiy">(Video)</a> <a href="https://drive.google.com/file/d/1rhyfIfPyb5HsSB9N8dOA_Pn58sr0yvvU/view?usp=drive_link">(Slides)</a> <a href="https://drive.google.com/drive/folders/1rDnETX4AVUJuFHXJtl1vcgRw7h6ShGxg?usp=sharing">(Code)</a>
       </td>
       <td rowspan="2"> <a href="https://cs10.org/fa26/labs/lab09/">Lab 9. Boards </a><br/> </td>
       <td></td>
@@ -487,7 +487,7 @@
       <th>Wed 10/7</th>
       <td>
         Lec 12. Recursion II (Fractals)<br/>
-        <a href="https://www.askademia.org/compsci10/fa26/compsci10-fa26-cc-1_0h9q9wiy">(Video)</a> <a href="https://drive.google.com/file/d/1qb_ixaZvzDitH-eATGfOSaovxeaJaVXa/view?usp=drive_link">(Slides)</a>
+        <a href="https://www.askademia.org/compsci10/fa26/compsci10-fa26-cc-1_0h9q9wiy">(Video)</a> <a href="https://drive.google.com/file/d/1qb_ixaZvzDitH-eATGfOSaovxeaJaVXa/view?usp=drive_link">(Slides)</a> <a href="https://drive.google.com/drive/folders/1_cpsShjhleGky0CDaBdeW2Tkpvmean8J?usp=sharing">(Code)</a>
       </td>
       <td rowspan="2"> <a href="https://cs10.org/fa26/labs/lab10/">Lab 10. Trees & Fractals</a> <br/> </td>
       <td></td>
@@ -540,7 +540,7 @@
       <th>Mon 10/12</th>
       <td>
         Lec 13. Recursion III (Count Change)<br/>
-        <a href="https://bcourses.berkeley.edu/courses/1558076/external_tools/90481">(Video)</a> <a href="https://drive.google.com/file/d/1LOBsTelQjBgY0QfpdYokovIxQ3_SDHfE/view?usp=drive_link">(Slides)</a>
+        <a href="https://bcourses.berkeley.edu/courses/1558076/external_tools/90481">(Video)</a> <a href="https://drive.google.com/file/d/1LOBsTelQjBgY0QfpdYokovIxQ3_SDHfE/view?usp=drive_link">(Slides)</a> <a href="https://drive.google.com/drive/folders/1PdDS5ibrsEJL3pj2DIzBmeHfNyQAFETU?usp=sharing">(Code)</a>
       </td>
       <td rowspan="2"> <a href="https://cs10.org/fa26/labs/lab11/">Lab 11. Recursive Reporters</a> <br/> </td>
       <td></td>
@@ -825,7 +825,7 @@ Snap! Demos:
       <th>Mon 11/9</th>
       <td>
         Lec 21. Programming Paradigms<br/>
-        (Video) <a href="https://drive.google.com/file/d/1YvQDjtZSyw2tiN8uBqwxTgbZ3MIGRC_H/view?usp=drive_link">(Slides)</a>
+        (Video) <a href="https://drive.google.com/file/d/1YvQDjtZSyw2tiN8uBqwxTgbZ3MIGRC_H/view?usp=drive_link">(Slides)</a> <a href="https://drive.google.com/drive/folders/1PuOB3-gs-TqBDycEBJFyoLNuaGttMOzf?usp=sharing">(Code)</a>
       </td>
       <td rowspan="2"> <a href="https://cs10.org/fa26/labs/lab17/">Lab 17. Data Structures and Text Processing in Python</a> <br/> </td>
       <td></td>
@@ -959,7 +959,7 @@ Snap! Demos:
       <th>Mon 11/23</th>
       <td>
         Lec 24. Python III - Game Theory<br/>
-        (Video) <a href="https://drive.google.com/file/d/1_cZHoz-5i-RRs2v79vaV03udf6RiFc6o/view?usp=drive_link">(Slides)</a>
+        (Video) <a href="https://drive.google.com/file/d/1_cZHoz-5i-RRs2v79vaV03udf6RiFc6o/view?usp=drive_link">(Slides)</a> <a href="https://drive.google.com/drive/folders/1KXd2GFMpbSLP6bXdz4sA8WpNdJL5C01I?usp=sharing">(Code)</a>
       </td>
       <td rowspan="2"> Lab 20. Linear Recursion in Python <br/> </td>
       <td></td>

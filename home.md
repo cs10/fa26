@@ -21,14 +21,11 @@ UC Berkeley, Fall 2026
 
 </div>
 
-## Announcements:  Monday, November 9
-- There will be no class on Wednesday, 11/11.
-- This Thursday's lab will be an optional Project Party/OH.
-- Congratulations on finishing Midterm 3! Grades will be released soon.
-  - Friday's Talk will not go over the solutions, so please come to OH!
-- Sign-up (<a href="https://docs.google.com/spreadsheets/d/1_rbvDbv2MwlEOg68M62D5we7KEgPL8Md_igqN2zgBCE/edit?usp=sharing">link</a>) for a Project 4 Presentation time-slot by **11/13**
-- Project 4: Artifacts are due on 11/13
-- Project 5 Proposals will be occurring throughout this week. Please <a href="https://calendar.app.google/xAcb7tS14C9x6ZWM7">sign up</a> for a proposal time slot if you have not already. 
+## Announcements:  Friday, November 13
+- Midterm 3 grades have been released!
+- Project 4: Artifacts are due today. If your artifact is a physical medium, please submit a photo of it to the Gradescope assignment.
+- **Project 4 Presentations** will take place during lab on **Monday, 11/16, and Tuesday, 11/17**. You are **required to attend the entire first hour of your assigned presentation lab section**. If your presentation is scheduled outside of your regular lab section, you do not need to attend your regular lab for that day.
+- If you have not had your Project 5 Proposal meeting, please make a private Ed post and staff will follow up. 
   
 **Instructor:** <a href="https://people.eecs.berkeley.edu/~ddgarcia/">Teaching Professor Dan Garcia</a>  
 **Instructor’s OH:** Monday @ 2-3 PM in Gateway B1040 Bear  
