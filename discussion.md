@@ -136,7 +136,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
       <td>Week 12</td>
       <td>Fri 11/13</td>
       <td>Disc 12. Data Structures in Python + Concurrency</td>
-      <td>Worksheet 12</td>
+      <td><a href="https://docs.google.com/document/d/1uM4eGuvgiF7FrsKwCkMrpbkFraqvuPoA/edit?usp=sharing&ouid=108241901646567491558&rtpof=true&sd=true">Worksheet 12</a></td>
       <td>Solutions 12</td>
       <td>-</td>
     </tr>

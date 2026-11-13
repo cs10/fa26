@@ -855,7 +855,7 @@ Snap! Demos:
         (Video)<br/>
       </td>
       <td></td>
-      <td> Disc 12: Data Structures in Python + Concurrency </td>
+      <td> <a href="https://docs.google.com/document/d/1uM4eGuvgiF7FrsKwCkMrpbkFraqvuPoA/edit?usp=sharing&ouid=108241901646567491558&rtpof=true&sd=true">Disc 12: Data Structures in Python + Concurrency</a> </td>
       <td><b>Final Project Meetings</b><br/><b>Proj 4 Artifact Due</b></td>
     </tr>
   </tbody>
