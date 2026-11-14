@@ -14,7 +14,7 @@ submission_files:
 - [Presentation Sign-Up (Group Signup)](https://docs.google.com/spreadsheets/d/1_rbvDbv2MwlEOg68M62D5we7KEgPL8Md_igqN2zgBCE/edit?usp=sharing) Due: Friday, 11/13
 - **Part 3a: Presentation** on Monday 11/16 (801L) or Tuesday 11/17 (802L) during your Lab, in person.
     - Missed or can't make your presentation? You can make it up by Friday, 11/20. See [Part 3a](#part-3a-group-presentation) below.
-- **Part 3b: Peer Comments** open Monday, 11/16 and are due Friday, 11/20 at 11:59 PM on EdStem (link TBD)
+- **Part 3b: Peer Comments** open Monday, 11/16 and are due Friday, 11/20 at 11:59 PM on EdStem (link for [Monday](https://edstem.org/us/courses/102681/discussion/8518295), link for [Tuesday](https://edstem.org/us/courses/102681/discussion/8518299))
     - If you made up your presentation at OH, see [Part 3b](#part-3b-peer-comments) for what to do instead.
       
 <!-- > Any important updates or clarifications will be made here. -->
@@ -51,7 +51,7 @@ This is a solo project! There are no partners for this project.
 | Part 1: Research Document | Gradescope | Wednesday 10/28 @11:59 PM |
 | Part 2: Artifact Submission + Presentation Sign-Up | Gradescope + Google Sheet | Friday 11/13 @11:59 PM |
 | Part 3a: Presentation | In Person in Lab | Monday 11/16 (801L) or Tuesday 11/17 (802L) |
-| Part 3b: Peer Comments | EdStem (link TBD) | Opens Monday 11/16, due Friday 11/20 @11:59 PM |
+| Part 3b: Peer Comments | EdStem | Opens Monday 11/16, due Friday 11/20 @11:59 PM |
 
 ## Choosing your Topic Content
 
@@ -169,11 +169,11 @@ Be ready to answer follow-up questions related to your project, process, and top
 
 ## Part 3b: Peer Comments
 
-You will write comments on two members of your group after the presentations. Comments open on **Monday, 11/16** and are due **Friday, 11/20 at 11:59 PM** on EdStem (link TBD).
+You will write comments on two members of your group after the presentations. Comments open on **Monday, 11/16** and are due **Friday, 11/20 at 11:59 PM** on EdStem.
 
 ### Comments
 - Guidelines & Submission
-    - Post your comments on the EdStem thread (link TBD).
+    - Post your comments on the EdStem thread (link for [Monday](https://edstem.org/us/courses/102681/discussion/8518295), link for [Tuesday](https://edstem.org/us/courses/102681/discussion/8518299))
     - Your response should be a short reflection based on two presentations you participated in.
     - You can write about something new you learned, something that stood out to you or you found surprising, or how the project relates to your prior knowledge about the subject, how the topic of the project connects with your topic, etc.
     - Your comments should include at least one question about the topic.
@@ -182,7 +182,7 @@ You will write comments on two members of your group after the presentations. Co
 
 ### If You Made Up Your Presentation at OH
 - Since you won't have a group to comment on, you will earn your Part 3b credit by watching two separate [TED Talks on technology](https://www.ted.com/topics/technology) of your choice and writing a meaningful comment on each.
-- Include a link to each talk when you post your comments on EdStem (link TBD) by Friday, 11/20 at 11:59 PM.
+- Include a link to each talk when you post your comments on [EdStem](https://edstem.org/us/courses/102681/discussion/8518310) by Friday, 11/20 at 11:59 PM.
 
 <!--
 ### Peer Feeback Slips
@@ -242,6 +242,6 @@ Project 4 will be graded for coherence and content based on the following rubric
 ## Submission
 - You’ll upload your Research Document (Part 1) and Artifact (Part 2) to Gradescope.
 - Sign up for your presentation slot on the Google Sheet by Friday, 11/13 (see Part 3a).
-- Post your Part 3b peer comments on EdStem (link TBD) by Friday, 11/20 at 11:59 PM.
+- Post your Part 3b peer comments on EdStem by Friday, 11/20 at 11:59 PM.
 - The Artifact must be uploaded in a single upload. Multiple photo uploads will not be accepted. If necessary, they should be compressed into a single file (PDF)
 - For video submissions we encourage attaching an unlisted YouTube Link or a Google Drive link
