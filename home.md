@@ -22,7 +22,8 @@ UC Berkeley, Fall 2026
 </div>
 
 ## Announcements:  Monday, November 16
-- **Project 4 Presentations** will take place during lab on **Monday, 11/16, and Tuesday, 11/17**. You are **required to attend the entire hour of your assigned presentation lab section**, not just the 10-minute time slot you signed up for. If your presentation is scheduled outside of your regular lab section, you do not need to attend your regular lab for that day.
+- **Project 4 Presentations** will take place during lab on **Monday, 11/16, and Tuesday, 11/17**. You are **required to be present for all of your group's presentation times**, not just the 10-minute time slot you signed up for. If your presentation is scheduled outside of your regular lab section, you do not need to attend your regular lab for that day.
+  - We have made adjustments to today's presentation time slots to increase the group size to 6 presenters per group. Please view the changes <a hef="https://docs.google.com/spreadsheets/d/1_rbvDbv2MwlEOg68M62D5we7KEgPL8Md_igqN2zgBCE/edit?gid=0#gid=0">here</a>.  
 - Postterm 1 will be released this Friday, 11/20, at 5 PM and will remain open until Sunday, 11/22, at 11:59 PM.
   
 **Instructor:** <a href="https://people.eecs.berkeley.edu/~ddgarcia/">Teaching Professor Dan Garcia</a>  
