@@ -908,7 +908,7 @@ Snap! Demos:
         Lec 23. Ethics in AI<br/>
         (Video) <a href="https://drive.google.com/file/d/1ibFKElf1ZtS0ChdCMIzwRbRhLODp7A3x/view?usp=drive_link">(Slides)</a>
       </td>
-      <td rowspan="2"> Practice Postterm <br/> </td>
+      <td rowspan="2"> Practice Postterm <br/> <a href="https://us.prairielearn.com/pl/course_instance/219932/assessment/2698233">(No Snap!, No Python!)</a> <a href="https://us.prairielearn.com/pl/course_instance/219932/assessment/2698234">(With Snap!, With Python!)</a></td>
       <td></td>
       <td></td>
     </tr>
