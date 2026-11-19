@@ -168,7 +168,7 @@ This is worth **30 points (half of your Project 5 grade)**. Make sure that all g
  
 ## Rubric & Grading
 
-Project 5 is worth 60 points, graded for style and technical correctness. 
+Project 5 is worth 60 points: the oral exam (30 pts), the project proposal (5 pts), the README (5 pts), features and technical requirements (15 pts), style (2.5 pts), and the demo video (2.5 pts).
 <!-- After you get your grades, you may submit regrade requests via Gradescope. -->
 
 Please don't forget to add your partner(s) to the submissions! [How to add a partner to Gradescope.](/fa26/assets/images/p6/p6-1.png)
@@ -179,6 +179,7 @@ Please don't forget to add your partner(s) to the submissions! [How to add a par
 
 | Oral Exam | (30 pts) |
 | -------- | ------- |
+| +30 | Demonstrates understanding of the project code during the oral exam |
 
 | README | (5 pts) |
 | -------- | ------- |
