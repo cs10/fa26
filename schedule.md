@@ -961,7 +961,7 @@ Snap! Demos:
         Lec 24. Python III - Game Theory<br/>
         (Video) <a href="https://drive.google.com/file/d/1_cZHoz-5i-RRs2v79vaV03udf6RiFc6o/view?usp=drive_link">(Slides)</a> <a href="https://drive.google.com/drive/folders/1KXd2GFMpbSLP6bXdz4sA8WpNdJL5C01I?usp=sharing">(Code)</a>
       </td>
-      <td rowspan="2"> Lab 20. Linear Recursion in Python <br/> </td>
+      <td rowspan="2"> Lab 18. Linear Recursion in Python <br/> </td>
       <td></td>
       <td></td>
     </tr>
@@ -1016,7 +1016,7 @@ Snap! Demos:
         Lec 25. Alumni Panel<br/>
         (Video) (Slides)
       </td>
-      <td rowspan="2"> Lab 21 OPTIONAL. Snap + Python Libraries <br/> </td>
+      <td rowspan="2"> Lab 19. OPTIONAL. Snap + Python Libraries <br/> </td>
       <td></td>
       <td></td>
     </tr>
