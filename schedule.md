@@ -921,7 +921,7 @@ Snap! Demos:
     <tr>
       <th>Fri 11/20</th>
       <td>
-        Talk 13. POSTTERM 1 PREVIEW<br/>
+        No Class (Lecture Cancelled)<br/>
         (Video)<br/>
       </td>
       <td></td>
