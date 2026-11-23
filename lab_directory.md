@@ -43,6 +43,6 @@ Lab Slides: <a href="https://drive.google.com/drive/folders/1QviClM8HHk_4ARff5us
 | Project Party / OH (Optional) | Thu 11/12 |
 | Project 4 Presentations | Mon 11/16 & Tue 11/17 |
 | Practice Postterm [(No Snap! No Python)](https://us.prairielearn.com/pl/course_instance/219932/assessment/2698233) [(With Snap! With Python)](https://us.prairielearn.com/pl/course_instance/219932/assessment/2698234) | Wed 11/18 & Thu 11/19 |
-| Lab 18: Linear Recursion in Python | Mon 11/23 & Tue 11/24 |
+| [Lab 18: Linear Recursion in Python](/fa26/labs/lab18) | Mon 11/23 & Tue 11/24 |
 | Lab 19: Snap + Python Libraries (Optional) | Mon 11/30 & Tue 12/1 |
 | Project Work Session (Optional) | Wed 12/2 & Thu 12/3 |
