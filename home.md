@@ -21,9 +21,9 @@ UC Berkeley, Fall 2026
 
 </div>
 
-## Announcements:  Friday, November 20
-- Today's lecture is cancelled (<a href="https://edstem.org/us/courses/102681/discussion/8539857">#578</a>). We will be reviewing the coding portion of the Practice Postterm during today's discussion.
-- Postterm 1 will be released this Friday, 11/20, at 5 PM and will remain open until Sunday, 11/22, at 11:59 PM.
+## Announcements:  Monday, November 23
+- Congratulations on finishing Postterm 1! Scores will be released soon.
+- Postterm 2 will be released next Friday, 12/4
   
 **Instructor:** <a href="https://people.eecs.berkeley.edu/~ddgarcia/">Teaching Professor Dan Garcia</a>  
 **Instructor’s OH:** Monday @ 2-3 PM in Gateway B1040 Bear  
