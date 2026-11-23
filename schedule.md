@@ -961,7 +961,7 @@ Snap! Demos:
         Lec 24. Python III - Game Theory<br/>
         (Video) <a href="https://drive.google.com/file/d/1_cZHoz-5i-RRs2v79vaV03udf6RiFc6o/view?usp=drive_link">(Slides)</a> <a href="https://drive.google.com/drive/folders/1KXd2GFMpbSLP6bXdz4sA8WpNdJL5C01I?usp=sharing">(Code)</a>
       </td>
-      <td rowspan="2"> Lab 18. Linear Recursion in Python <br/> </td>
+      <td rowspan="2"> <a href="https://cs10.org/fa26/labs/lab18/">Lab 18. Linear Recursion in Python</a> <br/> </td>
       <td></td>
       <td></td>
     </tr>
