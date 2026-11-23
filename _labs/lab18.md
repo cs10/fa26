@@ -1,7 +1,7 @@
 ---
 title: "Lab 18"
 description: "Linear Recursion in Python"
-due: "Thursday, April 23rd, 11:59PM"
+due: "Tuesday, December 1st, 11:59PM"
 gradescope_assignment_id:
 submission_files:
 ---
